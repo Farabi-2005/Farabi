@@ -68,7 +68,7 @@ http://172.20.2.5:8082/GaanBangla/index.m3u8
 http://172.20.2.5:8082/MohonaTV/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=mohona+tv+logo&oq=mohona+tv+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABNIBCDUxODJqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=YZPc7Us6p9tQnM&vssid=mosaic” group-title=”Bangla”, My tv
 http://172.20.2.5:8082/MyTV/index.m3u8
-#EXTINF:-1 tvg-logo=”https://www.google.com/search?q=nagorik+tv+logo&oq=nagorik+tv+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDINCAIQABiGAxiABBiKBTINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBdIBCDI2NjlqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=0JLuDsJ-18cqJM&vssid=mosaic” group-title=”Bangla”, Nagorik Tv
+#EXTINF:-1 group-title=”Bangla”, Nagorik Tv
 http://172.20.2.5:8082/Nagorik-TV/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=anondo+tv+logo&oq=anondo+tv+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMg0IAhAAGIYDGIAEGIoFMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoF0gEINTEyMmowajeoAgCwAgA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=mRCBtlPflcXfvM&vssid=mosaic” group-title=”Bangla”, Anondo Tv
 http://172.20.2.5:8082/anandotv/index.m3u8
