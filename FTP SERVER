@@ -16,6 +16,8 @@ http://172.20.2.5:8082/Jalshamovies/index.m3u8
 http://172.20.2.5:8082/DBC-NEWS/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Bijoy Tv
 http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+#EXTINF:-1 group-title=”Bangla”,Bangla Tv
+http://cdn01.palki.tv/live/BanglaTV-M/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=ekattor+tv+logo&oq=ekattor+tv+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQABhDGIAEGIoFMggIAhAAGBYYHjIICAMQABgWGB7SAQgyODA5ajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=hxq4ZspRVhWiOM&vssid=mosaic” group-title=”Bangla”, Ekattor tv
 http://172.20.2.5:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=atns+news+logo&oq=atns+news+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgsIBRAAGAoYDRiABDIJCAYQABgNGIAEMgkIBxAAGA0YgAQyCQgIEAAYDRiABDIJCAkQABgNGIAEMgkIChAAGA0YgAQyCQgLEAAYDRiABDIJCAwQABgNGIAEMgkIDRAAGA0YgAQyCQgOEAAYDRiABNIBCDI0NjZqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#imgrc=JAOkG1wmsf1swM&imgdii=UMpvqPtGHkzbaM” group-title=”Bangla”, ATN NEWS
