@@ -102,3 +102,5 @@ http://172.20.2.5:8082/Ten1/index.m3u8
 http://172.20.2.5:8082/Ten2/index.m3u8
 #EXTINF:-1 group-title="Sports",Sony Ten 3 Hd
 http://172.20.2.5:8082/Ten3/index.m3u8
+EXTINF:-1 group-title=”Bangla”,Somoy Tv(Toffee)
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/somoy_tv_576/somoy_tv_576.m3u8
