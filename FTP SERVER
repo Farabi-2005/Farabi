@@ -96,8 +96,8 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title=”India”,Star Gold Select HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
-#EXTINF:-1 group-title=”India”,Star Plus
-http://148.113.5.31:8106/play/a00i/index.m3u8
+#EXTINF:-1 group-title=”India”,Star Bharat HD
+http://tv.cloudcdn.me/live.ts?channelId=195&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 group-title=”India”,Star Plus HD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=8a1200bb25fe336c&q=zee+cinema+Hd+logo&uds=AMwkrPv_vBPOKBIuS4xkBFysyBw_x34cF4muD6u6RPakRmjry2QvObvaQJ-_FkR6J-6lH6axygyUSO-_9e1lO5vSUec9zmGwnEe7eqdaM5OALFTye78xes9euG_pEGQbTF_n5XjoTb4LhCG33iXHe5bNfclEZNKX-hu8ZCo7qIkyYLPHXvgYxtBJX9pUuJQulAloLvuV-kLkBypllWXRAtD_XNPL75nw--aV76FgG7ZNJCTK0iQpCq6GPEuOtDmJTTi3UTL9UBlRSpfYflqiqQ3qp2T0ABUHqwFgg3Qcv7vVZrOeEINe_5I&udm=2&prmd=ivnsmbz&sa=X&ved=2ahUKEwik6_WS5OmEAxVHg2MGHVcwB3AQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=d0fOJIy6lgmi0M&vssid=mosaic” group-title=”India”, Zee Cinema HD
@@ -130,8 +130,6 @@ http://195.26.87.217/live.ts?channelId=251&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 group-title=”CARTOON”,Sony Yay (Hindi)
 http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=156089&extension=ts
-#EXTINF:-1 group-title=”CARTOON”,Sony Yay (Bangla)
-https://edge4.bioscopelive.com/hls/anonymous/fQ6a_bcJd4SiDCpoUpYHHQ/1710185315/live-sony-yay-sd.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://xtv.ooo:8080/live/T4S00515/820172/167575.ts
 #EXTINF:-1 group-title="Sports",Star Sports 2 HD
