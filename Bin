@@ -60,6 +60,8 @@ http://172.20.2.5:8082/Sony-Max/index.m3u8
 http://172.20.2.5:8082/colorsindia/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=8a1200bb25fe336c&q=sony+entertainment+logo&uds=AMwkrPuKiz3kd7jHuta4ar-HNLVtQG3GTtNPpouE20DnELI-1bZMcqg1PxDyIjDHGGp21DPoC9YHqQepP1cHSyQSvDrghLPuK1KU8cjj_GIgXZ-7kAFWs2TnkYdVlpkJ1Jr2OG5NHX7sRyKHj9_ZMhMHDb94hJsrS4CZsPcpjk2WRPBE3LnhTHvmEx3iBPpjFwiu0lp1uShOTO8ZnSnZyEArVHwesS0ce_S-iJi6pfBlnxju0TSQUls_fEbJvNTwwfDeQotvP_CTgiDk3zJeP7fqAPv5tOEy0A4LhnROfWVh9SJX2MZuLZa7kTK5RAf9UFbYmzAE0KhL&udm=2&prmd=ivnsbmz&sa=X&ved=2ahUKEwiSiM6r4-mEAxXg-aACHXSgAfsQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=qz189TCkVtqwtM&vssid=mosaic” group-title=”India”, Sony Tv
 http://172.20.2.5:8082/SonyTVHD/index.m3u8
+#EXTINF:-1 group-title="India",Sony Pix HD
+http://172.20.2.5:8082/SonyPix/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Star+gold+logo&oq=Star+gold+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB4yCAgKEAAYFhgeMggICxAAGBYYHjIICAwQABgWGB4yCAgNEAAYFhgeMggIDhAAGBYYHtIBCDI3ODNqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=d9Yz1HL3Ttt5LM&vssid=mosaic” group-title=”Bangla”, Star Gold
 http://172.20.2.5:8082/StarGold/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=8a1200bb25fe336c&q=zee+cinema+Hd+logo&uds=AMwkrPv_vBPOKBIuS4xkBFysyBw_x34cF4muD6u6RPakRmjry2QvObvaQJ-_FkR6J-6lH6axygyUSO-_9e1lO5vSUec9zmGwnEe7eqdaM5OALFTye78xes9euG_pEGQbTF_n5XjoTb4LhCG33iXHe5bNfclEZNKX-hu8ZCo7qIkyYLPHXvgYxtBJX9pUuJQulAloLvuV-kLkBypllWXRAtD_XNPL75nw--aV76FgG7ZNJCTK0iQpCq6GPEuOtDmJTTi3UTL9UBlRSpfYflqiqQ3qp2T0ABUHqwFgg3Qcv7vVZrOeEINe_5I&udm=2&prmd=ivnsmbz&sa=X&ved=2ahUKEwik6_WS5OmEAxVHg2MGHVcwB3AQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=d0fOJIy6lgmi0M&vssid=mosaic” group-title=”India”, Zee Cinema HD
@@ -84,3 +86,19 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 #EXTINF:-1 group-title="CARTOON",Disney Channel
 http://103.131.214.129:9985/stream/channelid/952379108?ticket=F9788485A4BE9B20D5C2BB2A9C176B113D6E8AB6&profile=pass
+#EXTINF:-1 group-title="CARTOON",Discovery Kids
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD
+http://xtv.ooo:8080/live/T4S00515/820172/167575.ts
+#EXTINF:-1 group-title="Sports",Star Sports 2 HD
+http://xtv.ooo:8080/live/T4S00515/820172/167576.ts
+#EXTINF:-1 group-title="Sports",Star Sports 3 
+http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
+#EXTINF:-1 group-title="Documentary",Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 group-title="Sports"Sony Ten 1 HD
+http://172.20.2.5:8082/Ten1/index.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 2 HD
+http://172.20.2.5:8082/Ten2/index.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 3 Hd
+http://172.20.2.5:8082/Ten3/index.m3u8
