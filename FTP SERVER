@@ -25,6 +25,7 @@ http://172.20.2.5:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Masranga Tv
 http://103.151.60.214:7444/1122/video.m3u8
 #EXTINF:-1 group-title=”Bangla”,Channel 9
+
 #EXTINF:-1 group-title=”Bangla”,Nexus Tv
 http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Jamuna Tv
