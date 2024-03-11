@@ -20,6 +20,10 @@ http://172.20.2.5:8082/Ekattor-tv/index.m3u8
 http://172.20.2.5:8082/Atn-News/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=7477cf2eeab98e7f&q=somoy+tv+logo&uds=AMwkrPsN1MlSOLgNl5idn00N_G8igqzz-5ThTN5E768hp9jLHwvfYHiokXmPFUXb0R6kO3sDt_IJ7-iXinNDxWRbomw8TdbjY-77A1Z84eiCi9LXs3K4uTZLQkl8JFqAICdKwyCXn2FehX5VlQHsAtYUmbqv7cupFR5gBejt9GWm9hQMk0kqgN4GZktOB-ghri-czekBdYUq66_EjOp8Fl9FatkGBvPoBUKxbfAZbLftSltY0fhcUzP5MQnTDVn2-sx4Dy6r_MW9WphjafZpbrvL06lkGbtEQI6xg4xfy7QGr7k_azq0DEc&udm=2&prmd=ivnsbmz&sa=X&ved=2ahUKEwjKlYv9zumEAxUFcmwGHcBFDpMQtKgLegQIDRAB&biw=407&bih=766&dpr=3#imgrc=OBTgHbOx6ECC-M&imgdii=LwySyTIqO1u1tM” group-title=”Bangla”, Somoy tv
 http://172.20.2.5:8082/Somoy-TV/index.m3u8
+#EXTINF:-1 group-title=”Bangla”,Masranga Tv
+http://103.151.60.214:7444/1122/video.m3u8
+#EXTINF:-1 group-title=”Bangla”,Jamuna Tv
+http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=independent+tv+logo&oq=independent+tv+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDINCAEQABiGAxiABBiKBTINCAIQABiGAxiABBiKBTINCAMQABiGAxiABBiKBdIBCDMzNTBqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=y7slVLWhPsVkiM&vssid=mosaic” group-title=”Bangla”, Independent tv
 http://172.20.2.5:8082/Independent-Tv/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=news+24+tv&client=ms-android-xiaomi-terr1-rso2&sca_esv=7477cf2eeab98e7f&udm=2&prmd=vnismbz&source=lnms&sa=X&ved=0ahUKEwj35NzL0-mEAxVrnmMGHWjsCKkQ0pQJCCE&biw=407&bih=766&dpr=3#vhid=8IO6rYVkmnFUOM&vssid=mosaic” group-title=”Bangla”, News24 tv
@@ -102,5 +106,5 @@ http://172.20.2.5:8082/Ten1/index.m3u8
 http://172.20.2.5:8082/Ten2/index.m3u8
 #EXTINF:-1 group-title="Sports",Sony Ten 3 Hd
 http://172.20.2.5:8082/Ten3/index.m3u8
-#EXTINF:-1 group-title=”Bangla”,&pictures
+#EXTINF:-1 group-title=”Indian”,&pictures HD
 http://172.20.2.5:8082/And-Pictures/index.m3u8
