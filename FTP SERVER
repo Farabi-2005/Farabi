@@ -127,5 +127,5 @@ http://172.20.2.5:8082/Ten3/index.m3u8
 #EXTINF:-1 group-title=”Indian”,&pictures HD
 http://172.20.2.5:8082/And-Pictures/index.m3u8
 #EXTINF:-1 group-title=”CARTOON”,Disney
-https://bpprod3catchup.akamaized.net/Disney-Channel/index.m3u
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/dash/Disney_Channel-audio_94482_eng=94000-213770633.m4s
 
