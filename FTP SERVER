@@ -6,6 +6,8 @@ http://172.20.2.5:8082/Gazi-Tv/index.m3u8
 http://172.20.2.5:8082/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Sony+Aath+Logo&oq=Sony+Aath+Logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIKCAsQLhjUAhiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDYwMThqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=Y6oNzwHoPHdS-M&vssid=mosaic” group-title=”Bangla”, Sony Aath
 http://172.20.2.5:8082/Sonyaath/index.m3u8
+#EXTINF:-1 group-title=”Bangla”,Star Jalsha
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=e9d0d8661844ff44&q=star+jalsha+hd+logo&uds=AMwkrPv0_HdT1mhzZ0oybZwQ26p1v6Hrr4gu0gsrpxt6dN2CTAWRBC1-b3l2KHl2MiIg24wlW1sKKPltVMUwXnYsqkuYN4J68dnQWfq5MsKY8tGMwcMHK3K7USZoXl_PRZulrvJSu7mtsiUld4lN_wx2-j0mwCc4fZThlvA6CI6HSVTMgqpyuIsP6iGSY4i5WbHv1-gL5_hk5y4K7ICUbabr_8zBreWSGPzPfXNSWVfjceaO38rjDI1YqOhyqDuoRmg_SI3ElgQqcJ0gqDsAiLrfj2wD-8Y65wbp6L7XG4SXuuMAqRbSMHo&udm=2&prmd=ivsnmbz&sa=X&ved=2ahUKEwiOk7j9yumEAxX-n2MGHXzEDkoQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=SxuAWZwM_Jeq2M&vssid=mosaic” group-title=”Bangla”, Star Jalsha HD
 http://172.20.2.5:8082/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=e9d0d8661844ff44&q=Zee+bangla+logo&uds=AMwkrPuUJbKUxs7JuHyJaz8jErk23w1tzSCY1N_oYTwN3nbRDBUyqYO_iAsy8qucrtED-atvVA1pO899oselO2lowDjQQS7Ms0FqSIQl92HX9A0hn54DYMgUm1equrmDbfDpJgi8hIHy5ZzIxAflx5m8ssTWNIQXu4pXXFMqkzftjO1gsUI9-6NIj7rNXDu7teIsH047YtMoZh8wsqujeLD4eid7KQHTwfU5K_vlvb1un1HMjrjNlbtiV2-XXaf5iyGo9yREdhwQoHLxaFaQ7IUCwIC8no5jR7BmIBoMLwLWIvCeUihhyAE&udm=2&prmd=ivsnmbz&sa=X&ved=2ahUKEwimpdjWy-mEAxVjnmMGHf6yD48QtKgLegQIDRAB&biw=407&bih=766&dpr=3#imgrc=TNSSD0g2htUROM&imgdii=FQpgSFUTvD-dbM” group-title=”Bangla”, Zee Bangla HD
@@ -74,8 +76,10 @@ http://172.20.2.5:8082/MyTV/index.m3u8
 http://172.20.2.5:8082/Nagorik-TV/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=anondo+tv+logo&oq=anondo+tv+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMg0IAhAAGIYDGIAEGIoFMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoF0gEINTEyMmowajeoAgCwAgA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=mRCBtlPflcXfvM&vssid=mosaic” group-title=”Bangla”, Anondo Tv
 http://172.20.2.5:8082/anandotv/index.m3u8
-#EXTINF:-1 tvg-logo=”https://www.google.com/search?q=%26pictures+hd+logo&oq=%26pictures+hd+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgoIAhAAGAUYDRgeMgoIAxAAGAgYDRgeMgoIBBAAGAgYDRgeMgoIBRAAGAgYDRgeMgoIBhAAGAgYDRgeMgoIBxAAGAgYDRgeMgoICBAAGAgYDRgeMgoICRAAGAgYDRgeMgwIChAAGAgYDRgPGB4yCggLEAAYCBgNGB4yCggMEAAYCBgNGB7SAQg1OTQ2ajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=EbuyB9dyc_IGPM&vssid=mosaic” group-title=”India”, &pictures HD
+#EXTINF:-1 tvg-logo=”https://www.google.com/search?q=%26pictures+hd+logo&oq=%26pictures+hd+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgoIAhAAGAUYDRgeMgoIAxAAGAgYDRgeMgoIBBAAGAgYDRgeMgoIBRAAGAgYDRgeMgoIBhAAGAgYDRgeMgoIBxAAGAgYDRgeMgoICBAAGAgYDRgeMgoICRAAGAgYDRgeMgwIChAAGAgYDRgPGB4yCggLEAAYCBgNGB4yCggMEAAYCBgNGB7SAQg1OTQ2ajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=EbuyB9dyc_IGPM&vssid=mosaic” group-title=”India”, & Pictures HD
 http://172.20.2.5:8082/And-Pictures/index.m3u8
+#EXTINF:-1 group-title=”India”,& TV HD
+http://195.26.87.217/live.ts?channelId=140&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=8a1200bb25fe336c&q=sony+max+logo&uds=AMwkrPuIpADS0H7tmfPDmpB6vrsFtkddPpJiEd6X9gbV_hBBMeWprqey3eqnFQn7f6YAsg3LEHsMjPnnSghqY4R91_WIt8Cs32So_-FhYFrkfyEdvnZ2MBVNuiMQ1N1FxaGPZ4GwhYtC2i020Vu7llv3sDv1lrBJCRD997qALkqjk2M5kCuVTdn5nSrnHIO6W9TMEPWXaqm121taUkAsWG91hrq9G2gUIdbHz2e_Bz_ehcN5FByAUHHWNbVNUius4FZajtVfuvW0w6fa5dhDwwYgzryQwScwKHFxg8zR_D2O_eQXDB_s8vg&udm=2&prmd=ivnsbmz&sa=X&ved=2ahUKEwjuy6iT4umEAxVBzDgGHUazAWsQtKgLegQIDhAB&biw=407&bih=766&dpr=3#vhid=lMEofDHLvskyvM&vssid=mosaic” group-title=”India”, Sony Max HD
 http://172.20.2.5:8082/Sony-Max/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Colors+Hd+logo&oq=Colors+Hd+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yDQgGEAAYhgMYgAQYigUyDQgHEAAYhgMYgAQYigUyDQgIEAAYhgMYgAQYigUyDQgJEAAYhgMYgAQYigXSAQgzNTU5ajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=mOHpoH7wyPnGSM&vssid=mosaic” group-title=”india”, Colors HD
@@ -88,6 +92,8 @@ http://172.20.2.5:8082/SonyPix/index.m3u8
 http://172.20.2.5:8082/StarGold/index.m3u8
 #EXTINF:-1 group-title=”India”,Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
+#EXTINF:-1 group-title=”India”,Star Gold 2 HD
+http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title=”India”,Star Gold Select HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 group-title=”India”,Star Plus
@@ -118,6 +124,8 @@ http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 http://103.131.214.129:9985/stream/channelid/952379108?ticket=F9788485A4BE9B20D5C2BB2A9C176B113D6E8AB6&profile=pass
 #EXTINF:-1 group-title=”CARTOON”,Disney Channel (Tata Play)
 http://humiptv.live:8080/live/wasim/wasim1234/19741.ts
+#EXTINF:-1 group-title=”CARTOON”,Disney XD
+http://195.26.87.217/live.ts?channelId=251&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="CARTOON",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
