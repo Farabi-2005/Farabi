@@ -127,5 +127,4 @@ http://172.20.2.5:8082/Ten3/index.m3u8
 #EXTINF:-1 group-title=”Indian”,&pictures HD
 http://172.20.2.5:8082/And-Pictures/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Sony Yay
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_yay_160/sony_yay_160.m3u8
-
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_yay_160/sony_yay_160.m3u8?bitrate=512000&channel=sony_yay_160&gp_id=
