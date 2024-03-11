@@ -76,5 +76,5 @@ http://172.20.2.5:8082/Bbc-Earth/index.m3u8
 http://172.20.2.5:8082/nike/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=duronoto+tv+logo&oq=duronoto+tv+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBdIBCDQyNDNqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=-X2g5jSRlEf4TM&vssid=mosaic” group-title=”Bangla”, Duronto Tv
 http://172.20.2.5:8082/Duronto-Tv/index.m3u8
-#EXTINF:-1 group-title=”Bangla”, Sony Yay
-https://edge4.bioscopelive.com/hls/anonymous/IG15EPezg7DWvJQuC_F9Dg/1710131669/live-sony-yay-sd_low/index.m3u8
+#EXTINF:-1 group-title=”Bangla”, Madani Bangla
+http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
