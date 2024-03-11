@@ -126,3 +126,6 @@ http://172.20.2.5:8082/Ten2/index.m3u8
 http://172.20.2.5:8082/Ten3/index.m3u8
 #EXTINF:-1 group-title=”Indian”,&pictures HD
 http://172.20.2.5:8082/And-Pictures/index.m3u8
+#EXTINF:-1 group-title=”CARTOON”,Disney
+https://bpprod3catchup.akamaized.net/Disney-Channel/index.m3u
+
