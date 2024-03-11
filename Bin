@@ -23,6 +23,12 @@ http://172.20.2.5:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Masranga Tv
 http://103.151.60.214:7444/1122/video.m3u8
 #EXTINF:-1 group-title=”Bangla”,Channel 9
+#EXTINF:-1 group-title=”Bangla”,Nexus Tv
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+#EXTINF:-1 group-title=”Bangla”,Jamuna Tv
+http://103.151.60.214:7444/1106/video.m3u8
+#EXTINF:-1 group-title=”Bangla”,Amar Bangla Tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
 http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title=”Bangla”,Asian Tv
 http://cdn01.palki.tv/live/AsianTV-M/tracks-v1a1/mono.m3u8
