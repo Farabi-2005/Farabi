@@ -26,10 +26,17 @@ http://103.151.60.214:7444/1122/video.m3u8
 #EXTINF:-1 group-title=”Bangla”,Nexus Tv
 http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Jamuna Tv
-http://103.151.60.214:7444/1106/video.m3u8
-#EXTINF:-1 group-title=”Bangla”,Amar Bangla Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
+http://cdn01.palki.tv/live/JamunaTV-M/index.m3u8
+#EXTINF:-1 group title="Bangla"Channel 9
 http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title=”Bangla”,Global Tv
+http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
+#EXTINF:-1 group-title=”Bangla”,Jonmovumi Tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
+#EXTINF:-1 group title="Bangla",Deepto Tv
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:-1 group title="Bangla",Cumilla 24
+http://103.149.142.133/0.m3u8
 #EXTINF:-1 group-title=”Bangla”,Asian Tv
 http://cdn01.palki.tv/live/AsianTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=independent+tv+logo&oq=independent+tv+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDINCAEQABiGAxiABBiKBTINCAIQABiGAxiABBiKBTINCAMQABiGAxiABBiKBdIBCDMzNTBqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=y7slVLWhPsVkiM&vssid=mosaic” group-title=”Bangla”, Independent tv
