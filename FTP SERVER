@@ -156,5 +156,5 @@ http://172.20.2.5:8082/Ten1/index.m3u8
 http://172.20.2.5:8082/Ten2/index.m3u8
 #EXTINF:-1 group-title="Sports",Sony Ten 3 Hd
 http://172.20.2.5:8082/Ten3/index.m3u8
-#EXTINF:-1 group-title=”Bangla”,Toffee
+#EXTINF:-1 group-title=”Bangla”,Toffee server
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_yay_576/sony_yay_576.m3u8
