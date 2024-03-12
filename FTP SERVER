@@ -155,4 +155,4 @@ http://172.20.2.5:8082/Ten2/index.m3u8
 #EXTINF:-1 group-title="Sports",Sony Ten 3 Hd
 http://172.20.2.5:8082/Ten3/index.m3u8
 #EXTINF:-1 group-title="India",Star Plus SD
-https://sportspostersmall.com/api/oreo/live.php?id=63a61319&e=.m3u8
+https://sportspostersmall.com/api/tata.php?id=starplushd
