@@ -156,15 +156,6 @@ http://172.20.2.5:8082/Ten1/index.m3u8
 http://172.20.2.5:8082/Ten2/index.m3u8
 #EXTINF:-1 group-title="Sports",Sony Ten 3 HD
 http://172.20.2.5:8082/Ten3/index.m3u8
-"name": "Toffee",
-"link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8",
-"logo": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
-"origin": "https://bldcmprod-cdn.toffeelive.com",
-"referrer": "",
-"userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-"cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1710482701:KeyName=prod_linear:Signature=F43GwY8eqdOVbAIadDWVStywyLB3PUvjPX9j2MMGlgoIMfFkH9LHOt9AxALrZUwgR7mgcX4o8EjxkgeGy1JdAA",
-"drmScheme": "",
-"drmLicense": ""
 #EXTINF:-1 group-title="MOVIES",Kanchana
 http://103.222.20.150/ftpdata/Movies/Tamil/2011_2017/Kanchana%202%20(2015)/Kanchana%202%202015%20720p%20HDRip%20x264%20Tamil.mkv
 #EXTINF:-1 group-title="MOVIES",KGF Chapter 2
