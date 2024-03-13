@@ -150,7 +150,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/167576.ts
 http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
 #EXTINF:-1 group-title="Documentary",Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#EXTINF:-1 group-title="Sports",Sony Ten 1
+#EXTINF:-1 group-title="Sports",Sony Ten 1 HD
 http://172.20.2.5:8082/Ten1/index.m3u8
 #EXTINF:-1 group-title="Sports",Sony Ten 2 HD
 http://172.20.2.5:8082/Ten2/index.m3u8
