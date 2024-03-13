@@ -37,7 +37,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Nexus Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title=”Bangla”,Jamuna Tv
-http://176.119.29.52/live.ts?channelId=100&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group title="Bangla",Channel 9
 http://103.151.60.214:7444/1124/video.m3u8
 #EXTINF:-1 group-title=”Bangla”,Jonmovumi Tv
