@@ -96,7 +96,9 @@ http://172.20.2.5:8082/SonyTVHD/index.m3u8
 http://tvcdn.hoichoi24.com:8083/1701/tracks-v1a1/mono.m3u8?token=770669f6306b40b1408a035e920f5163827d8c42-5eaaf988f805bff69719a6e7f9a2bf5d-1710400964-1710397364
 #EXTINF:-1 group-title="India",Sony Pix HD
 http://172.20.2.5:8082/SonyPix/index.m3u8
-#EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Star+gold+logo&oq=Star+gold+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB4yCAgKEAAYFhgeMggICxAAGBYYHjIICAwQABgWGB4yCAgNEAAYFhgeMggIDhAAGBYYHtIBCDI3ODNqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=d9Yz1HL3Ttt5LM&vssid=mosaic” group-title=”India”, Star Gold
+#EXTINF:-1 group-title=”India”,Star Gold
+http://mag.trexlive.me/Michael88/Michael88/280766
+#EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Star+gold+logo&oq=Star+gold+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB4yCAgKEAAYFhgeMggICxAAGBYYHjIICAwQABgWGB4yCAgNEAAYFhgeMggIDhAAGBYYHtIBCDI3ODNqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=d9Yz1HL3Ttt5LM&vssid=mosaic” group-title=”India”, Star Gold Thrills
 http://172.20.2.5:8082/StarGold/index.m3u8
 #EXTINF:-1 group-title=”India”,Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
