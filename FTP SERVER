@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=9aead19d0345d1c5&q=gazi+tv+logo&uds=AMwkrPuWVcnP5T10PAVBAy3M3rMm0tJwSZUlmdepSfDyT0lh4OhAgRMXwodhaz7N4MJc1LwRJ5FjH8QYc-5Zn1sltmHjPTk19w3YojGU_w2WFtzvH1ZInqTq3tqvpOPapTm8--0HuPCVvJ10JI1JqkGDSNbTvMuca1SIyBg3nx_nMgho0uecRvZTBt6UpZUsFaTESihGSe0J24DtR_7Ck5Spje2LpBtkH1ihu1z8nDOcSqdvQy3jNmsPBwEGvuXrS0vmYvUIRdCgg1sTH907AINpuwJWb_S2jq7NAl3A7XBgSY1a6I22NyQ&udm=2&prmd=ivnsmbz&sa=X&ved=2ahUKEwjExrqAweqEAxW-n2MGHZhCAmkQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=LyOhO5Col8eIdM&vssid=mosaic” group-title=”Bangla”, GTV HD
-http://tvcdn.hoichoi24.com:8083/1102/index.m3u8?token=211c1dcc959f04ab7800a411579fcabcbc43b968-1274ce0a3fccf9a4d99a29d24ed4c958-1710403326-1710399726
+http://172.20.2.5:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=t+sports+logo&oq=t+sports+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHj” group-title=” group-title=”Bangla”, T Sports H
 http://tvcdn.hoichoi24.com:8083/1101/index.m3u8?token=b8de19dde9a23867ae15d51dd8a31bfb2d0d76e8-bd8be17816f6e0f5f9aa1f951b5965ec-1710416228-1710412628
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Sony+Aath+Logo&oq=Sony+Aath+Logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIKCAsQLhjUAhiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDYwMThqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=Y6oNzwHoPHdS-M&vssid=mosaic” group-title=”Bangla”, Sony Aath
@@ -39,7 +39,7 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title=”Bangla”,Jamuna Tv
 http://tvcdn.hoichoi24.com:8083/1106/tracks-v1a1/mono.m3u8?token=61f940c269c34b8948f681cf3a7947e86b375319-d9a2c9d46c36a2f72acc45aa46560f62-1710406289-1710402689
 #EXTINF:-1 group title="Bangla",Channel 9
-http://tvcdn.hoichoi24.com:8083/1124/tracks-v1a1/mono.m3u8?token=d7eac0b893f7e0b69d7032e638f07d10e8e241e9-22b818ff15f3518664721bff55c6aabb-1710403693-1710400093
+http://xtv.ooo:8080/live/415663775/826262627/245902.ts
 #EXTINF:-1 group-title=”Bangla”,Jonmovumi Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1 group title="Bangla",Deepto Tv
@@ -79,7 +79,7 @@ http://172.20.2.5:8082/MohonaTV/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=mohona+tv+logo&oq=mohona+tv+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABNIBCDUxODJqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=YZPc7Us6p9tQnM&vssid=mosaic” group-title=”Bangla”, My tv
 http://176.119.29.52/live.ts?channelId=106&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title=”Bangla”, Nagorik Tv
-http://tvcdn.hoichoi24.com:8083/1113/tracks-v1a1/mono.m3u8?token=35d376c3b631fed5f02222a0904c0a821f84c5f2-972d1e85ac9d10fecff173e2eda775eb-1710404630-1710401030
+http://172.20.2.5:8082/Nagorik-TV/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=anondo+tv+logo&oq=anondo+tv+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMg0IAhAAGIYDGIAEGIoFMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoF0gEINTEyMmowajeoAgCwAgA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=mRCBtlPflcXfvM&vssid=mosaic” group-title=”Bangla”, Ananda Tv
 http://xtv.ooo:8080/live/5999758908/1435799995/245929.ts
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=%26pictures+hd+logo&oq=%26pictures+hd+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgoIAhAAGAUYDRgeMgoIAxAAGAgYDRgeMgoIBBAAGAgYDRgeMgoIBRAAGAgYDRgeMgoIBhAAGAgYDRgeMgoIBxAAGAgYDRgeMgoICBAAGAgYDRgeMgoICRAAGAgYDRgeMgwIChAAGAgYDRgPGB4yCggLEAAYCBgNGB4yCggMEAAYCBgNGB7SAQg1OTQ2ajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=EbuyB9dyc_IGPM&vssid=mosaic” group-title=”India”, & Pictures HD
