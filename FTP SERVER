@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=9aead19d0345d1c5&q=gazi+tv+logo&uds=AMwkrPuWVcnP5T10PAVBAy3M3rMm0tJwSZUlmdepSfDyT0lh4OhAgRMXwodhaz7N4MJc1LwRJ5FjH8QYc-5Zn1sltmHjPTk19w3YojGU_w2WFtzvH1ZInqTq3tqvpOPapTm8--0HuPCVvJ10JI1JqkGDSNbTvMuca1SIyBg3nx_nMgho0uecRvZTBt6UpZUsFaTESihGSe0J24DtR_7Ck5Spje2LpBtkH1ihu1z8nDOcSqdvQy3jNmsPBwEGvuXrS0vmYvUIRdCgg1sTH907AINpuwJWb_S2jq7NAl3A7XBgSY1a6I22NyQ&udm=2&prmd=ivnsmbz&sa=X&ved=2ahUKEwjExrqAweqEAxW-n2MGHZhCAmkQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=LyOhO5Col8eIdM&vssid=mosaic” group-title=”Bangla”, GTV HD
-http://tvcdn.hoichoi24.com:8083/1507/index.m3u8?token=82a5cdbc2b5c0c3165b31806fea1910d4edf0b19-955f20317b6549495d943e18ad599728-1710438839-1710435239
+http://t-tvpremium.xyz:8880/sajjad30/83837473742/1311
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=t+sports+logo&oq=t+sports+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHj” group-title=” group-title=”Bangla”, T Sports HD
-http://tvcdn.hoichoi24.com:8083/1101/index.m3u8?token=68aa7382f2cb91b8295d3049175343487592d1bb-1e646c15da73cd081173695154f311a1-1710436569-1710432969
+http://t-tvpremium.xyz:8880/sajjad30/83837473742/1404
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Sony+Aath+Logo&oq=Sony+Aath+Logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIKCAsQLhjUAhiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDYwMThqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=Y6oNzwHoPHdS-M&vssid=mosaic” group-title=”Bangla”, Sony Aath
 http://172.20.2.5:8082/Sonyaath/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Akash Aath
@@ -25,7 +25,7 @@ http://172.20.2.5:8082/DBC-NEWS/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Bijoy Tv
 http://176.119.29.52/live.ts?channelId=85&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title=”Bangla”,Bangla Tv
-http://tvcdn.hoichoi24.com:8083/1116/index.m3u8?token=0780515974ecff41ab1375cbcd4fb2fc4d458c8f-74176e5eedc5ecbf73a3d8e8ffb7c912-1710434632-1710431032
+http://t-tvpremium.xyz:8880/sajjad30/83837473742/1323
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=ekattor+tv+logo&oq=ekattor+tv+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQABhDGIAEGIoFMggIAhAAGBYYHjIICAMQABgWGB7SAQgyODA5ajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=hxq4ZspRVhWiOM&vssid=mosaic” group-title=”Bangla”, Ekattor tv
 http://172.20.2.5:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=atns+news+logo&oq=atns+news+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgsIBRAAGAoYDRiABDIJCAYQABgNGIAEMgkIBxAAGA0YgAQyCQgIEAAYDRiABDIJCAkQABgNGIAEMgkIChAAGA0YgAQyCQgLEAAYDRiABDIJCAwQABgNGIAEMgkIDRAAGA0YgAQyCQgOEAAYDRiABNIBCDI0NjZqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#imgrc=JAOkG1wmsf1swM&imgdii=UMpvqPtGHkzbaM” group-title=”Bangla”, ATN NEWS
