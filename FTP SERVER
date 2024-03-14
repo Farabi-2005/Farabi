@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=9aead19d0345d1c5&q=gazi+tv+logo&uds=AMwkrPuWVcnP5T10PAVBAy3M3rMm0tJwSZUlmdepSfDyT0lh4OhAgRMXwodhaz7N4MJc1LwRJ5FjH8QYc-5Zn1sltmHjPTk19w3YojGU_w2WFtzvH1ZInqTq3tqvpOPapTm8--0HuPCVvJ10JI1JqkGDSNbTvMuca1SIyBg3nx_nMgho0uecRvZTBt6UpZUsFaTESihGSe0J24DtR_7Ck5Spje2LpBtkH1ihu1z8nDOcSqdvQy3jNmsPBwEGvuXrS0vmYvUIRdCgg1sTH907AINpuwJWb_S2jq7NAl3A7XBgSY1a6I22NyQ&udm=2&prmd=ivnsmbz&sa=X&ved=2ahUKEwjExrqAweqEAxW-n2MGHZhCAmkQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=LyOhO5Col8eIdM&vssid=mosaic” group-title=”Bangla”, GTV HD
-http://tvcdn.hoichoi24.com:8083/1102/tracks-v1a1/mono.m3u8?token=4b244eee0659dede5c434e0879635dc16eb4d6a9-57d1500cd03fac1d707199496b5dd0db-1710399342-1710395742
+http://tvcdn.hoichoi24.com:8083/1102/tracks-v1a1/mono.m3u8?token=211c1dcc959f04ab7800a411579fcabcbc43b968-1274ce0a3fccf9a4d99a29d24ed4c958-1710403326-1710399726
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=t+sports+logo&oq=t+sports+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHj” group-title=” group-title=”Bangla”, T Sports HD
-http://tvcdn.hoichoi24.com:8083/1101/tracks-v1a1/mono.m3u8?token=992dd49504f0b875686cf1480aa26fc2ddbadf11-abb8d6459842575e6356d2f065c1f963-1710399978-1710396378
+http://tvcdn.hoichoi24.com:8083/1101/tracks-v1a1/mono.m3u8?token=41a3e2bb5b0c531d2afee359cb068ff882d13bd5-1a402cfa2d8a7b1f323625a05e864dd6-1710403465-1710399865
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Sony+Aath+Logo&oq=Sony+Aath+Logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIKCAsQLhjUAhiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDYwMThqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=Y6oNzwHoPHdS-M&vssid=mosaic” group-title=”Bangla”, Sony Aath
 http://172.20.2.5:8082/Sonyaath/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Akash Aath
