@@ -125,7 +125,7 @@ http://172.20.2.5:8082/Bbc-Earth/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=nick+logo&oq=nick+logo&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAEMgcIChAAGIAEMgcICxAAGIAEMgcIDBAAGIAEMgcIDRAAGIAEMgcIDhAAGIAE0gEIMTU2NmowajeoAgCwAgA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=qorgA6oj40kC4M&vssid=mosaic” group-title=”Bangla”, NICK
 http://172.20.2.5:8082/nike/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=duronoto+tv+logo&oq=duronoto+tv+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBdIBCDQyNDNqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=-X2g5jSRlEf4TM&vssid=mosaic” group-title=”Bangla”, Duronto Tv
-http://tvcdn.hoichoi24.com:8083/1103/tracks-v1a1/mono.m3u8?token=cc21feec544be3edb899267517f98a87d0ecf84d-ecf68f800e58e63a34a7689f75930e6a-1710400503-1710396903
+http://tvcdn.hoichoi24.com:8083/1103/tracks-v1a1/mono.m3u8?token=2ef53b6b72c852610b81971477ae3c60b5899e57-5079af3b42d35823e56a6f472491ad80-1710404831-1710401231
 #EXTINF:-1 group-title=”Bangla”, Madani Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
 #EXTINF:-1 group-title="CARTOON",Pogo
