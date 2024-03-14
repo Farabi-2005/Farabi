@@ -5,7 +5,7 @@ http://tvcdn.hoichoi24.com:8083/1102/tracks-v1a1/mono.m3u8?token=4b244eee0659ded
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=t+sports+logo&oq=t+sports+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHj” group-title=” group-title=”Bangla”, T Sports HD
 http://tvcdn.hoichoi24.com:8083/1101/tracks-v1a1/mono.m3u8?token=992dd49504f0b875686cf1480aa26fc2ddbadf11-abb8d6459842575e6356d2f065c1f963-1710399978-1710396378
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Sony+Aath+Logo&oq=Sony+Aath+Logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIKCAsQLhjUAhiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDYwMThqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=Y6oNzwHoPHdS-M&vssid=mosaic” group-title=”Bangla”, Sony Aath
-http://tvcdn.hoichoi24.com:8083/1409/tracks-v1a1/mono.m3u8?token=9da73f40c8c592ec37d002b447252b012b7cd0ae-9d90d98b5e00d7c4bf770c6d7572f328-1710400407-1710396807
+http://172.20.2.5:8082/Sonyaath/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Akash Aath
 http://195.26.87.217/live.ts?channelId=79&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title=”Bangla”,Sun Bangla
