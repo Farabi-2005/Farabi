@@ -37,7 +37,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Nexus Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title=”Bangla”,Jamuna Tv
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+http://tvcdn.hoichoi24.com:8083/1106/tracks-v1a1/mono.m3u8?token=00cb50bbc6d2787858fa3078788b46daef10bb4f-ab1dd95d0a548a11b6bfd6983c68e094-1710401944-1710398344
 #EXTINF:-1 group title="Bangla",Channel 9
 http://tvcdn.hoichoi24.com:8083/1124/tracks-v1a1/mono.m3u8?token=2a06f1146f1e9b85c54ec2a7bd7eb0ace01fd68d-808c3f258c9d348fa493ae31310ac07f-1710399912-1710396312
 #EXTINF:-1 group-title=”Bangla”,Jonmovumi Tv
