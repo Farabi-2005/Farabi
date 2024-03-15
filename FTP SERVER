@@ -124,6 +124,8 @@ http://172.20.2.5:8082/Zee-Hd/index.m3u8
 http://172.20.2.5:8082/Discovery-Tv/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=national+geographic+logo&oq=national+geographic+&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIGCAAQRRg5MgwIARAAGEMYgAQYigUyDwgCEAAYQxixAxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyDQgJEC4YxwEY0QMYgAQyBwgKEAAYgAQyBwgLEAAYgAQyBwgMEC4YgAQyBwgNEAAYgAQyBwgOEAAYgATSAQg3MDA4ajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=pOYKJ40dI2kBtM&vssid=mosaic” group-title=”Entertainment”, National Geographic
 http://172.20.2.5:8082/Nat-Geo/index.m3u8
+#EXTINF:-1 group-title=”Entertainment”,Nat Geo Wild HD
+http://xtv.ooo:8080/live/Farabi43/646446/109976.ts
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Sony+bbc+earth+logo&oq=Sony+bbc+earth+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yCAgCEAAYFhge0gEINDk0NmowajeoAgCwAgA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=6M-kX57MMgXhWM&vssid=mosaic” group-title=”English”, Sony BBC Earth
 http://172.20.2.5:8082/Bbc-Earth/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=nick+logo&oq=nick+logo&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAEMgcIChAAGIAEMgcICxAAGIAEMgcIDBAAGIAEMgcIDRAAGIAEMgcIDhAAGIAE0gEIMTU2NmowajeoAgCwAgA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=qorgA6oj40kC4M&vssid=mosaic” group-title=”Bangla”, NICK
@@ -141,7 +143,7 @@ http://t-tvpremium.xyz:8880/sajjad30/83837473742/14394
 #EXTINF:-1 group-title=”CARTOON”,Disney Channel
 http://xtv.ooo:8080/live/Farabi43/646446/167551.ts
 #EXTINF:-1 group-title=”CARTOON”,Disney XD
-http://195.26.87.217/live.ts?channelId=251&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://xtv.ooo:8080/live/Farabi43/646446/348868.ts
 #EXTINF:-1 group-title="CARTOON",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 group-title=”CARTOON”,Sony Yay (Hindi)
