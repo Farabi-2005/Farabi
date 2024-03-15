@@ -27,7 +27,7 @@ http://172.20.2.5:8082/DBC-NEWS/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Bijoy Tv
 http://176.119.29.52/live.ts?channelId=85&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title=”Bangla”,Bangla Tv
-http://xtv.ooo:8080/live/Farabi43/646446/245910.ts
+https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=ekattor+tv+logo&oq=ekattor+tv+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQABhDGIAEGIoFMggIAhAAGBYYHjIICAMQABgWGB7SAQgyODA5ajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=hxq4ZspRVhWiOM&vssid=mosaic” group-title=”Bangla”, Ekattor tv
 http://172.20.2.5:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=atns+news+logo&oq=atns+news+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgsIBRAAGAoYDRiABDIJCAYQABgNGIAEMgkIBxAAGA0YgAQyCQgIEAAYDRiABDIJCAkQABgNGIAEMgkIChAAGA0YgAQyCQgLEAAYDRiABDIJCAwQABgNGIAEMgkIDRAAGA0YgAQyCQgOEAAYDRiABNIBCDI0NjZqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#imgrc=JAOkG1wmsf1swM&imgdii=UMpvqPtGHkzbaM” group-title=”Bangla”, ATN NEWS
@@ -37,7 +37,7 @@ http://172.20.2.5:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Masranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Nexus Tv
-http://xtv.ooo:8080/live/Farabi43/646446/245949.ts
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title=”Bangla”,Jamuna Tv
 http://t-tvpremium.xyz:8880/sajjad30/83837473742/1332
 #EXTINF:-1 group title="Bangla",Channel 9
@@ -56,7 +56,7 @@ http://172.20.2.5:8082/Independent-Tv/index.m3u8
 http://172.20.2.5:8082/News24bd/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=channel+24+logo&oq=channel+24+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yDQgJEAAYhgMYgAQYigUyDQgKEAAYhgMYgAQYigUyDQgLEAAYhgMYgAQYigXSAQgzMTcwajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=LuEG4Xiy77O-AM&vssid=mosaic” group-title=”Bangla”, Channel 24
 http://172.20.2.5:8082/Channel24/index.m3u8
-#EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=7477cf2eeab98e7f&q=channel+i+logo&uds=AMwkrPslNS4yrygMJxTIXQocMu6VFVzbdTcXeUoje2q80PDzReJRUopWUfvjhqGsiYN3C32MI1ENMwQK9uZisVX-y7TfAoO7fcsWdmBIHv5dMqa2Ucrc_mGrMczMXxk3RsdvJmEAw2sj1IFnz6EzWRs9yAV8pFJ8MJP8oG5KB4KCKyymWfYKvCiFetcDWkH3zarSlst4Ovp64Dtgd8wvyJtY_1xm6CQR_DZY2O4A_m1U4t2ICYiP5lixtUbLKvQhsn7buhCOs1exfqrFFL1WRN2PWEDA52aOTtCRfTXtpsK7MWjAPLiRxoQ&udm=2&prmd=ivsnmbz&sa=X&ved=2ahUKEwiVtazz1emEAxWS9zgGHarjAqIQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=yTdNEGcJd3GVXM&vssid=mosaic” group-title=”Bangla”, Channel I
+#EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=7477cf2eeab98e7f&q=channel+i+logo&uds=AMwkrPslNS4yrygMJxTIXQocMu6VFVzbdTcXeUoje2q80PDzReJRUopWUfvjhqGsiYN3C32MI1ENMwQK9uZisVX-y7TfAoO7fcsWdmBIHv5dMqa2Ucrc_mGrdvJmEAw2sj1IFnz6EzWRs9yAV8pFJ8MJP8oG5KB4KCKyymWfYKvCiFetcDWkH3zarSlst4Ovp64Dtgd8wvyJtY_1xm6CQR_DZY2O4A_m1U4t2ICYiP5lixtUbLKvQhsn7buhCOs1exfqrFFL1WRN2PWEDA52aOTtCRfTXtpsK7MWjAPLiRxoQ&udm=2&prmd=ivsnmbz&sa=X&ved=2ahUKEwiVtazz1emEAxWS9zgGHarjAqIQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=yTdNEGcJd3GVXM&vssid=mosaic” group-title=”Bangla”, Channel I
 http://172.20.2.5:8082/Channel-i/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=eksuheytv+logo&oq=eksuheytv+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMg0IAhAAGIYDGIAEGIoF0gEIMjI5NWowajeoAgCwAgA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=peJk0z7xkGtuqM&vssid=mosaic” group-title=”Bangla”, Ekushey Tv
 http://172.20.2.5:8082/Ekushey-TV/index.m3u8
@@ -78,8 +78,6 @@ http://195.26.87.217/live.ts?channelId=36290&uid=7435&deviceMac=00:1A:79:51:4B:3
 http://172.20.2.5:8082/GaanBangla/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=mohona+tv+logo&oq=mohona+tv+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABNIBCDUxODJqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=YZPc7Us6p9tQnM&vssid=mosaic” group-title=”Bangla”, Mohona Tv
 http://172.20.2.5:8082/MohonaTV/index.m3u8
-#EXTINF:-1 tvg-logo=”https://www.google.com/search?q=mohona+tv+logo&oq=mohona+tv+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABNIBCDUxODJqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=YZPc7Us6p9tQnM&vssid=mosaic” group-title=”Bangla”, My tv
-http://176.119.29.52/live.ts?channelId=106&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title=”Bangla”, Nagorik Tv
 http://startv365.com/9794783213/6955630461/400200127
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=anondo+tv+logo&oq=anondo+tv+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMg0IAhAAGIYDGIAEGIoFMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoF0gEINTEyMmowajeoAgCwAgA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=mRCBtlPflcXfvM&vssid=mosaic” group-title=”Bangla”, Ananda Tv
@@ -97,7 +95,7 @@ http://xtv.ooo:8080/live/Farabi43/646446/109947.ts
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=8a1200bb25fe336c&q=sony+entertainment+logo&uds=AMwkrPuKiz3kd7jHuta4ar-HNLVtQG3GTtNPpouE20DnELI-1bZMcqg1PxDyIjDHGGp21DPoC9YHqQepP1cHSyQSvDrghLPuK1KU8cjj_GIgXZ-7kAFWs2TnkYdVlpkJ1Jr2OG5NHX7sRyKHj9_ZMhMHDb94hJsrS4CZsPcpjk2WRPBE3LnhTHvmEx3iBPpjFwiu0lp1uShOTO8ZnSnZyEArVHwesS0ce_S-iJi6pfBlnxju0TSQUls_fEbJvNTwwfDeQotvP_CTgiDk3zJeP7fqAPv5tOEy0A4LhnROfWVh9SJX2MZuLZa7kTK5RAf9UFbYmzAE0KhL&udm=2&prmd=ivnsbmz&sa=X&ved=2ahUKEwiSiM6r4-mEAxXg-aACHXSgAfsQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=qz189TCkVtqwtM&vssid=mosaic” group-title=”India”, Sony Tv
 http://172.20.2.5:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Sony Sab HD
-http://xtv.ooo:8080/live/Farabi43/646446/109953.ts
+http://mag.trexlive.me/Michael88/Michael88/156014
 #EXTINF:-1 group-title="India",Sony Pix HD
 http://172.20.2.5:8082/SonyPix/index.m3u8
 #EXTINF:-1 group-title=”India”,Star Gold
@@ -113,11 +111,11 @@ http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/236941.ts
 #EXTINF:-1 group-title=”India”,Star Gold Select HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 group-title=”India”,Star Bharat HD
-http://xtv.ooo:8080/live/Farabi43/646446/109951.ts
+http://mag.trexlive.me/Michael88/Michael88/945579
 #EXTINF:-1 group-title=”India”,Star Plus
 http://103.120.172.74:1120/
 #EXTINF:-1 group-title=”India”,Star Plus HD
-http://xtv.ooo:8080/live/Farabi43/646446/66208.ts
+http://xtv.ooo:8080/shahz18/18usman/109949
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=8a1200bb25fe336c&q=zee+cinema+Hd+logo&uds=AMwkrPv_vBPOKBIuS4xkBFysyBw_x34cF4muD6u6RPakRmjry2QvObvaQJ-_FkR6J-6lH6axygyUSO-_9e1lO5vSUec9zmGwnEe7eqdaM5OALFTye78xes9euG_pEGQbTF_n5XjoTb4LhCG33iXHe5bNfclEZNKX-hu8ZCo7qIkyYLPHXvgYxtBJX9pUuJQulAloLvuV-kLkBypllWXRAtD_XNPL75nw--aV76FgG7ZNJCTK0iQpCq6GPEuOtDmJTTi3UTL9UBlRSpfYflqiqQ3qp2T0ABUHqwFgg3Qcv7vVZrOeEINe_5I&udm=2&prmd=ivnsmbz&sa=X&ved=2ahUKEwik6_WS5OmEAxVHg2MGHVcwB3AQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=d0fOJIy6lgmi0M&vssid=mosaic” group-title=”India”, Zee Cinema HD
 http://172.20.2.5:8082/ZeeCinemaHD/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=zee+tv+hd+logo&oq=zee+tv+hd+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyDwgDEC4YQxixAxiABBiKBTISCAQQABhDGIMBGLEDGIAEGIoFMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIMCAcQABhDGIAEGIoFMgwICBAAGEMYgAQYigUyDAgJEAAYQxiABBiKBTIMCAoQABhDGIAEGIoFMgwICxAAGEMYgAQYigUyBwgMEAAYgAQyBwgNEAAYgAQyBwgOEAAYgATSAQgyOTIwajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=v9l-qySOi5tvZM&vssid=mosaic” group-title=”india”, Zee Tv HD
@@ -126,8 +124,8 @@ http://172.20.2.5:8082/Zee-Hd/index.m3u8
 http://172.20.2.5:8082/Discovery-Tv/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=national+geographic+logo&oq=national+geographic+&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIGCAAQRRg5MgwIARAAGEMYgAQYigUyDwgCEAAYQxixAxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyDQgJEC4YxwEY0QMYgAQyBwgKEAAYgAQyBwgLEAAYgAQyBwgMEC4YgAQyBwgNEAAYgAQyBwgOEAAYgATSAQg3MDA4ajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=pOYKJ40dI2kBtM&vssid=mosaic” group-title=”Entertainment”, National Geographic
 http://172.20.2.5:8082/Nat-Geo/index.m3u8
-#EXTINF:-1 group-title=”Entertainment”,Nat Geo Wild HD
-http://xtv.ooo:8080/live/Farabi43/646446/109976.ts
+#EXTINF:-1 group-title=”Entertainment”,National geographic HD
+http://t-tvpremium.xyz:8880/live/sajjad30/83837473742/1512.ts
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Sony+bbc+earth+logo&oq=Sony+bbc+earth+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yCAgCEAAYFhge0gEINDk0NmowajeoAgCwAgA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=6M-kX57MMgXhWM&vssid=mosaic” group-title=”English”, Sony BBC Earth
 http://172.20.2.5:8082/Bbc-Earth/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=nick+logo&oq=nick+logo&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAEMgcIChAAGIAEMgcICxAAGIAEMgcIDBAAGIAEMgcIDRAAGIAEMgcIDhAAGIAE0gEIMTU2NmowajeoAgCwAgA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=qorgA6oj40kC4M&vssid=mosaic” group-title=”Bangla”, NICK
@@ -135,7 +133,7 @@ http://172.20.2.5:8082/nike/index.m3u8
 #EXTINF:-1 group-title=”CARTOON”,Sonic (Hindi)
 http://xtv.ooo:8080/live/Farabi43/646446/34011.ts
 #EXTINF:-1 group-title=”CARTOON”,Sonic (Bangla)
-http://xtv.ooo:8080/live/Farabi43/646446/355815.ts
+http://t-tvpremium.xyz:8880/live/sajjad30/83837473742/16319.ts
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=duronoto+tv+logo&oq=duronoto+tv+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBdIBCDQyNDNqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=-X2g5jSRlEf4TM&vssid=mosaic” group-title=”Bangla”, Duronto Tv
 http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/239079.ts
 #EXTINF:-1 group-title=”Bangla”, Madani Bangla
@@ -143,13 +141,13 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 #EXTINF:-1 group-title="CARTOON",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/cb543d1e786c648e93d43660cef342a6f9481fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c535677ab66ad0311badc6ac8136b650705dad8ee2ebecc4072eb9c102f29b4641d57ee166ea8412e5e95a916018e38f55e0010e30627161185af06f0234dc4820a957f378dadd468277c5e5a8f2002b7f902f6ef820c13892ef8ae194b923146e19056cdd74ae986dd0ec85ed723a4468093f1de860d8b86c231b401b4660d0d7b2bcf867fca9c07f6b0f4683d8f3f29560e6ae2ac9eff4732f4292930e3defb8f5adb3ce3a80caf7d6dc76af44e8023c46aba1998ef4fada8c9b3282b2285f46b5e0981c88597a14559d467ffb1a7de7c6c89f7661b2da83c8251415f91f9d85a80ca11e4de49e3af592e11e48c1fe3f7d582eba3c34e9231b8aa9ef326766f512327b27292ae70e907b70cc05b8708262f6689d83fe687d7593c634b839356a67c71dbfab8f3148aa6a81a7f7bfb69d8216526ac662d144d4c88c8093cc3efd9d21544e9b2db04d00b8e0cbfcdfaf60f3afafacf43f46ed56d6bb8e82fa67735550eb2bd7911150c35fce7681828228364ead7d8ee7e0d40bda596bef07c1b28793a004cbbf0e839dbafd0391113f656244b7d0458c35781278c56094805e12afe804534890f2a28a6803a5e5163df88928995d9c741fa2e819fb369616d093ae47d54723b939b825bf4344e3e495c860e764af2520915a4c69f97f4ea09ef9260b8376b1011a7a1453b4e38155b039a9f65de2c84ab14b894c755b688bd3d66aa7c855052f2fdd36ef1e184877f079fa4521305c68b3fa4846ab4c4b18cda62006f871f847ab262/18/1280x720_3000800/index.m3u8
 #EXTINF:-1 group-title="CARTOON",Hungama Tv
-http://xtv.ooo:8080/live/Farabi43/646446/150480.ts
+http://t-tvpremium.xyz:8880/live/sajjad30/83837473742/4240.ts
 #EXTINF:-1 group-title=”CARTOON”,Super Hungama
 http://t-tvpremium.xyz:8880/sajjad30/83837473742/14394
 #EXTINF:-1 group-title=”CARTOON”,Disney Channel
-http://xtv.ooo:8080/live/Farabi43/646446/167551.ts
+http://t-tvpremium.xyz:8880/live/sajjad30/83837473742/3360.ts
 #EXTINF:-1 group-title=”CARTOON”,Disney XD
-http://xtv.ooo:8080/live/Farabi43/646446/348868.ts
+http://195.26.87.217/live.ts?channelId=251&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="CARTOON",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 group-title=”CARTOON”,Sony Yay (Hindi)
@@ -158,8 +156,6 @@ http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=156089&exte
 http://lb2.motobd2.xyz:8080/live/Farabi43/96965/3357.m3u
 #EXTINF:-1 group-title=”CARTOON”,Cartoon Network (Hindi)
 http://195.26.87.217/live.ts?channelId=244&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title=”CARTOON”,Cartoon Network HD+
-http://xtv.ooo:8080/live/Farabi43/646446/153154.ts
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://xtv.ooo:8080/live/T4S00515/820172/167575.ts
 #EXTINF:-1 group-title="Sports",Star Sports 2 HD
