@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=9aead19d0345d1c5&q=gazi+tv+logo&uds=AMwkrPuWVcnP5T10PAVBAy3M3rMm0tJwSZUlmdepSfDyT0lh4OhAgRMXwodhaz7N4MJc1LwRJ5FjH8QYc-5Zn1sltmHjPTk19w3YojGU_w2WFtzvH1ZInqTq3tqvpOPapTm8--0HuPCVvJ10JI1JqkGDSNbTvMuca1SIyBg3nx_nMgho0uecRvZTBt6UpZUsFaTESihGSe0J24DtR_7Ck5Spje2LpBtkH1ihu1z8nDOcSqdvQy3jNmsPBwEGvuXrS0vmYvUIRdCgg1sTH907AINpuwJWb_S2jq7NAl3A7XBgSY1a6I22NyQ&udm=2&prmd=ivnsmbz&sa=X&ved=2ahUKEwjExrqAweqEAxW-n2MGHZhCAmkQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=LyOhO5Col8eIdM&vssid=mosaic” group-title=”Bangla”, GTV HD
-https://test.bongodrive.pw/bdix.m3u8?ac=1102
+http://172.20.2.5:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=t+sports+logo&oq=t+sports+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHj” group-title=” group-title=”Bangla”, T Sports HD
-http://tv4.hoichoi24.com/play.php?stream=1101
+http://172.20.2.5:8082/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Sony+Aath+Logo&oq=Sony+Aath+Logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIKCAsQLhjUAhiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDYwMThqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=Y6oNzwHoPHdS-M&vssid=mosaic” group-title=”Bangla”, Sony Aath
 http://172.20.2.5:8082/Sonyaath/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Akash Aath
@@ -11,7 +11,7 @@ http://195.26.87.217/live.ts?channelId=79&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title=”Bangla”,Sun Bangla
 http://watchindia.net:8880/live/62448/92037/2290.ts
 #EXTINF:-1 group-title=”Bangla”,Enter10 Bangla
-https://test.bongodrive.pw/bdix.m3u8?ac=1402
+http://t-tvpremium.xyz:8880/sajjad30/83837473742/1355
 #EXTINF:-1 group-title=”Bangla”,Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=e9d0d8661844ff44&q=star+jalsha+hd+logo&uds=AMwkrPv0_HdT1mhzZ0oybZwQ26p1v6Hrr4gu0gsrpxt6dN2CTAWRBC1-b3l2KHl2MiIg24wlW1sKKPltVMUwXnYsqkuYN4J68dnQWfq5MsKY8tGMwcMHK3K7USZoXl_PRZulrvJSu7mtsiUld4lN_wx2-j0mwCc4fZThlvA6CI6HSVTMgqpyuIsP6iGSY4i5WbHv1-gL5_hk5y4K7ICUbabr_8zBreWSGPzPfXNSWVfjceaO38rjDI1YqOhyqDuoRmg_SI3ElgQqcJ0gqDsAiLrfj2wD-8Y65wbp6L7XG4SXuuMAqRbSMHo&udm=2&prmd=ivsnmbz&sa=X&ved=2ahUKEwiOk7j9yumEAxX-n2MGHXzEDkoQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=SxuAWZwM_Jeq2M&vssid=mosaic” group-title=”Bangla”, Star Jalsha HD
@@ -39,9 +39,9 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Nexus Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title=”Bangla”,Jamuna Tv
-https://test.bongodrive.pw/bdix.m3u8?ac=1106
+http://t-tvpremium.xyz:8880/sajjad30/83837473742/1332
 #EXTINF:-1 group title="Bangla",Channel 9
-https://test.bongodrive.pw/bdix.m3u8?ac=1124
+http://t-tvpremium.xyz:8880/sajjad30/83837473742/2316
 #EXTINF:-1 group-title=”Bangla”,Jonmovumi Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1 group title="Bangla",Deepto Tv
@@ -81,7 +81,7 @@ http://172.20.2.5:8082/MohonaTV/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=mohona+tv+logo&oq=mohona+tv+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABNIBCDUxODJqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=YZPc7Us6p9tQnM&vssid=mosaic” group-title=”Bangla”, My tv
 http://176.119.29.52/live.ts?channelId=106&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title=”Bangla”, Nagorik Tv
-https://test.bongodrive.pw/bdix.m3u8?ac=1113
+http://startv365.com/9794783213/6955630461/400200127
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=anondo+tv+logo&oq=anondo+tv+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMg0IAhAAGIYDGIAEGIoFMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoF0gEINTEyMmowajeoAgCwAgA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=mRCBtlPflcXfvM&vssid=mosaic” group-title=”Bangla”, Ananda Tv
 https://test.bongodrive.pw/bdix.m3u8?ac=1117
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=%26pictures+hd+logo&oq=%26pictures+hd+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgoIAhAAGAUYDRgeMgoIAxAAGAgYDRgeMgoIBBAAGAgYDRgeMgoIBRAAGAgYDRgeMgoIBhAAGAgYDRgeMgoIBxAAGAgYDRgeMgoICBAAGAgYDRgeMgoICRAAGAgYDRgeMgwIChAAGAgYDRgPGB4yCggLEAAYCBgNGB4yCggMEAAYCBgNGB7SAQg1OTQ2ajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=EbuyB9dyc_IGPM&vssid=mosaic” group-title=”India”, & Pictures HD
