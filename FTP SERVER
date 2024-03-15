@@ -10,6 +10,8 @@ http://172.20.2.5:8082/Sonyaath/index.m3u8
 http://195.26.87.217/live.ts?channelId=79&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title=”Bangla”,Sun Bangla
 http://watchindia.net:8880/live/62448/92037/2290.ts
+#EXTINF:-1 group-title=”Bangla”,Enter10 Bangla
+https://test.bongodrive.pw/bdix.m3u8?ac=1402
 #EXTINF:-1 group-title=”Bangla”,Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=e9d0d8661844ff44&q=star+jalsha+hd+logo&uds=AMwkrPv0_HdT1mhzZ0oybZwQ26p1v6Hrr4gu0gsrpxt6dN2CTAWRBC1-b3l2KHl2MiIg24wlW1sKKPltVMUwXnYsqkuYN4J68dnQWfq5MsKY8tGMwcMHK3K7USZoXl_PRZulrvJSu7mtsiUld4lN_wx2-j0mwCc4fZThlvA6CI6HSVTMgqpyuIsP6iGSY4i5WbHv1-gL5_hk5y4K7ICUbabr_8zBreWSGPzPfXNSWVfjceaO38rjDI1YqOhyqDuoRmg_SI3ElgQqcJ0gqDsAiLrfj2wD-8Y65wbp6L7XG4SXuuMAqRbSMHo&udm=2&prmd=ivsnmbz&sa=X&ved=2ahUKEwiOk7j9yumEAxX-n2MGHXzEDkoQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=SxuAWZwM_Jeq2M&vssid=mosaic” group-title=”Bangla”, Star Jalsha HD
