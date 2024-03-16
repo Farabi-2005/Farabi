@@ -106,6 +106,8 @@ http://172.20.2.5:8082/SonyTVHD/index.m3u8
 http://mag.trexlive.me/live/Michael88/Michael88/42460.ts
 #EXTINF:-1 group-title=”India”,Sony Sab HD
 http://mag.trexlive.me/Michael88/Michael88/156014
+#EXTINF:-1 group-title=”India”,Sony Pix
+http://xtv.ooo:8080/live/03155515900TG/03155515900TG/109966.ts
 #EXTINF:-1 group-title="India",Sony Pix HD
 http://172.20.2.5:8082/SonyPix/index.m3u8
 #EXTINF:-1 group-title=”India”,Star Gold
