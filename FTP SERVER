@@ -124,6 +124,10 @@ http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
 http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/236941.ts
 #EXTINF:-1 group-title=”India”,Star Gold Select HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
+#EXTINF:-1 group-title=”India”,Star Utsav
+http://startv365.com/live/9794783213/6955630461/75367.ts
+#EXTINF:-1 group-title=”India”,Star Utsav Movies
+http://startv365.com/live/9794783213/6955630461/187271.ts
 #EXTINF:-1 group-title=”India”,Star Bharat
 http://startv365.com/live/9794783213/6955630461/62915.ts
 #EXTINF:-1 group-title=”India”,Star Bharat HD
@@ -143,6 +147,12 @@ http://172.20.2.5:8082/Zee-Hd/index.m3u8
 http://172.20.2.5:8082/Discovery-Tv/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=national+geographic+logo&oq=national+geographic+&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIGCAAQRRg5MgwIARAAGEMYgAQYigUyDwgCEAAYQxixAxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyDQgJEC4YxwEY0QMYgAQyBwgKEAAYgAQyBwgLEAAYgAQyBwgMEC4YgAQyBwgNEAAYgAQyBwgOEAAYgATSAQg3MDA4ajBqN6gCALACAA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=pOYKJ40dI2kBtM&vssid=mosaic” group-title=”Entertainment”, National Geographic
 http://172.20.2.5:8082/Nat-Geo/index.m3u8
+#EXTINF:-1 group-title=”Entertainment”,National geographic HD
+http://t-tvpremium.xyz:8880/live/sajjad30/83837473742/1512.ts
+#EXTINF:-1 group-title=”India”,& Flix HD
+http://mag.trexlive.me/live/Michael88/Michael88/155990.ts
+#EXTINF:-1 group-title=”India”,& Prive HD
+http://mag.trexlive.me/live/Michael88/Michael88/155746.ts
 #EXTINF:-1 group-title=”Entertainment”,National geographic HD
 http://t-tvpremium.xyz:8880/live/sajjad30/83837473742/1512.ts
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Sony+bbc+earth+logo&oq=Sony+bbc+earth+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yCAgCEAAYFhge0gEINDk0NmowajeoAgCwAgA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=6M-kX57MMgXhWM&vssid=mosaic” group-title=”English”, Sony BBC Earth
