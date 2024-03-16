@@ -163,7 +163,7 @@ http://195.26.87.217/live.ts?channelId=244&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://xtv.ooo:8080/live/T4S00515/820172/167575.ts
 #EXTINF:-1 group-title="Sports",Star Sports 2 HD
-http://xtv.ooo:8080/live/T4S00515/820172/167576.ts
+http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/237044.ts
 #EXTINF:-1 group-title="Sports",Star Sports 3 
 http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
 #EXTINF:-1 group-title="Documentary",Animal Planet
@@ -174,8 +174,6 @@ http://172.20.2.5:8082/Ten1/index.m3u8
 http://172.20.2.5:8082/Ten2/index.m3u8
 #EXTINF:-1 group-title="Sports",Sony Ten 3 HD
 http://172.20.2.5:8082/Ten3/index.m3u8
-#EXTINF:-1 group-title=”Bangla”,Rapid
-http://zx.rpstv.xyz:8081/indsafe/stargold/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Kanchana
 http://103.222.20.150/ftpdata/Movies/Tamil/2011_2017/Kanchana%202%20(2015)/Kanchana%202%202015%20720p%20HDRip%20x264%20Tamil.mkv
 #EXTINF:-1 group-title="MOVIES",KGF Chapter 2
