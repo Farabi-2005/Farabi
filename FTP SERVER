@@ -175,7 +175,7 @@ http://172.20.2.5:8082/Ten2/index.m3u8
 #EXTINF:-1 group-title="Sports",Sony Ten 3 HD
 http://172.20.2.5:8082/Ten3/index.m3u8
 #EXTINF:-1 group-title=”Bangla”,Rapid
-http://zx.rpstv.xyz:8081/indsafe/stargold/play list.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My 8xNi8yMDIOIDk6NTc6NDEgQUOmaGFzaF92YWx1 ZTOwdE15aDJNWTY3bmxpS3ViOCtHZStRPTOmd mFsaWRtaW51dGVzPTImaWQ9ODIwNQ=
+http://zx.rpstv.xyz:8081/indsafe/stargold/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Kanchana
 http://103.222.20.150/ftpdata/Movies/Tamil/2011_2017/Kanchana%202%20(2015)/Kanchana%202%202015%20720p%20HDRip%20x264%20Tamil.mkv
 #EXTINF:-1 group-title="MOVIES",KGF Chapter 2
