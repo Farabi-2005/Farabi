@@ -117,7 +117,7 @@ http://172.20.2.5:8082/SonyPix/index.m3u8
 #EXTINF:-1 group-title=”India”,Star Gold
 http://startv365.com/live/9794783213/6955630461/376262.ts
 #EXTINF:-1 group-title=”India”,Star Gold Romance
-http://82.115.12.142:8080/live/play/ZG5Sc2IwbENaM2xtYTFRelZIVlpjMk4wVWtOSGJUZHJWWEZxUVdwSldXeDJZalF6U1U5d01sSlFTVDA9/156033
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=156033&play_token=uL68CJzw4479
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=Star+gold+logo&oq=Star+gold+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB4yCAgKEAAYFhgeMggICxAAGBYYHjIICAwQABgWGB4yCAgNEAAYFhgeMggIDhAAGBYYHtIBCDI3ODNqMGo3qAIAsAIA&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#vhid=d9Yz1HL3Ttt5LM&vssid=mosaic” group-title=”India”, Star Gold Thrills
 http://172.20.2.5:8082/StarGold/index.m3u8
 #EXTINF:-1 group-title=”India”,Star Gold HD
