@@ -103,7 +103,7 @@ http://startv365.com/live/9794783213/6955630461/400232359.ts
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=8a1200bb25fe336c&q=sony+entertainment+logo&uds=AMwkrPuKiz3kd7jHuta4ar-HNLVtQG3GTtNPpouE20DnELI-1bZMcqg1PxDyIjDHGGp21DPoC9YHqQepP1cHSyQSvDrghLPuK1KU8cjj_GIgXZ-7kAFWs2TnkYdVlpkJ1Jr2OG5NHX7sRyKHj9_ZMhMHDb94hJsrS4CZsPcpjk2WRPBE3LnhTHvmEx3iBPpjFwiu0lp1uShOTO8ZnSnZyEArVHwesS0ce_S-iJi6pfBlnxju0TSQUls_fEbJvNTwwfDeQotvP_CTgiDk3zJeP7fqAPv5tOEy0A4LhnROfWVh9SJX2MZuLZa7kTK5RAf9UFbYmzAE0KhL&udm=2&prmd=ivnsbmz&sa=X&ved=2ahUKEwiSiM6r4-mEAxXg-aACHXSgAfsQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=qz189TCkVtqwtM&vssid=mosaic” group-title=”India”, Sony Tv HD
 http://172.20.2.5:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 group-title=”India”,Sony Pal
-http://mag.trexlive.me/live/Michael88/Michael88/156101.ts
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/2/SONY-PAL/20240319-1710866105.ts
 #EXTINF:-1 group-title=”India”,Sony Wah
 http://mag.trexlive.me/live/Michael88/Michael88/156039.ts
 #EXTINF:-1 group-title=”India”,Sony Sab
@@ -184,7 +184,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 #EXTINF:-1 group-title="CARTOON",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/cb543d1e786c648e93d43660cef342a6f9481fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c535677ab66ad0311badc6ac8136b650705dad8ee2ebecc4072eb9c102f29b4641d57ee166ea8412e5e95a916018e38f55e0010e30627161185af06f0234dc4820a957f378dadd468277c5e5a8f2002b7f902f6ef820c13892ef8ae194b923146e19056cdd74ae986dd0ec85ed723a4468093f1de860d8b86c231b401b4660d0d7b2bcf867fca9c07f6b0f4683d8f3f29560e6ae2ac9eff4732f4292930e3defb8f5adb3ce3a80caf7d6dc76af44e8023c46aba1998ef4fada8c9b3282b2285f46b5e0981c88597a14559d467ffb1a7de7c6c89f7661b2da83c8251415f91f9d85a80ca11e4de49e3af592e11e48c1fe3f7d582eba3c34e9231b8aa9ef326766f512327b27292ae70e907b70cc05b8708262f6689d83fe687d7593c634b839356a67c71dbfab8f3148aa6a81a7f7bfb69d8216526ac662d144d4c88c8093cc3efd9d21544e9b2db04d00b8e0cbfcdfaf60f3afafacf43f46ed56d6bb8e82fa67735550eb2bd7911150c35fce7681828228364ead7d8ee7e0d40bda596bef07c1b28793a004cbbf0e839dbafd0391113f656244b7d0458c35781278c56094805e12afe804534890f2a28a6803a5e5163df88928995d9c741fa2e819fb369616d093ae47d54723b939b825bf4344e3e495c860e764af2520915a4c69f97f4ea09ef9260b8376b1011a7a1453b4e38155b039a9f65de2c84ab14b894c755b688bd3d66aa7c855052f2fdd36ef1e184877f079fa4521305c68b3fa4846ab4c4b18cda62006f871f847ab262/18/1280x720_3000800/index.m3u8
 #EXTINF:-1 group-title="CARTOON",Hungama Tv
-http://xtv.ooo:8080/03155515900TG/03155515900TG/150480
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=1097664&play_token=eWu1uwpr8921
 #EXTINF:-1 group-title=”CARTOON”,Super Hungama
 http://t-tvpremium.xyz:8880/sajjad30/83837473742/14394
 #EXTINF:-1 group-title=”CARTOON”,Disney Channel
