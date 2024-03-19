@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”http://tv4.hoichoi24.com/assets/images/GTV%2031670253750.png” group-title=”Bangla”, GTV HD
+#EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=07ac767684f655b4&q=gazi+tv+jpg&uds=AMwkrPs3ghOrfxmnifAvFiOF0sUm68_SSiP2B-PrpUANfhz_UevoCZxe3q8spordaFVu7vTPO5JaFVCoJYpe1fRjUYzDz390D6rlOyHPcWkOrRrO6YAQUgCkTHqw69XACn3TjmLi3_0vmiso_2i0Ti6Hd79Mv2_JYUoWmAPebPvUFj_dT6brFRweCfJhayHiBz01HKOzQcPoeHmVdKBIx2xvW-cgWnQKy1YbSYQllck97ZInpgKD7cAB-VQHAyCOYoIWcb0fWTiVmuJusA5BLbMHSQhP2uS_fecCe8FfVRrx_xkHO0lFqnI&udm=2&prmd=ivnsmbz&sa=X&ved=2ahUKEwjlkeaVvYCFAxXed2wGHadOA8MQtKgLegQIDxAB&biw=407&bih=766&dpr=3#vhid=LyOhO5Col8eIdM&vssid=mosaic” group-title=”Bangla”, GTV HD
 http://103.107.79.87:8080/1102/index.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?q=t+sports+logo&oq=t+sports+logo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHj” group-title=” group-title=”Bangla”, T Sports HD
 http://103.107.79.87:8080/1101/index.m3u8
