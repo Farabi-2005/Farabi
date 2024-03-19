@@ -205,7 +205,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/167575.ts
 http://mixbix.xyz:8080/live/mLW2nMkArKNs/zMgjNRWVAzC6/237044.ts
 #EXTINF:-1 group-title="Sports",Star Sports 3 
 http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
-#EXTINF:-1 group-title="Documentary",Animal Planet
+#EXTINF:-1 group-title="Documentary",Animal Planet HD
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 group-title="Sports",Sony Ten 1 HD
 http://172.20.2.5:8082/Ten1/index.m3u8
