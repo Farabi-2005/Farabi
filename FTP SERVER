@@ -132,14 +132,14 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=156163&play_token=LD5gOYVv7511
 #EXTINF:-1 group-title=”India”,Star Utsav Movies
 http://startv365.com/live/9794783213/6955630461/187271.ts
-#EXTINF:-1 group-title=”India”,Star Pravah HD
-http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=155755&play_token=EdzTgMi52388
-#EXTINF:-1 group-title=”India”,Star Vijay HD
-http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=945552&play_token=nDEr1s2N9959
-#EXTINF:-1 group-title=”India”,Star Suvarna HD
-http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=282552&play_token=uzrHrRx44407
+#EXTINF:-1 group-title=”India”,Utsav Plus HD
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=267589&play_token=szyMrnXz7943
+#EXTINF:-1 group-title=”India”,UTV Movies HD
+http://103.107.79.87:8080/CH8109HD05/index.m3u8
+#EXTINF:-1 group-title=”India”,Zee Bollywood
+http://startv365.com/live/9794783213/6955630461/378733
 #EXTINF:-1 group-title=”India”,Star Bharat
-http://startv365.com/live/9794783213/6955630461/62915.ts
+http://startv365.com/live/9794783213/6955630461/62915
 #EXTINF:-1 group-title=”India”,Star Bharat HD
 http://mag.trexlive.me/Michael88/Michael88/945579
 #EXTINF:-1 group-title=”India”,Star Plus
