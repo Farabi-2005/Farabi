@@ -99,7 +99,7 @@ http://172.20.2.5:8082/colorsindia/index.m3u8
 #EXTINF:-1 group-title=”India”,Colors HD
 http://startv365.com/live/9794783213/6955630461/75410.ts
 #EXTINF:-1 group-title=”India”,Sony Tv
-http://startv365.com/live/9794783213/6955630461/400232359.ts
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/chunklist_w1960048111.m3u8
 #EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=8a1200bb25fe336c&q=sony+entertainment+logo&uds=AMwkrPuKiz3kd7jHuta4ar-HNLVtQG3GTtNPpouE20DnELI-1bZMcqg1PxDyIjDHGGp21DPoC9YHqQepP1cHSyQSvDrghLPuK1KU8cjj_GIgXZ-7kAFWs2TnkYdVlpkJ1Jr2OG5NHX7sRyKHj9_ZMhMHDb94hJsrS4CZsPcpjk2WRPBE3LnhTHvmEx3iBPpjFwiu0lp1uShOTO8ZnSnZyEArVHwesS0ce_S-iJi6pfBlnxju0TSQUls_fEbJvNTwwfDeQotvP_CTgiDk3zJeP7fqAPv5tOEy0A4LhnROfWVh9SJX2MZuLZa7kTK5RAf9UFbYmzAE0KhL&udm=2&prmd=ivnsbmz&sa=X&ved=2ahUKEwiSiM6r4-mEAxXg-aACHXSgAfsQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=qz189TCkVtqwtM&vssid=mosaic” group-title=”India”, Sony Tv HD
 http://172.20.2.5:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 group-title=”India”,Sony Pal
