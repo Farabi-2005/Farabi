@@ -1,54 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 group-titile=”Bangla”,BTV World
+#EXTINF:-1 group-titile="Bangla",BTV World
 http://103.107.79.87:8080/1127/index.m3u8
-#EXTINF:-1 group-title=”Bangla”, GTV HD
+#EXTINF:-1 group-title="Bangla", GTV HD
 http://114.130.96.165:8080/1102/index.m3u8
-#EXTINF:-1 group-title=” group-title=”Bangla”, T Sports HD
+#EXTINF:-1 group-title=” group-title="Bangla", T Sports HD
 http://114.130.96.165:8080/1101/index.m3u8
-#EXTINF:-1 group-title=”Bangla”, Sony Aath
+#EXTINF:-1 group-title=, Sony Aath
 http://172.20.2.5:8082/Sonyaath/index.m3u8
-#EXTINF:-1 group-title=”Bangla”,Akash Aath
+#EXTINF:-1 group-title="Bangla",Akash Aath
 http://195.26.87.217/live.ts?channelId=79&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title=”Bangla”,Sun Bangla
+#EXTINF:-1 group-title="Bangla",Sun Bangla
 http://watchindia.net:8880/live/62448/92037/2290.ts
-#EXTINF:-1 group-title=”Bangla”,Enter10 Bangla
+#EXTINF:-1 group-title="Bangla",Enter10 Bangla
 http://t-tvpremium.xyz:8880/sajjad30/83837473742/1355
-#EXTINF:-1 group-title=”Bangla”,Star Jalsha
+#EXTINF:-1 group-title="Bangla",Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-#EXTINF:-1 group-title=”Bangla”, Star Jalsha HD
+#EXTINF:-1 group-title="Bangla", Star Jalsha HD
 http://172.20.2.5:8082/Star-Jalsha/index.m3u8
-#EXTINF:-1 group-title=”Bangla”, Zee Bangla
+#EXTINF:-1 group-title="Bangla", Zee Bangla
 http://172.20.2.5:8082/ZeeBanglaHD/index.m3u8
-#EXTINF:-1 group-title=”Bangla”,Zee Bangla HD
+#EXTINF:-1 group-title="Bangla",Zee Bangla HD
 http://103.107.79.87:8080/CH8110HD03/video.m3u8
-#EXTINF:-1 group-title=”India”,Colors Bangla
+#EXTINF:-1 group-title="India",Colors Bangla
 http://172.20.2.5:8082/colorsbangla/index.m3u8
-#EXTINF:-1 group-title=”India”,Colors Bangla HD
+#EXTINF:-1 group-title="India",Colors Bangla HD
 http://103.107.79.87:8080/CH8110HD05/video.m3u8
-#EXTINF:-1 group-title=”Bangla”, Jalsha Movies HD
+#EXTINF:-1 group-title="Bangla", Jalsha Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
-#EXTINF:-1 group-title=”Bangla”, DBC NEWS
+#EXTINF:-1 group-title="Bangla", DBC NEWS
 http://172.20.2.5:8082/DBC-NEWS/index.m3u8
-#EXTINF:-1 group-title=”Bangla”,Bijoy Tv
+#EXTINF:-1 group-title="Bangla",Bijoy Tv
 http://176.119.29.52/live.ts?channelId=85&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title=”Bangla”,My Tv
+#EXTINF:-1 group-title="Bangla",My Tv
 http://114.130.96.165:8080/1132/index.m3u8
-#EXTINF:-1 group-title=”Bangla”,Desh Tv
+#EXTINF:-1 group-title="Bangla",Desh Tv
 http://114.130.96.165:8080/1121/index.m3u8
-#EXTINF:-1 group-title=”Bangla”,Bangla Tv
+#EXTINF:-1 group-title="Bangla",Bangla Tv
 http://103.107.79.87:8080/1116/video.m3u8
-#EXTINF:-1 group-title=”Bangla”, Ekattor tv
+#EXTINF:-1 group-title="Bangla", Ekattor tv
 http://172.20.2.5:8082/Ekattor-tv/index.m3u8
-#EXTINF:-1 group-title=”Bangla”, ATN NEWS
+#EXTINF:-1 group-title="Bangla", ATN NEWS
 http://172.20.2.5:8082/Atn-News/index.m3u8
-#EXTINF:-1 group-title=”Bangla”, Somoy tv
+#EXTINF:-1 group-title="Bangla", Somoy tv
 http://172.20.2.5:8082/Somoy-TV/index.m3u8
-#EXTINF:-1 group-title=”Bangla”,Masranga Tv
+#EXTINF:-1 group-title="India",Masranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
-#EXTINF:-1 group-title=”Bangla”,Nexus Tv
+#EXTINF:-1 group-title="Bangla",Nexus Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1 group-title=”Bangla”,Jamuna Tv
+#EXTINF:-1 group-title="Bangla",Jamuna Tv
 http://t-tvpremium.xyz:8880/sajjad30/83837473742/1332
 #EXTINF:-1 group title="Bangla",Channel 9
 http://114.130.96.165:8080/1124/index.m3u8
@@ -106,7 +106,7 @@ http://172.20.2.5:8082/colorsindia/index.m3u8
 http://startv365.com/live/9794783213/6955630461/75410.ts
 #EXTINF:-1 group-title=”India”,Sony Tv
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/chunklist_w1960048111.m3u8
-#EXTINF:-1 tvg-logo=”https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=8a1200bb25fe336c&q=sony+entertainment+logo&uds=AMwkrPuKiz3kd7jHuta4ar-HNLVtQG3GTtNPpouE20DnELI-1bZMcqg1PxDyIjDHGGp21DPoC9YHqQepP1cHSyQSvDrghLPuK1KU8cjj_GIgXZ-7kAFWs2TnkYdVlpkJ1Jr2OG5NHX7sRyKHj9_ZMhMHDb94hJsrS4CZsPcpjk2WRPBE3LnhTHvmEx3iBPpjFwiu0lp1uShOTO8ZnSnZyEArVHwesS0ce_S-iJi6pfBlnxju0TSQUls_fEbJvNTwwfDeQotvP_CTgiDk3zJeP7fqAPv5tOEy0A4LhnROfWVh9SJX2MZuLZa7kTK5RAf9UFbYmzAE0KhL&udm=2&prmd=ivnsbmz&sa=X&ved=2ahUKEwiSiM6r4-mEAxXg-aACHXSgAfsQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=qz189TCkVtqwtM&vssid=mosaic” group-title=”India”, Sony Tv HD
+#EXTINF:-1 tvg-logo="https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&sca_esv=8a1200bb25fe336c&q=sony+entertainment+logo&uds=AMwkrPuKiz3kd7jHuta4ar-HNLVtQG3GTtNPpouE20DnELI-1bZMcqg1PxDyIjDHGGp21DPoC9YHqQepP1cHSyQSvDrghLPuK1KU8cjj_GIgXZ-7kAFWs2TnkYdVlpkJ1Jr2OG5NHX7sRyKHj9_ZMhMHDb94hJsrS4CZsPcpjk2WRPBE3LnhTHvmEx3iBPpjFwiu0lp1uShOTO8ZnSnZyEArVHwesS0ce_S-iJi6pfBlnxju0TSQUls_fEbJvNTwwfDeQotvP_CTgiDk3zJeP7fqAPv5tOEy0A4LhnROfWVh9SJX2MZuLZa7kTK5RAf9UFbYmzAE0KhL&udm=2&prmd=ivnsbmz&sa=X&ved=2ahUKEwiSiM6r4-mEAxXg-aACHXSgAfsQtKgLegQIDRAB&biw=407&bih=766&dpr=3#vhid=qz189TCkVtqwtM&vssid=mosaic" group-title=”India”, Sony Tv HD
 http://172.20.2.5:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 group-title=”India”,Sony Pal
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/2/SONY-PAL/video.m3u8
