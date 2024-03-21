@@ -6,6 +6,7 @@ http://103.107.79.87:8080/1127/index.m3u8
 http://114.130.96.165:8080/1102/index.m3u8
 #EXTINF:-1 group-title=” group-title="Bangla", T Sports HD
 http://114.130.96.165:8080/1101/index.m3u8
+#EXTIMG: http://tv4.hoichoi24.com/assets/images/TSports%2021668953490.png
 #EXTINF:-1 group-title=, Sony Aath
 http://172.20.2.5:8082/Sonyaath/index.m3u8
 #EXTINF:-1 group-title="Bangla",Akash Aath
