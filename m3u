@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-titile="Bangla",BTV World
+#EXTINF:-1 group-titile="Bangla", BTV World
 http://103.107.79.87:8080/1127/index.m3u8
 #EXTINF:-1 group-title="Bangla", GTV HD
 http://114.130.96.165:8080/1102/index.m3u8
@@ -82,7 +82,7 @@ http://172.20.2.5:8082/SATV/index.m3u8
 http://172.20.2.5:8082/BanglaVision/index.m3u8
 #EXTINF:-1 group-title="Bangla", Boishakhi tv
 http://172.20.2.5:8082/Boishakhi/index.m3u8
-#EXTINF:-1 group title="Bangla", DD Bangla
+#EXTINF:-1 group-title="Bangla", DD Bangla
 http://195.26.87.217/live.ts?channelId=36290&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Bangla", Gaan Bangla
 http://172.20.2.5:8082/GaanBangla/index.m3u8
@@ -172,9 +172,7 @@ http://t-tvpremium.xyz:8880/live/sajjad30/83837473742/1512.ts
 http://mag.trexlive.me/live/Michael88/Michael88/155990.ts
 #EXTINF:-1 group-title="India", & Prive HD
 http://mag.trexlive.me/live/Michael88/Michael88/155746.ts
-#EXTINF:-1 group-title="Entertainment",National geographic HD
-http://t-tvpremium.xyz:8880/live/sajjad30/83837473742/1512.ts
-#EXTINF:-1 Sony BBC Earth
+#EXTINF:-1 group-title="Entertainment", Sony BBC Earth
 http://172.20.2.5:8082/Bbc-Earth/index.m3u8
 #EXTINF:-1 group-title="Bangla", NICK
 http://172.20.2.5:8082/nike/index.m3u8
