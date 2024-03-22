@@ -27,7 +27,7 @@ http://172.20.2.5:8082/colorsbangla/index.m3u8
 #EXTINF:-1 group-title="India", Colors Bangla HD
 http://103.107.79.87:8080/CH8110HD05/video.m3u8
 #EXTINF:-1 group-title="Bangla", Jalsha Movies HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
+http://103.107.79.87:8080/CH8110HD02/video.m3u8
 #EXTINF:-1 group-title="Bangla", DBC NEWS
 http://172.20.2.5:8082/DBC-NEWS/index.m3u8
 #EXTINF:-1 group-title="Bangla", Bijoy Tv
