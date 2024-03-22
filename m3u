@@ -166,11 +166,13 @@ http://startv365.com/live/9794783213/6955630461/191443.ts
 http://172.20.2.5:8082/ZeeCinemaHD/index.m3u8
 #EXTINF:-1 group-title="india", Zee Tv HD
 http://172.20.2.5:8082/Zee-Hd/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Dicovery HD
+#EXTINF:-1 group-title="Documentary", Dicovery HD
 http://172.20.2.5:8082/Discovery-Tv/index.m3u8
-#EXTINF:-1 group-title="Entertainment", National Geographic
+#EXTINF:-1 group-title="Documentary", Animal Planet HD
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 group-title="Documentary", National Geographic
 http://172.20.2.5:8082/Nat-Geo/index.m3u8
-#EXTINF:-1 group-title="Entertainment",National geographic HD
+#EXTINF:-1 group-title="Documentary", National geographic HD
 http://t-tvpremium.xyz:8880/live/sajjad30/83837473742/1512.ts
 #EXTINF:-1 group-title="India", & Flix HD
 http://mag.trexlive.me/live/Michael88/Michael88/155990.ts
@@ -203,13 +205,15 @@ https://bongohub.pw/bioscope.php?cc=sony-yay-live
 #EXTINF:-1 group-title="CARTOON", Cartoon Network
 http://195.26.87.217/live.ts?channelId=244&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Sports", Star Sports 1 HD
-http://xtv.ooo:8080/live/T4S00515/820172/167575.ts
-#EXTINF:-1 group-title="Sports", Star Sports 2
+http://172.20.2.5:8082/Star-Sports-1/index.m3u8
+#EXTINF:-1 group-title="Sports", Star Sports 2 HD
 http://172.20.2.5:8082/Star-Sports-2/index.m3u8
 #EXTINF:-1 group-title="Sports", Star Sports 3 
 http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
-#EXTINF:-1 group-title="Documentary", Animal Planet HD
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports select 1 HD
+http://172.20.2.5:8082/Star-Select-1/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports select 2 HD
+http://172.20.2.5:8082/Star-Select-2/index.m3u8
 #EXTINF:-1 group-title="Sports", Sony Ten 1 HD
 http://172.20.2.5:8082/Ten1/index.m3u8
 #EXTINF:-1 group-title="Sports", Sony Ten 2 HD
