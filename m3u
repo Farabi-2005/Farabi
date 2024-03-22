@@ -173,7 +173,7 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 group-title="Documentary", National Geographic
 http://172.20.2.5:8082/Nat-Geo/index.m3u8
 #EXTINF:-1 group-title="Documentary", National geographic HD
-http://t-tvpremium.xyz:8880/live/sajjad30/83837473742/1512.ts
+http://103.107.79.87:8080/CH8110HD07/index.m3u8
 #EXTINF:-1 group-title="India", & Flix HD
 http://mag.trexlive.me/live/Michael88/Michael88/155990.ts
 #EXTINF:-1 group-title="India", & Prive HD
