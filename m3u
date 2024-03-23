@@ -58,45 +58,45 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.cumilla24.net/media/header_logo/S-logo-03.png", Cumilla 24 Tv
 http://103.149.142.133/0.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo=", Asian Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png", Asian Tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
-#EXTINF:-1 group-title="Bangla", Independent tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Independent%20TV1664976104.png", Independent tv
 http://172.20.2.5:8082/Independent-Tv/index.m3u8
-#EXTINF:-1 group-title="Bangla", News24 tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/News%20241664826177.png", News24 tv
 http://172.20.2.5:8082/News24bd/index.m3u8
-#EXTINF:-1 group-title="Bangla", Channel 24
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Channel%20241664824751.png", Channel 24
 http://172.20.2.5:8082/Channel24/index.m3u8
-#EXTINF:-1 group-title="Bangla", Channel I
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Channel%20i1664976520.png", Channel I
 http://172.20.2.5:8082/Channel-i/index.m3u8
-#EXTINF:-1 group-title="Bangla", Ekushey Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/ekushey.jpg", Ekushey Tv
 http://172.20.2.5:8082/Ekushey-TV/index.m3u8
-#EXTINF:-1 group-title="Bangla", NTV
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Ntv1664826430.png", NTV
 http://172.20.2.5:8082/Ntv/index.m3u8
-#EXTINF:-1 group-title="Bangla", Ekhon Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/ekontv%20.jpg", Ekhon Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla", RTV
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Rtv1664826487.png", RTV
 http://172.20.2.5:8082/RTV/index.m3u8
-#EXTINF:-1 group-title="Bangla", SATV
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/satv.jpg", SATV
 http://172.20.2.5:8082/SATV/index.m3u8
-#EXTINF:-1 group-title="Bangla", Bangla Vision
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/banglavision.jpg", Bangla Vision
 http://172.20.2.5:8082/BanglaVision/index.m3u8
-#EXTINF:-1 group-title="Bangla", Boishakhi tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/boishakhi.jpg", Boishakhi tv
 http://172.20.2.5:8082/Boishakhi/index.m3u8
 #EXTINF:-1 group-title="Bangla", DD Bangla
 http://195.26.87.217/live.ts?channelId=36290&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Bangla", Gaan Bangla
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/gaanbangla.jpg", Gaan Bangla
 http://172.20.2.5:8082/GaanBangla/index.m3u8
-#EXTINF:-1 group-title="Bangla", Mohona Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/mohonatv.jpg", Mohona Tv
 http://172.20.2.5:8082/MohonaTV/index.m3u8
-#EXTINF:-1 group-title="Bangla", Nagorik Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/nagorik.jpg", Nagorik Tv
 http://114.130.96.165:8080/1113/index.m3u8
-#EXTINF:-1 group-title="Bangla", Ananda Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/anandotv.jpg", Ananda Tv
 http://103.107.79.87:8080/1117/video.m3u8
-#EXTINF:-1 group-title="India", & Pictures HD
+#EXTINF:-1 group-title="India" tvg-logo="http://tv.bdixtv.live/assets/images/andpictureshd.jpg", & Pictures HD
 http://172.20.2.5:8082/And-Pictures/index.m3u8
-#EXTINF:-1 group-title="India",& TV HD
+#EXTINF:-1 group-title="India" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png", & TV HD
 http://195.26.87.217/live.ts?channelId=140&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="India",Sony Max
+#EXTINF:-1 group-title="India", Sony Max
 http://mag.trexlive.me/live/Michael88/Michael88/164031.ts
 #EXTINF:-1 group-title="India", Sony Max HD
 http://172.20.2.5:8082/Sony-Max/index.m3u8
