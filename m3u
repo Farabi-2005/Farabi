@@ -28,29 +28,29 @@ http://172.20.2.5:8082/colorsbangla/index.m3u8
 http://103.107.79.87:8080/CH8110HD05/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FNhvCFjo.png", Jalsha Movies HD
 http://103.107.79.87:8080/CH8110HD02/video.m3u8
-#EXTINF:-1 group-title="Bangla", DBC NEWS
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC NEWS
 http://172.20.2.5:8082/DBC-NEWS/index.m3u8
-#EXTINF:-1 group-title="Bangla", Bijoy Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.devilbox.live/logo/BijoyTVSD.png", Bijoy Tv
 http://176.119.29.52/live.ts?channelId=85&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Bangla", My Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.devilbox.live/logo/MYTVSD.png", My Tv
 http://114.130.96.165:8080/1132/index.m3u8
-#EXTINF:-1 group-title="Bangla", Desh Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Desh%20Tv1664825354.png", Desh Tv
 http://114.130.96.165:8080/1121/index.m3u8
-#EXTINF:-1 group-title="Bangla", Bangla Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Bangla%20TV1664824431.png", Bangla Tv
 http://103.107.79.87:8080/1116/video.m3u8
-#EXTINF:-1 group-title="Bangla", Ekattor tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png", Ekattor tv
 http://172.20.2.5:8082/Ekattor-tv/index.m3u8
-#EXTINF:-1 group-title="Bangla", ATN NEWS
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/atnnews.jpg", ATN NEWS
 http://172.20.2.5:8082/Atn-News/index.m3u8
-#EXTINF:-1 group-title="Bangla", Somoy tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/somoy.jpg", Somoy tv
 http://172.20.2.5:8082/Somoy-TV/index.m3u8
-#EXTINF:-1 group-title="India", Masranga Tv
+#EXTINF:-1 group-title="India" tvg-logo="http://tv4.hoichoi24.com/assets/images/Masranga1667751530.png", Masranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
-#EXTINF:-1 group-title="Bangla", Nexus Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png", Nexus Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla", Jamuna Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Jamuna%20Tv1664825738.png", Jamuna Tv
 http://114.130.96.165:8080/1106/index.m3u8
-#EXTINF:-1 group-title="Bangla", Channel9
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Channel%2091664824936.png", Channel9
 http://114.130.96.165:8080/1124/index.m3u8
 #EXTINF:-1 group-title="Bangla", Jonmovumi Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
