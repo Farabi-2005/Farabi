@@ -20,9 +20,9 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 http://172.20.2.5:8082/Star-Jalsha/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png", Zee Bangla
 http://172.20.2.5:8082/ZeeBanglaHD/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo=", Zee Bangla HD
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUSKY2MD6.png&w=256&q=75", Zee Bangla HD
 http://103.107.79.87:8080/CH8110HD03/video.m3u8
-#EXTINF:-1 group-title="India", tvg-logo=" Colors Bangla
+#EXTINF:-1 group-title="India", tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png", Colors Bangla
 http://172.20.2.5:8082/colorsbangla/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo=", Colors Bangla HD
 http://103.107.79.87:8080/CH8110HD05/video.m3u8
