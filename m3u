@@ -8,25 +8,25 @@ http://114.130.96.165:8080/1102/index.m3u8
 http://114.130.96.165:8080/1101/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/sonyaath.jpg", Sony Aath
 http://172.20.2.5:8082/Sonyaath/index.m3u8
-#EXTINF:-1 group-title="Bangla", Akash Aath
+#EXTINF:-1 group-title="Bangla" tvg-logo=", Akash Aath
 http://195.26.87.217/live.ts?channelId=79&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Bangla", Sun Bangla
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png", Sun Bangla
 http://watchindia.net:8880/live/62448/92037/2290.ts
-#EXTINF:-1 group-title="Bangla", Enter10 Bangla
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg", Enter10 Bangla
 http://114.130.96.165:8080/1402/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XkW14ec4.png", Star Jalsha HD
 http://172.20.2.5:8082/Star-Jalsha/index.m3u8
-#EXTINF:-1 group-title="Bangla", Zee Bangla
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png", Zee Bangla
 http://172.20.2.5:8082/ZeeBanglaHD/index.m3u8
-#EXTINF:-1 group-title="Bangla", Zee Bangla HD
+#EXTINF:-1 group-title="Bangla" tvg-logo=", Zee Bangla HD
 http://103.107.79.87:8080/CH8110HD03/video.m3u8
-#EXTINF:-1 group-title="India", Colors Bangla
+#EXTINF:-1 group-title="India", tvg-logo=" Colors Bangla
 http://172.20.2.5:8082/colorsbangla/index.m3u8
-#EXTINF:-1 group-title="India", Colors Bangla HD
+#EXTINF:-1 group-title="India" tvg-logo=", Colors Bangla HD
 http://103.107.79.87:8080/CH8110HD05/video.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Jalsha%20Movies1664976818.png", Jalsha Movies HD
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FNhvCFjo.png", Jalsha Movies HD
 http://103.107.79.87:8080/CH8110HD02/video.m3u8
 #EXTINF:-1 group-title="Bangla", DBC NEWS
 http://172.20.2.5:8082/DBC-NEWS/index.m3u8
