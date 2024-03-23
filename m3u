@@ -52,13 +52,13 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://114.130.96.165:8080/1106/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Channel%2091664824936.png", Channel9
 http://114.130.96.165:8080/1124/index.m3u8
-#EXTINF:-1 group-title="Bangla", Jonmovumi Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jonmobhumi.tv/wp-content/uploads/2017/11/Final-Red-Logo.png", Jonmovumi Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla", Deepto Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/deeptotv.jpg", Deepto Tv
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-#EXTINF:-1 group-title="Bangla", Cumilla 24 Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.cumilla24.net/media/header_logo/S-logo-03.png", Cumilla 24 Tv
 http://103.149.142.133/0.m3u8
-#EXTINF:-1 group-title="Bangla", Asian Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo=", Asian Tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1 group-title="Bangla", Independent tv
 http://172.20.2.5:8082/Independent-Tv/index.m3u8
