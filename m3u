@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.devilbox.live/logo/BTVWORLDSD.png", BTV World
 http://103.107.79.87:8080/1127/index.m3u8
-#EXTINF:-1 group-title="Bangla", GTV HD
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.devilbox.live/logo/GTV.png", GTV HD
 http://114.130.96.165:8080/1102/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png", T Sports HD
 http://114.130.96.165:8080/1101/index.m3u8
