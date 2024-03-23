@@ -220,6 +220,8 @@ http://172.20.2.5:8082/Ten1/index.m3u8
 http://172.20.2.5:8082/Ten2/index.m3u8
 #EXTINF:-1 group-title="Sports", Sony Ten 3 HD
 http://172.20.2.5:8082/Ten3/index.m3u8
+#EXTINF:-1 group-title="india",Star Gold (bdix)
+http://lifetvbd.xyz:8080/live/939374737/73928472773/3639.ts
 #EXTINF:-1 group-title="MOVIES", Kanchana
 http://103.222.20.150/ftpdata/Movies/Tamil/2011_2017/Kanchana%202%20(2015)/Kanchana%202%202015%20720p%20HDRip%20x264%20Tamil.mkv
 #EXTINF:-1 group-title="MOVIES", KGF Chapter 2
