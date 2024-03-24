@@ -100,11 +100,11 @@ http://195.26.87.217/live.ts?channelId=140&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://mag.trexlive.me/live/Michael88/Michael88/164031.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png", Sony Max HD
 http://172.20.2.5:8082/Sony-Max/index.m3u8
-#EXTINF:-1 group-title="india", Colors
+#EXTINF:-1 group-title="india" , Colors
 http://172.20.2.5:8082/colorsindia/index.m3u8
-#EXTINF:-1 group-title="India", Colors HD
+#EXTINF:-1 group-title="India" tvg-logo="http://tv.bdixtv.live/assets/images/colorshd.jpg", Colors HD
 http://startv365.com/live/9794783213/6955630461/75410.ts
-#EXTINF:-1 group-title="India", Sony Tv
+#EXTINF:-1 group-title="India" tvg-logo="http://tv.bdixtv.live/assets/images/sonytv.jpg", Sony Tv
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/chunklist_w1960048111.m3u8
 #EXTINF:-1 group-title="India", Sony Tv HD
 http://172.20.2.5:8082/SonyTVHD/index.m3u8
@@ -118,9 +118,9 @@ http://mag.trexlive.me/live/Michael88/Michael88/42460.ts
 http://xtv.ooo:8080/live/T4S00515/820172/221256.ts
 #EXTINF:-1 group-title="India", Sony Pix
 http://xtv.ooo:8080/live/03155515900TG/03155515900TG/109966.ts
-#EXTINF:-1 group-title="India", Sony Pix HD
+#EXTINF:-1 group-title="India" tvg-logo="http://tv.bdixtv.live/assets/images/sonypix.jpg", Sony Pix HD
 http://172.20.2.5:8082/SonyPix/index.m3u8
-#EXTINF:-1 group-title="India", Star Gold
+#EXTINF:-1 group-title="India" tvg-logo="http://tv.bdixtv.live/assets/images/stargold.jpg", Star Gold
 http://startv365.com/live/9794783213/6955630461/376262.ts
 #EXTINF:-1 group-title="India", Star Gold Romance
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=156033&play_token=uL68CJzw4479
@@ -180,9 +180,9 @@ http://mag.trexlive.me/live/Michael88/Michael88/155990.ts
 http://mag.trexlive.me/live/Michael88/Michael88/155746.ts
 #EXTINF:-1 group-title="Entertainment", Sony BBC Earth
 http://172.20.2.5:8082/Bbc-Earth/index.m3u8
-#EXTINF:-1 group-title="Bangla", NICK
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/nick.jpg", NICK
 http://172.20.2.5:8082/nike/index.m3u8
-#EXTINF:-1 group-title="CARTOON", Duronto Tv
+#EXTINF:-1 group-title="CARTOON" tvg-logo="http://tv.bdixtv.live/assets/images/duronto.jpg", Duronto Tv
 http://103.107.79.87:8080/CH8108SD01/index.m3u8
 #EXTINF:-1 group-title="CARTOON", Sonic
 http://114.130.96.165:8080/1303/index.m3u8
