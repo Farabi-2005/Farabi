@@ -91,7 +91,7 @@ http://172.20.2.5:8082/GaanBangla/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/mohonatv.jpg", Mohona Tv
 http://172.20.2.5:8082/MohonaTV/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/nagorik.jpg", Nagorik Tv
-http://114.130.96.165:8080/1113/index.m3u8
+http://103.107.79.87:8080/1113/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/anandotv.jpg", Ananda Tv
 http://103.107.79.87:8080/1117/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="http://tv.bdixtv.live/assets/images/andpictureshd.jpg", & Pictures HD
