@@ -222,7 +222,3 @@ http://172.20.2.5:8082/Ten1/index.m3u8
 http://172.20.2.5:8082/Ten2/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6lKikYjvOf_0UhawQlDCP8lozEH5_P1xblZinQ-DemY91dOmsmsmP4Q&s=10", Sony Ten 3 HD
 http://172.20.2.5:8082/Ten3/index.m3u8
-#EXTINF:-1 group-title="MOVIES", Kanchana
-http://103.222.20.150/ftpdata/Movies/Tamil/2011_2017/Kanchana%202%20(2015)/Kanchana%202%202015%20720p%20HDRip%20x264%20Tamil.mkv
-#EXTINF:-1 group-title="MOVIES", KGF Chapter 2
-http://beeflix.biz//Data/Movies/Tamil/2022/K.G.F:%20Chapter%202%20(2022)/K.G.F%20Chapter%202%20(2022)%201080p%20WEBDL.mp4
