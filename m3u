@@ -126,13 +126,13 @@ http://lifetvbd.xyz:8080/live/939374737/73928472773/3639.ts
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=156033&play_token=uL68CJzw4479
 #EXTINF:-1 group-title="India", Star Gold Thrills
 http://172.20.2.5:8082/StarGold/index.m3u8
-#EXTINF:-1 group-title="India", Star Gold HD
+#EXTINF:-1 group-title="India" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20201222064949", Star Gold HD
 http://lifetvbd.xyz:8080/live/939374737/73928472773/42.ts
-#EXTINF:-1 group-title="CARTOON", Star Gold 2
+#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg", Star Gold 2
 http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
-#EXTINF:-1 group-title="India", Star Gold 2 HD
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3VS12Q2rIT6DLu6qwo-QREkEAV7GP2m6fW68k2X8aA&s", Star Gold 2 HD
 http://startv365.com/live/9794783213/6955630461/187265.ts
-#EXTINF:-1 group-title="India", Star Gold Select HD
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBPGHfKRNvuOSK86DsSpab0XA7-VJCEx48vDEO5xI1q1-HfCHWe5Pu9ps&s=10", Star Gold Select HD
 http://lifetvbd.xyz:8080/live/939374737/73928472773/92.ts
 #EXTINF:-1 group-title="India", Star Utsav
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=156163&play_token=LD5gOYVv7511
