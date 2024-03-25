@@ -120,11 +120,11 @@ http://xtv.ooo:8080/live/T4S00515/820172/221256.ts
 http://xtv.ooo:8080/live/03155515900TG/03155515900TG/109966.ts
 #EXTINF:-1 group-title="India" tvg-logo="http://tv.bdixtv.live/assets/images/sonypix.jpg", Sony Pix HD
 http://172.20.2.5:8082/SonyPix/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="http://tv.bdixtv.live/assets/images/stargold.jpg", Star Gold
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS069xLkAL7fCAolsz_7-7c6EUNWXLi-vtt3b_hcXowikGG9-RaKHHoAR0&s=10", Star Gold
 http://lifetvbd.xyz:8080/live/939374737/73928472773/3639.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10", Star Gold Romance
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=156033&play_token=uL68CJzw4479
-#EXTINF:-1 group-title="India", Star Gold Thrills
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTXsuGsGAltpatzHcwokWzY1y28EMOzbiEOz87jGt0qYShe9i7eXOn0lQs&s=10", Star Gold Thrills
 http://172.20.2.5:8082/StarGold/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20201222064949", Star Gold HD
 http://lifetvbd.xyz:8080/live/939374737/73928472773/42.ts
@@ -134,9 +134,9 @@ http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
 http://startv365.com/live/9794783213/6955630461/187265.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBPGHfKRNvuOSK86DsSpab0XA7-VJCEx48vDEO5xI1q1-HfCHWe5Pu9ps&s=10", Star Gold Select HD
 http://lifetvbd.xyz:8080/live/939374737/73928472773/92.ts
-#EXTINF:-1 group-title="India", Star Utsav
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6iSqU6k3hzf7Ky7isCBrAEYMY3KaxAmF--JbwEXBkmA&s", Star Utsav
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=156163&play_token=LD5gOYVv7511
-#EXTINF:-1 group-title="India", Star Utsav Movies
+#EXTINF:-1 group-title="India" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FcV57fNkg.png&w=256&q=75", Star Utsav Movies
 http://startv365.com/live/9794783213/6955630461/187271.ts
 #EXTINF:-1 group-title="India", Utsav Plus HD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=267589&play_token=szyMrnXz7943
