@@ -148,9 +148,9 @@ http://startv365.com/live/9794783213/6955630461/378733.ts
 http://114.130.96.165:8080/1401/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png", Colors Bangla Cinema
 http://114.130.96.165:8080/1404/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/54/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg", Star Bharat
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YRo2AeRnmiaC2qtCW_iLA--fHOZ0Xbdy3wymCrEuaoBhClat-CEwj6A&s=10", Star Bharat
 http://startv365.com/live/9794783213/6955630461/62915.ts
-#EXTINF:-1 group-title="India" tvg-logo="https://multireach.in/wp-content/uploads/2023/04/STAR-BHARAT-HD.png", Star Bharat HD
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOCYfcyo2nrxQrEasrJBnlOYh7f3RxlJylRXVofo2-7-f4x_lEBFSi3Qg&s=10", Star Bharat HD
 http://mag.trexlive.me/Michael88/Michael88/945579
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png", Star Plus
 http://103.120.172.74:1120/
@@ -160,35 +160,35 @@ http://103.107.79.87:8080/CH8108HD03/video.m3u8
 http://mag.trexlive.me/live/Michael88/Michael88/280798.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mVDdnLar67YzOOeZ6cofYJH-cs3RISAAW-AJXp=s900-c-k-c0x00ffffff-no-rj", B4U Movies
 http://mag.trexlive.me/live/Michael88/Michael88/155987.ts
-#EXTINF:-1 group-title="India", Zee Cinema
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzDSdrGDRsTKNz8xJbolrYnzc_BWL1hVgc2lu94IkAtDGEE97iekFuo1C&s=10", Zee Cinema
 http://startv365.com/live/9794783213/6955630461/191443.ts
-#EXTINF:-1 group-title="India", Zee Cinema HD
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAndlJpyl2E-VVLES4METzSftB8BU7Kj5N2SEeFhzNMkj5Ti5GH1WZdmfF&s=10", Zee Cinema HD
 http://172.20.2.5:8082/ZeeCinemaHD/index.m3u8
-#EXTINF:-1 group-title="india", Zee Tv HD
+#EXTINF:-1 group-title="india"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY24_-Lh3pUmbanhldo9C22vYXSG26XayoKmISfmmcf8P6VxVe6S8eghjj&s=10", Zee Tv HD
 http://172.20.2.5:8082/Zee-Hd/index.m3u8
-#EXTINF:-1 group-title="Documentary", Dicovery HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9Om6gSN-Teqdgwo9VwjnsHn-aVw84RSuMg&usqp=CAU", Dicovery HD
 http://172.20.2.5:8082/Discovery-Tv/index.m3u8
-#EXTINF:-1 group-title="Documentary", Animal Planet HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635", Animal Planet HD
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#EXTINF:-1 group-title="Documentary", National Geographic
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Ub_XZjqwderIUkupTdfGVLjY75Fpi4h_oBWYXSrSLg&s", National Geographic
 http://172.20.2.5:8082/Nat-Geo/index.m3u8
-#EXTINF:-1 group-title="Documentary", National Geographic HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/national-geographic-hd.png", National Geographic HD
 http://103.107.79.87:8080/CH8110HD07/index.m3u8
-#EXTINF:-1 group-title="India", & Flix HD
+#EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png", & Flix HD
 http://lifetvbd.xyz:8080/live/939374737/73928472773/100.ts
-#EXTINF:-1 group-title="India", & Prive HD
+#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png", & Prive HD
 http://lifetvbd.xyz:8080/live/939374737/73928472773/304.ts
-#EXTINF:-1 group-title="Entertainment", Sony BBC Earth
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png", Sony BBC Earth HD
 http://172.20.2.5:8082/Bbc-Earth/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/nick.jpg", NICK
 http://172.20.2.5:8082/nike/index.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="http://tv.bdixtv.live/assets/images/duronto.jpg", Duronto Tv
 http://lifetvbd.xyz:8080/live/939374737/73928472773/228.ts
-#EXTINF:-1 group-title="CARTOON", Sonic
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png", Sonic
 http://114.130.96.165:8080/1303/index.m3u8
-#EXTINF:-1 group-title="Bangla", Madani Bangla
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6RZs6lLEnWoiTFzTseUDj6FUcblv-91pH-QT-lodmPLCblYnL3lJAVIZ&s=10", Madani Bangla HD
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
-#EXTINF:-1 group-title="CARTOON", Pogo
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQySsUe6YVUstmCI7sEmf1VGCO59yn72GSUlXGwrIJu6_991hFBQaET_Cxb&s=10", Pogo
 http://lifetvbd.xyz:8080/live/939374737/73928472773/33.ts
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Hungama Tv
 http://lifetvbd.xyz:8080/live/939374737/73928472773/90.ts
