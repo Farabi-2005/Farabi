@@ -49,7 +49,7 @@ http://172.20.2.5:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="http://tv4.hoichoi24.com/assets/images/Masranga1667751530.png", Masranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png", Nexus Tv
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
+http://lifetvbd.xyz:8080/live/939374737/73928472773/79.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Jamuna%20Tv1664825738.png", Jamuna Tv
 http://103.107.79.87:8080/1106/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv4.hoichoi24.com/assets/images/Channel%2091664824936.png", Channel 9
@@ -57,7 +57,7 @@ http://103.107.79.87:8080/1124/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jonmobhumi.tv/wp-content/uploads/2017/11/Final-Red-Logo.png", Jonmovumi Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/deeptotv.jpg", Deepto Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
+http://lifetvbd.xyz:8080/live/939374737/73928472773/3702.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.cumilla24.net/media/header_logo/S-logo-03.png", Cumilla 24 Tv
 http://103.149.142.133/0.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png", Asian Tv
