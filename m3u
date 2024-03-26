@@ -150,9 +150,9 @@ http://startv365.com/live/9794783213/6955630461/378733.ts
 http://103.107.79.87:8080/1401/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png", Colors Bangla Cinema
 http://103.107.79.87:8080/1404/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7YRo2AeRnmiaC2qtCW_iLA--fHOZ0Xbdy3wymCrEuaoBhClat-CEwj6A&s=10", Star Bharat
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqBfQqEIaH2h68w-T7AhfPmMlK7qFh7ZC-ARZyNntQgKYzi1AnFmI_owc&s=10", Star Bharat
 http://startv365.com/live/9794783213/6955630461/62915.ts
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOCYfcyo2nrxQrEasrJBnlOYh7f3RxlJylRXVofo2-7-f4x_lEBFSi3Qg&s=10", Star Bharat HD
+#EXTINF:-1 group-title="India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=310", Star Bharat HD
 http://mag.trexlive.me/Michael88/Michael88/945579
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png", Star Plus
 http://103.120.172.74:1120/
@@ -176,9 +176,9 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 http://172.20.2.5:8082/Nat-Geo/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/national-geographic-hd.png", National Geographic HD
 http://103.107.79.87:8080/CH8110HD07/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png", & Flix HD
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDLn8k3fWrWMBoyswH8Ty0FGByiMzVNgo3dg&usqp=CAU", & Flix HD
 http://lifetvbd.xyz:8080/live/939374737/73928472773/100.ts
-#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png", & Prive HD
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6cACC7Mw5Fjax-3_EufGL-pvd8qZ_cL_w0GrwUbc6Zo9hxKhUYObgkz5&s=10", & Prive HD
 http://lifetvbd.xyz:8080/live/939374737/73928472773/304.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png", Sony BBC Earth HD
 http://172.20.2.5:8082/Bbc-Earth/index.m3u8
@@ -208,11 +208,11 @@ http://lifetvbd.xyz:8080/live/939374737/73928472773/22.ts
 http://lifetvbd.xyz:8080/live/939374737/73928472773/989.ts
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", Cartoon Network
 http://195.26.87.217/live.ts?channelId=244&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://epanelbd.pw/upload/images/20240318_220950.jpg", Star Sports 1 HD
 http://172.20.2.5:8082/Star-Sports-1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpr_ai_k0vPYGljuow82vf7P8SrhuYx0Z0jZMdWvV2dng5kKzgPUEYkvY&s=10", Star Sports 2 HD
 http://172.20.2.5:8082/Star-Sports-2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png", Star Sports 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCqQuzY8rDjbqlnP_r6QegWf2iHOrKXRFImS6fkp7DSK5XnGXzwceu4a8&s=10", Star Sports 3
 http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNx73N1MLIzBuVvOlQnpfbzfZQBrAcuQ1YO-xPcsTLOkwfWtGzk-DN08MS&s=10",Star Sports select 1 HD
 http://172.20.2.5:8082/Star-Select-1/index.m3u8
@@ -220,7 +220,7 @@ http://172.20.2.5:8082/Star-Select-1/index.m3u8
 http://172.20.2.5:8082/Star-Select-2/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0W2RHTlAGAlB74cdWWCCGPzST72-LiRTBfvWheGN22W9MaEN7wRjgDS4&s=10", Sony Ten 1 HD
 http://172.20.2.5:8082/Ten1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfOlQdIkdXuXBOZSztAo187V6VTjr6ERiMOZi4nnyQDP3zm_FNaaZvgf5&s=10", Sony Ten 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa8a14RoBs4a_VDAID9zA64GhXEiyJ1wxGibnhD0rrBA&s", Sony Ten 2 HD
 http://172.20.2.5:8082/Ten2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6lKikYjvOf_0UhawQlDCP8lozEH5_P1xblZinQ-DemY91dOmsmsmP4Q&s=10", Sony Ten 3 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0nqB4MOvObBuIS_pqSJDl_nb_VxAyeKIe0mBqMay83JkwQE1Q8WH6FDI&s=10", Sony Ten 3 HD
 http://172.20.2.5:8082/Ten3/index.m3u8
