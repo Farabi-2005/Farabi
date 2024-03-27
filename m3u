@@ -126,7 +126,7 @@ http://172.20.2.5:8082/SonyPix/index.m3u8
 http://lifetvbd.xyz:8080/live/939374737/73928472773/3639.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10", Star Gold Romance
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=156033&play_token=uL68CJzw4479
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTXsuGsGAltpatzHcwokWzY1y28EMOzbiEOz87jGt0qYShe9i7eXOn0lQs&s=10", Star Gold Thrills
+#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Star_Gold_Thrills_logo.png", Star Gold Thrills
 http://172.20.2.5:8082/StarGold/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3S8IRSlGnH6dmMnArgOToZt8B97i_klQwUQ&usqp=CAU", Star Gold HD
 http://lifetvbd.xyz:8080/live/939374737/73928472773/42.ts
