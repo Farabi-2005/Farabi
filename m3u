@@ -218,9 +218,9 @@ http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
 http://172.20.2.5:8082/Star-Select-1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ZbeAUOdK.png",Star Sports select 2 HD
 http://172.20.2.5:8082/Star-Select-2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0W2RHTlAGAlB74cdWWCCGPzST72-LiRTBfvWheGN22W9MaEN7wRjgDS4&s=10", Sony Ten 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://103.107.79.72/logo/Sony-Sports1.png", Sony Ten 1 HD
 http://172.20.2.5:8082/Ten1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa8a14RoBs4a_VDAID9zA64GhXEiyJ1wxGibnhD0rrBA&s", Sony Ten 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://103.107.79.72/logo/Sony-Sports2.png", Sony Ten 2 HD
 http://172.20.2.5:8082/Ten2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0nqB4MOvObBuIS_pqSJDl_nb_VxAyeKIe0mBqMay83JkwQE1Q8WH6FDI&s=10", Sony Ten 3 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-3-hd.png", Sony Ten 3 HD
 http://172.20.2.5:8082/Ten3/index.m3u8
