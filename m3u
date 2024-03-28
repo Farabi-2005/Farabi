@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.devilbox.live/logo/BTVWORLDSD.png", BTV World
-http://103.107.79.87:8080/1127/index.fmp4.m3u8
+http://103.107.79.87:8080/1127/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://play-lh.googleusercontent.com/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw=w240-h480-rw", Toffee Sports
 http://lifetvbd.xyz:8080/live/939374737/73928472773/3595.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", GTV HD
-http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8
+http://172.20.2.5:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png", T Sports HD
-http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
+http://172.20.2.5:8082/T-Sports/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png", Sony Aath
 http://172.20.2.5:8082/Sonyaath/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg", Akash Aath
@@ -15,11 +15,11 @@ http://195.26.87.217/live.ts?channelId=79&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png", Sun Bangla
 http://watchindia.net:8880/live/62448/92037/2290.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg", Enter10 Bangla
-http://103.107.79.87:8080/1402/index.fmp4.m3u8
+http://103.107.79.87:8080/1402/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha
 http://lifetvbd.xyz:8080/live/939374737/73928472773/226.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XkW14ec4.png", Star Jalsha HD
-http://172.20.2.5:8082/Star-Jalsha/index.fmp4.m3u8
+http://172.20.2.5:8082/Star-Jalsha/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png", Zee Bangla
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=zee-bangla
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUSKY2MD6.png&w=256&q=75", Zee Bangla HD
