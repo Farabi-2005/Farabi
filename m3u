@@ -21,7 +21,7 @@ http://lifetvbd.xyz:8080/live/939374737/73928472773/226.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XkW14ec4.png", Star Jalsha HD
 http://172.20.2.5:8082/Star-Jalsha/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png", Zee Bangla
-https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=zee-bangla
+http://lifetvbd.xyz:8080/939374737/73928472773/225.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUSKY2MD6.png&w=256&q=75", Zee Bangla HD
 http://172.20.2.5:8082/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 group-title="India", tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png", Colors Bangla
@@ -150,7 +150,7 @@ http://startv365.com/live/9794783213/6955630461/378733.ts
 http://103.107.79.87:8080/1401/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png", Colors Bangla Cinema
 http://103.107.79.87:8080/1404/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBS9H0e6AYqq1pU_APnuXs84V2_wzrc05dWQ&usqp=CAU", Star Bharat
+#EXTINF:-1 group-title="India" tvg-logo="https://tv4.hoichoi24.com/assets/images/Star%20Bharat1664864810.png", Star Bharat
 http://lifetvbd.xyz:8080/939374737/73928472773/3943.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELnhCkUzh-2AXiR2i1iAfOMlHQDaZoETnEg&usqp=CAU", Star Bharat HD
 http://sansat.net:88/02029761595924/9d089925dc60a821/96173
