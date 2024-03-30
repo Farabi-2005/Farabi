@@ -105,7 +105,7 @@ http://172.20.2.5:8082/Sony-Max/index.m3u8
 #EXTINF:-1 group-title="india" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg", Colors
 http://172.20.2.5:8082/colorsindia/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="http://tv.bdixtv.live/assets/images/colorshd.jpg", Colors HD
-http://startv365.com/live/9794783213/6955630461/75410.ts
+http://lifetvbd.xyz:8080/939374737/73928472773/1504.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG00OC-vZ2a6ttvVJ5rMW9lZCHkUn3ljeLXmrIgHW8wPVR3enRPo2EvL8&s=10", Sony Tv
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/chunklist_w1960048111.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png", Sony Tv HD
