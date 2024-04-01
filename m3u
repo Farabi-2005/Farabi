@@ -107,7 +107,7 @@ http://172.20.2.5:8082/colorsindia/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="http://tv.bdixtv.live/assets/images/colorshd.jpg", Colors HD
 http://lifetvbd.xyz:8080/23452345/98123456/1504.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG00OC-vZ2a6ttvVJ5rMW9lZCHkUn3ljeLXmrIgHW8wPVR3enRPo2EvL8&s=10", Sony Tv
-http://103.72.179.30:1935/GECHindi/SONY.stream_720p/chunklist_w1960048111.m3u8
+http://mag.trexlive.me:80/Michael88/Michael88/163522
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png", Sony Tv HD
 http://172.20.2.5:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_bRBPH4gjr3eAfBceKiS3Y_SSehxRj_b0Tp9gk62gKedU9xjjnqlJIyHv&s=10", Sony Pal
@@ -123,7 +123,7 @@ http://xtv.ooo:8080/live/03155515900TG/03155515900TG/109966.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcUCWsATh1E7uPGYANqxPKbTSesVvJFAQw5gluu8KaIJ4dGtqWpIm5YE&s=10", Sony Pix HD
 http://172.20.2.5:8082/SonyPix/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS069xLkAL7fCAolsz_7-7c6EUNWXLi-vtt3b_hcXowikGG9-RaKHHoAR0&s=10", Star Gold
-http://lifetvbd.xyz:8080/23452345/98123456/3639.ts
+http://mag.trexlive.me:80/Michael88/Michael88/280766
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10", Star Gold Romance
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=156033&play_token=uL68CJzw4479
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Star_Gold_Thrills_logo.png", Star Gold Thrills
