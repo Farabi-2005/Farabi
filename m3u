@@ -168,7 +168,7 @@ http://startv365.com/live/9794783213/6955630461/191443
 http://172.20.2.5:8082/ZeeCinemaHD/index.m3u8
 #EXTINF:-1 group-title="india"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY24_-Lh3pUmbanhldo9C22vYXSG26XayoKmISfmmcf8P6VxVe6S8eghjj&s=10", Zee Tv HD
 http://172.20.2.5:8082/Zee-Hd/index.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9Om6gSN-Teqdgwo9VwjnsHn-aVw84RSuMg&usqp=CAU", Dicovery HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9Om6gSN-Teqdgwo9VwjnsHn-aVw84RSuMg&usqp=CAU", Discovery HD
 http://172.20.2.5:8082/Discovery-Tv/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635", Animal Planet HD
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
