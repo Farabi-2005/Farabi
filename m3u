@@ -51,11 +51,11 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 http://lifetvbd.xyz:8080/6576476/6434575/79
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSToRwpu0S59p9iXVUwy1evJAIrcC3A1tF_RyA93UQdjNB6HIJOGbpaEBuX&s=10", Jamuna Tv
 http://103.107.79.87:8080/1106/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png", Channel 9
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_jkTvX6sGLEpJmzo2f7iLwPClDRnoOIgnA&usqp=CAU", Channel 9
 http://103.107.79.87:8080/1124/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jonmobhumi.tv/wp-content/uploads/2017/11/Final-Red-Logo.png", Jonmovumi Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png", Deepto Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZbDjsGh7dqFyNiDGPv9ghzF54QJqqy8Ks9ucUgowyWwouUYaUk7txfYYt&s=10", Deepto Tv
 http://lifetvbd.xyz:8080/6576476/6434575/3702
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAApxD7GPoUqWh1FMOwuS25yQOGudsibNS7rK3MrkF6ybYH41RbPer8HuR&s=10", Cumilla 24 Tv
 http://103.149.142.133/0.m3u8
@@ -63,7 +63,7 @@ http://103.149.142.133/0.m3u8
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png", Independent tv
 http://172.20.2.5:8082/Independent-Tv/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png", News24 tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1lq0pRMhK1p8q-Y2dqTfBH6yxscKencnvV4kVOW-ZFr25CZXtqMQuyK6&s=10", News24 tv
 http://172.20.2.5:8082/News24bd/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg", Channel 24
 http://172.20.2.5:8082/Channel24/index.m3u8
