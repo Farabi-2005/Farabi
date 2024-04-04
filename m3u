@@ -152,9 +152,9 @@ http://103.107.79.87:8080/1401/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png", Colors Bangla Cinema
 http://103.107.79.87:8080/1404/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://tv4.hoichoi24.com/assets/images/Star%20Bharat1664864810.png", Star Bharat
-http://lifetvbd.xyz:8080/2345/6576476/6434575/3943
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELnhCkUzh-2AXiR2i1iAfOMlHQDaZoETnEg&usqp=CAU", Star Bharat HD
 http://lifetvbd.xyz:8080/6576476/6434575/115
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELnhCkUzh-2AXiR2i1iAfOMlHQDaZoETnEg&usqp=CAU", Star Bharat HD
+http://mag.trexlive.me:80/Michael88/Michael88/156173
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4_Jxm5TokQbBCiR-VdiM8cGqsI_d56bCgSFlv-llE_NsT7mEu6A5yHmY&s=10", Star Plus
 https://daem.short.gy/StarPlus_FreeDishBhai.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzbtCvPZWbrvcQjdvN01UJq5wiqPe_4GXgK8rg-N0X9EKRPbEi4s9-njJ&s=10", Star Plus HD
