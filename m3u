@@ -36,7 +36,7 @@ http://sansat.net:88/02029761595924/9d089925dc60a821/100697
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zIXyMX5R-CW4SQyd3Rn2gQ4bKP28Gt8l7g&usqp=CAU", Jalsha Movies HD
 http://172.20.2.5:8082/Jalshamovies/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC NEWS
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
+http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.devilbox.live/logo/BijoyTVSD.png", Bijoy Tv
 http://176.119.29.52/live.ts?channelId=85&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.devilbox.live/logo/MYTVSD.png", My Tv
@@ -52,7 +52,7 @@ http://172.20.2.5:8082/Atn-News/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png", Somoy tv
 http://172.20.2.5:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg", Masranga Tv
-https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png", Nexus Tv
 http://lifetvbd.xyz:8080/23452345/98123456/79
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSToRwpu0S59p9iXVUwy1evJAIrcC3A1tF_RyA93UQdjNB6HIJOGbpaEBuX&s=10", Jamuna Tv
@@ -60,9 +60,9 @@ http://103.107.79.87:8080/1106/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_jkTvX6sGLEpJmzo2f7iLwPClDRnoOIgnA&usqp=CAU", Channel 9
 http://103.107.79.87:8080/1124/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jonmobhumi.tv/wp-content/uploads/2017/11/Final-Red-Logo.png", Jonmovumi Tv
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/live-orgin/jonmobhumitv.stream/chunks.m3u8
+http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/live-orgin/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZbDjsGh7dqFyNiDGPv9ghzF54QJqqy8Ks9ucUgowyWwouUYaUk7txfYYt&s=10", Deepto Tv
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/chunks.m3u8
+http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAApxD7GPoUqWh1FMOwuS25yQOGudsibNS7rK3MrkF6ybYH41RbPer8HuR&s=10", Cumilla 24 Tv
 http://103.149.142.133/0.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png", Asian Tv
