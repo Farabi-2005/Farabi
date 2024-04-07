@@ -12,7 +12,7 @@ http://lifetvbd.xyz:8080/live/637274728473/1020304050/1686
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png", T Sports HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/1489
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png", Sony Aath
-http://172.20.2.5:8082/Sonyaath/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/2138
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg", Akash Aath
 http://195.26.87.217/live.ts?channelId=79&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png", Sun Bangla
@@ -111,7 +111,7 @@ http://lifetvbd.xyz:8080/live/637274728473/1020304050/2800
 http://172.20.2.5:8082/colorsindia/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="http://tv.bdixtv.live/assets/images/colorshd.jpg", Colors HD
 http://lifetvbd.xyz:8080/637274728473/1020304050/1504
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG00OC-vZ2a6ttvVJ5rMW9lZCHkUn3ljeLXmrIgHW8wPVR3enRPo2EvL8&s=10", Sony Tv
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/imagesNd9GcRG00OC-vZ2a6ttvVJ5rMW9lZCHkUn3ljeLXmrIgHW8wPVR3enRPo2EvL8&s=10", Sony Tv
 http://mag.trexlive.me:80/Michael88/Michael88/163522
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png", Sony Tv HD
 http://172.20.2.5:8082/SonyTVHD/index.m3u8
@@ -170,7 +170,7 @@ http://lifetvbd.xyz:8080/637274728473/1020304050/36
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzDSdrGDRsTKNz8xJbolrYnzc_BWL1hVgc2lu94IkAtDGEE97iekFuo1C&s=10", Zee Cinema
 http://startv365.com/live/9794783213/1020304050/191443
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAndlJpyl2E-VVLES4METzSftB8BU7Kj5N2SEeFhzNMkj5Ti5GH1WZdmfF&s=10", Zee Cinema HD
-http://172.20.2.5:8082/ZeeCinemaHD/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/1
 #EXTINF:-1 group-title="india"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY24_-Lh3pUmbanhldo9C22vYXSG26XayoKmISfmmcf8P6VxVe6S8eghjj&s=10", Zee Tv HD
 http://172.20.2.5:8082/Zee-Hd/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9Om6gSN-Teqdgwo9VwjnsHn-aVw84RSuMg&usqp=CAU", Discovery HD
@@ -186,9 +186,9 @@ http://lifetvbd.xyz:8080/637274728473/1020304050/100
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6cACC7Mw5Fjax-3_EufGL-pvd8qZ_cL_w0GrwUbc6Zo9hxKhUYObgkz5&s=10", & Prive HD
 http://lifetvbd.xyz:8080/637274728473/1020304050/304
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png", Sony BBC Earth HD
-http://172.20.2.5:8082/Bbc-Earth/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/129
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.bdixtv.live/assets/images/nick.jpg", NICK
-http://172.20.2.5:8082/nike/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/2609
 #EXTINF:-1 group-title="CARTOON" tvg-logo="http://tv.bdixtv.live/assets/images/duronto.jpg", Duronto Tv
 http://lifetvbd.xyz:8080/637274728473/1020304050/228
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png", Sonic
@@ -214,18 +214,18 @@ http://lifetvbd.xyz:8080/637274728473/1020304050/989
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", Cartoon Network
 http://195.26.87.217/live.ts?channelId=244&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Sports" tvg-logo="https://epanelbd.pw/upload/images/20240318_220950.jpg", Star Sports 1 HD
-http://172.20.2.5:8082/Star-Sports-1/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/135
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpr_ai_k0vPYGljuow82vf7P8SrhuYx0Z0jZMdWvV2dng5kKzgPUEYkvY&s=10", Star Sports 2 HD
-http://172.20.2.5:8082/Star-Sports-2/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/53
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCqQuzY8rDjbqlnP_r6QegWf2iHOrKXRFImS6fkp7DSK5XnGXzwceu4a8&s=10", Star Sports 3
 http://lifetvbd.xyz:8080/23452345/98123456/134
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNx73N1MLIzBuVvOlQnpfbzfZQBrAcuQ1YO-xPcsTLOkwfWtGzk-DN08MS&s=10",Star Sports select 1 HD
-http://172.20.2.5:8082/Star-Select-1/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/59
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ZbeAUOdK.png",Star Sports select 2 HD
-http://172.20.2.5:8082/Star-Select-2/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/60
 #EXTINF:-1 group-title="Sports" tvg-logo="http://103.107.79.72/logo/SonySports1.png", Sony Ten 1 HD
-http://172.20.2.5:8082/Ten1/index.m3u8
+http://lifetvbd.xyz:8080/l728473/1020304050/66
 #EXTINF:-1 group-title="Sports" tvg-logo="http://103.107.79.72/logo/Sony-Sports2.png", Sony Ten 2 HD
-http://172.20.2.5:8082/Ten2/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/67
 #EXTINF:-1 group-title="Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png", Sony Ten 3 HD
-http://172.20.2.5:8082/Ten3/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/136
