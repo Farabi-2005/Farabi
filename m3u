@@ -70,9 +70,9 @@ https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png", Independent Tv
 http://172.20.2.5:8082/Independent-Tv/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1lq0pRMhK1p8q-Y2dqTfBH6yxscKencnvV4kVOW-ZFr25CZXtqMQuyK6&s=10", News24 Tv
-http://172.20.2.5:8082/News24bd/index.m3u8
+http://lifetvbd.xyz:8080/live/23452345/98123456/502
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg", Channel 24
-https://live-ak.vimeocdn.com/exp=1712468686~acl=%2F10dd3913-e7d9-4382-99b6-c8281bbd9991%2F%2A~hmac=4d43129290b05c0479d39f2ff4a66ab8d619f3584877bab47f1f194f5af0c844/10dd3913-e7d9-4382-99b6-c8281bbd9991/chunklist_b3256000.m3u8
+http://lifetvbd.xyz:8080/live/23452345/98123456/83
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png", Channel I
 http://172.20.2.5:8082/Channel-i/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg", Ekushey Tv
