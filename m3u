@@ -96,7 +96,7 @@ http://172.20.2.5:8082/GaanBangla/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png", Mohona Tv
 http://172.20.2.5:8082/MohonaTV/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s", Nagorik Tv
-http://103.107.79.87:8080/1113/index.m3u8
+http://lifetvbd.xyz:8080/live/23452345/98123456/1707
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png", Ananda Tv
 http://103.107.79.87:8080/1117/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCeIOPVVROC_tlej8MIXLygFsQAv5Il7uk9HPyCtHm3N6STZ00WTRSGnga&s=10", & Pictures HD
