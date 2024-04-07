@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.devilbox.live/logo/BTVWORLDSD.png", BTV World
-http://103.107.79.87:8080/1127/index.m3u8
+http://lifetvbd.xyz:8080/live/23452345/98123456/75
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", Toffee Movies
 http://lifetvbd.xyz:8080/23452345/98123456/3718
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Pe2KV3gOSTvpaFx3iDbuM9yCCjjNZUGrMA&usqp=CAU", Toffee Drama
@@ -8,9 +8,9 @@ http://lifetvbd.xyz:8080/23452345/98123456/3676
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://play-lh.googleusercontent.com/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw=w240-h480-rw", Toffee Sports
 http://lifetvbd.xyz:8080/23452345/98123456/3595
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", GTV HD
-http://172.20.2.5:8082/Gazi-Tv/index.m3u8
+http://lifetvbd.xyz:8080/live/23452345/98123456/1686
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png", T Sports HD
-http://103.107.79.87:8080/1101/index.m3u8
+http://lifetvbd.xyz:8080/live/23452345/98123456/1489
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png", Sony Aath
 http://172.20.2.5:8082/Sonyaath/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg", Akash Aath
@@ -44,7 +44,7 @@ https://myflixbd.com/0.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg", Desh Tv
 http://lifetvbd.xyz:8080/23452345/98123456/80
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png", Bangla Tv
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
+http://lifetvbd.xyz:8080/live/23452345/98123456/371
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png", Ekattor tv
 http://172.20.2.5:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6CLh_hlUZT-9b0pssUXVKZ184xIMwOAWLR50j0WnSU0Jy6P2PamNhiQ&s=10", ATN NEWS
@@ -78,7 +78,7 @@ http://172.20.2.5:8082/Channel-i/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg", Ekushey Tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png", NTV
-http://lifetvbd.xyz:8080/live/23452345/98123456/371
+http://lifetvbd.xyz:8080/live/23452345/98123456/2800
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png", Ekhon Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png", RTV
@@ -106,7 +106,7 @@ http://195.26.87.217/live.ts?channelId=140&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="India" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png", Sony Max
 http://mag.trexlive.me/live/Michael88/Michael88/164031
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png", Sony Max HD
-http://172.20.2.5:8082/Sony-Max/index.m3u8
+http://lifetvbd.xyz:8080/live/23452345/98123456/2800
 #EXTINF:-1 group-title="india" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg", Colors
 http://172.20.2.5:8082/colorsindia/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="http://tv.bdixtv.live/assets/images/colorshd.jpg", Colors HD
