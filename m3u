@@ -44,7 +44,7 @@ https://myflixbd.com/0.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg", Desh Tv
 http://lifetvbd.xyz:8080/637274728473/1020304050/80
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png", Bangla Tv
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=1284554?stime=20240408055516&etime=20240408060516&encoded=040719513217484fe6eb9
+http://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=1284554?stime=20240408055516&etime=20240408060516&encoded=040719513217484fe6eb9
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png", Ekattor tv
 http://172.20.2.5:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png", ATN Bangla
