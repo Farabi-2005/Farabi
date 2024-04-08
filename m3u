@@ -56,7 +56,7 @@ http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png", Nexus Tv
 http://lifetvbd.xyz:8080/637274728473/1020304050/79
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSToRwpu0S59p9iXVUwy1evJAIrcC3A1tF_RyA93UQdjNB6HIJOGbpaEBuX&s=10", Jamuna Tv
-http://103.107.79.87:8080/1106/index.m3u8
+https://iv.melmac.space/api/manifest/hls_variant/expire/1712596049/ei/8c8TZpjnF4DJi9oPu6ut-As/ip/2a0a%3A4580%3A1011%3Aa100%3A%3A337%3A9f1f/id/EYd-9qjsI_k.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8G65QeeJY7EOonTkxiWAxaI30SelhicfYU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMabhDGll71c7BBUWir_lx6xamh6FQ4ArOeQwFEHv64WAiEAiPZaiWq9zBvsmZ8IWiflUADnI9-Agfcg-h3HGCsvtBk%3D/file/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_jkTvX6sGLEpJmzo2f7iLwPClDRnoOIgnA&usqp=CAU", Channel 9
 http://103.107.79.87:8080/1124/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jonmobhumi.tv/wp-content/uploads/2017/11/Final-Red-Logo.png", Jonmovumi Tv
