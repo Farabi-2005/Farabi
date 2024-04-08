@@ -74,7 +74,7 @@ http://lifetvbd.xyz:8080/live/637274728473/1020304050/502
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg", Channel 24
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/83
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png", Channel I
-http://208.86.19.13:81/510.stream/index.fmp4.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/326
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg", Ekushey Tv
 http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png", NTV
