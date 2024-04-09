@@ -107,7 +107,7 @@ http://195.26.87.217/live.ts?channelId=140&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://mag.trexlive.me/live/Michael88/Michael88/164031
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png", Sony Max HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/2800
-#EXTINF:-1 group-title="india" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg", Colors
+#EXTINF:-1 group-title="india" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdrlQrUyKPTHmrU0PwHPxUh2vV2wrhL3I8zfgT2ZSSw&s", Colors
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/2649
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8MkUBhYdJteE4YyWtGx26Knooy4hLKKcqFw&usqp=CAU", Colors HD
 http://lifetvbd.xyz:8080/637274728473/1020304050/1504
@@ -143,7 +143,7 @@ http://lifetvbd.xyz:8080/637274728473/1020304050/65
 http://lifetvbd.xyz:8080/637274728473/1020304050/92
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6iSqU6k3hzf7Ky7isCBrAEYMY3KaxAmF--JbwEXBkmA&s", Star Utsav
 http://sansat.net:88/02029761595924/9d089925dc60a821/96177
-#EXTINF:-1 group-title="India" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FcV57fNkg.png&w=256&q=75", Star Utsav Movies
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSJLVSzhtdCo6gk68FeT4Sn-OfpF4OFPXjAg&usqp=CAU", Star Utsav Movies
 http://sansat.net:88/02029761595924/9d089925dc60a821/96178
 #EXTINF:-1 group-title="India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Utsav_Plus_HD_logo.svg/revision/latest?cb=20210126010802", Utsav Plus HD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=267589&play_token=szyMrnXz7943
