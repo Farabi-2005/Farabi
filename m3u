@@ -152,7 +152,7 @@ http://103.107.79.87:8080/CH8109HD05/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTu9adW7fqemvuxH2SFW1jg4litrEQ9sCFAuXW8NX2EtVImT1K8D7HGjkB&s=10", Zee Bollywood
 http://lifetvbd.xyz:8080/637274728473/1020304050/3
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg", Zee Bangla Cinema
-http://103.107.79.87:8080/1401/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/7
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png", Colors Bangla Cinema
 http://103.107.79.87:8080/1404/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://tv4.hoichoi24.com/assets/images/Star%20Bharat1664864810.png", Star Bharat
@@ -224,7 +224,7 @@ http://lifetvbd.xyz:8080/live/637274728473/1020304050/59
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ZbeAUOdK.png",Star Sports select 2 HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/60
 #EXTINF:-1 group-title="Sports" tvg-logo="http://103.107.79.72/logo/SonySports1.png", Sony Ten 1 HD
-http://lifetvbd.xyz:8080/l728473/1020304050/66
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/66
 #EXTINF:-1 group-title="Sports" tvg-logo="http://103.107.79.72/logo/Sony-Sports2.png", Sony Ten 2 HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/67
 #EXTINF:-1 group-title="Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png", Sony Ten 3 HD
