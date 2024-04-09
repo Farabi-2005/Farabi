@@ -125,7 +125,7 @@ http://mag.trexlive.me/live/Michael88/Michael88/42460
 http://lifetvbd.xyz:8080/637274728473/1020304050/138
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png", Sony Pix
 http://11plus.live/live/sonypixhd/index.fmp4.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSliHwaSb11IfGyMSHTeF4T5k5TUJ7Y9d_V5fT7iOXGm00uMy86S4DC-rIh&s=10", Sony Pix HD
+#EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png", Sony Pix HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/128
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS069xLkAL7fCAolsz_7-7c6EUNWXLi-vtt3b_hcXowikGG9-RaKHHoAR0&s=10", Star Gold
 http://mag.trexlive.me:80/Michael88/Michael88/280766
@@ -185,7 +185,7 @@ http://103.107.79.87:8080/CH8110HD07/index.fmp4.m3u8
 http://lifetvbd.xyz:8080/637274728473/1020304050/100
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6cACC7Mw5Fjax-3_EufGL-pvd8qZ_cL_w0GrwUbc6Zo9hxKhUYObgkz5&s=10", & Prive HD
 http://lifetvbd.xyz:8080/637274728473/1020304050/304
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7I9y2_56MI2PVgssoJqT-ERqdGF9m2E5lch6ZZmlAhI0ZLPxyPeziLl6K&s=10", Sony BBC Earth HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png", Sony BBC Earth HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/129
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdo3WNeaGJq-F8fy7ph2NItU93Ho4LeuxX_RI1Jimhpg&s", NICK
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/2609
