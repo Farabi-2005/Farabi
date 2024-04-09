@@ -103,7 +103,7 @@ http://103.107.79.87:8080/1117/index.m3u8
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/4
 #EXTINF:-1 group-title="India" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png", & TV HD
 http://195.26.87.217/live.ts?channelId=140&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="India" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png", Sony Max
+#EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png", Sony Max
 http://mag.trexlive.me/live/Michael88/Michael88/164031
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png", Sony Max HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/2800
@@ -115,11 +115,11 @@ http://lifetvbd.xyz:8080/637274728473/1020304050/1504
 http://mag.trexlive.me:80/Michael88/Michael88/163522
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png", Sony Tv HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/2799
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_bRBPH4gjr3eAfBceKiS3Y_SSehxRj_b0Tp9gk62gKedU9xjjnqlJIyHv&s=10", Sony Pal
+#EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png", Sony Pal
 http://lifetvbd.xyz:8080/637274728473/1020304050/474
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAcfYRV0RpEHpM62odlFhJj1rRPYLSh3YLk4kqWMBowU86U_NcfktpV1V&s=10", Sony Wah
 http://lifetvbd.xyz:8080/637274728473/1020304050/1807
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zxfWus_uFD2iuShxE0mwEzQsOip7Ddg0DIgdIbw-eA&s", Sony Sab
+#EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png", Sony Sab
 http://mag.trexlive.me/live/Michael88/Michael88/42460
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png", Sony Sab HD
 http://lifetvbd.xyz:8080/637274728473/1020304050/138
