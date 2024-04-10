@@ -24,7 +24,7 @@ http://103.107.79.87:8080/1406/index.fmp4.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XkW14ec4.png", Star Jalsha HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/50
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png", Zee Bangla
-http://mag.trexlive.me/live/Michael88/Michael88/225786
+http://mag.trexlive.me/live/Michael88/Michael88/225786.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUSKY2MD6.png&w=256&q=75", Zee Bangla HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/11
 #EXTINF:-1 group-title="India", tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png", Colors Bangla
@@ -32,7 +32,7 @@ http://mag.trexlive.me/Michael88/Michael88/225740
 #EXTINF:-1 group-title="India" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest/scale-to-width-down/200?cb=20210420120554", Colors Bangla HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/121
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQThEIGabdDdqX2Ey4vRUZsuyLKqaitUqKjaNavNFwAgBKztaP1B69gtm-P&s=10", Jalsha Movies
-http://sansat.net:88/02029761595924/9d089925dc60a821/100697
+http://sansat.net:88/02029761595924/9d089925dc60a821/100697.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zIXyMX5R-CW4SQyd3Rn2gQ4bKP28Gt8l7g&usqp=CAU", Jalsha Movies HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/3628
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC NEWS
@@ -104,7 +104,7 @@ http://lifetvbd.xyz:8080/live/637274728473/1020304050/4
 #EXTINF:-1 group-title="India" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png", & TV HD
 http://195.26.87.217/live.ts?channelId=140&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png", Sony Max
-http://mag.trexlive.me/live/Michael88/Michael88/163523
+http://mag.trexlive.me/live/Michael88/Michael88/163523.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png", Sony Max HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/2800
 #EXTINF:-1 group-title="india" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdrlQrUyKPTHmrU0PwHPxUh2vV2wrhL3I8zfgT2ZSSw&s", Colors
@@ -120,7 +120,7 @@ http://lifetvbd.xyz:8080/637274728473/1020304050/474
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png", Sony Wah
 http://lifetvbd.xyz:8080/637274728473/1020304050/1807
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png", Sony Sab
-http://mag.trexlive.me/live/Michael88/Michael88/42460
+http://mag.trexlive.me/live/Michael88/Michael88/42460.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png", Sony Sab HD
 http://lifetvbd.xyz:8080/637274728473/1020304050/138
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png", Sony Pix
@@ -128,7 +128,7 @@ http://11plus.live/live/sonypixhd/index.fmp4.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png", Sony Pix HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/128
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS069xLkAL7fCAolsz_7-7c6EUNWXLi-vtt3b_hcXowikGG9-RaKHHoAR0&s=10", Star Gold
-http://mag.trexlive.me:80/Michael88/Michael88/280766
+http://mag.trexlive.me:80/Michael88/Michael88/280766.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10", Star Gold Romance
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=156033&play_token=uL68CJzw4479
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Star_Gold_Thrills_logo.png", Star Gold Thrills
@@ -142,9 +142,9 @@ http://lifetvbd.xyz:8080/637274728473/1020304050/65
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBPGHfKRNvuOSK86DsSpab0XA7-VJCEx48vDEO5xI1q1-HfCHWe5Pu9ps&s=10", Star Gold Select HD
 http://lifetvbd.xyz:8080/637274728473/1020304050/92
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6iSqU6k3hzf7Ky7isCBrAEYMY3KaxAmF--JbwEXBkmA&s", Star Utsav
-http://mag.trexlive.me/live/Michael88/Michael88/156163
+http://mag.trexlive.me/live/Michael88/Michael88/156163.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSJLVSzhtdCo6gk68FeT4Sn-OfpF4OFPXjAg&usqp=CAU", Star Utsav Movies
-http://mag.trexlive.me/live/Michael88/Michael88/1112131
+http://mag.trexlive.me/live/Michael88/Michael88/1112131.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Utsav_Plus_HD_logo.svg/revision/latest?cb=20210126010802", Utsav Plus HD
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:B4:AF:19&extension=ts&stream=267589&play_token=szyMrnXz7943
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi_d1dKixyi3xQksZFWkUoN5wPkXAa5ZPxBmt2xK89sRfWnVHAC5tV5So&s=10", UTV Movies HD
