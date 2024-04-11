@@ -211,7 +211,7 @@ http://195.26.87.217/live.ts?channelId=251&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png", Discovery Kids
 http://lifetvbd.xyz:8080/637274728473/1020304050/22
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png", Sony Yay
-http://lifetvbd.xyz:8080/637274728473/1020304050/989
+http://lifetvbd.xyz:8080/637274728473/1020304050/224
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", Cartoon Network
 http://195.26.87.217/live.ts?channelId=244&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Sports" tvg-logo="https://epanelbd.pw/upload/images/20240318_220950.jpg", Star Sports 1 HD
