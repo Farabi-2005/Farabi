@@ -4,7 +4,7 @@
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/75
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", Toffee Movies
 http://lifetvbd.xyz:8080/637274728473/1020304050/3718
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Pe2KV3gOSTvpaFx3iDbuM9yCCjjNZUGrMA&usqp=CAU", Toffee Drama
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Pe2KV3gOSTvpaFx3iDbuM9yCCjjNZUGrMA&usqp=CAU", Toffee Dramas
 http://lifetvbd.xyz:8080/637274728473/1020304050/3676
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://play-lh.googleusercontent.com/6f-KNzrLd72Upq7sqhMcMtZS-vCyb-21-J1Pr1kLHXbxr_dePs2O7vP7hAgMk8dxRw=w240-h480-rw", Toffee Sports
 http://lifetvbd.xyz:8080/637274728473/1020304050/3595
@@ -201,9 +201,9 @@ http://lifetvbd.xyz:8080/637274728473/1020304050/33
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Hungama Tv
 http://lifetvbd.xyz:8080/637274728473/1020304050/90
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png", Super Hungama
-http://119.152.21.12:8000/play/a01l/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/3673
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
-http://119.152.21.12:8000/play/a01i/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/496
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2Fj5FueTSk.png&w=640&q=75", Disney Channel HD
 http://lifetvbd.xyz:8080/637274728473/1020304050/89
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png", Disney XD
