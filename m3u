@@ -11,7 +11,7 @@ http://lifetvbd.xyz:8080/637274728473/1020304050/3595.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", GTV HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/1686.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png", T Sports HD
-http://lifetvbd.xyz:8080/live/637274728473/1020304050/1489.ts
+https://live-cdn.tsports.com/live-02/master_1920.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png", Sony Aath
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/2138.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg", Akash Aath
