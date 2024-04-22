@@ -10,7 +10,7 @@ http://lifetvbd.xyz:8080/637274728473/1020304050/3676.ts
 http://lifetvbd.xyz:8080/637274728473/1020304050/3595.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", GTV HD
 http://103.107.79.87:8080/1102/index.fmp4.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png", T Sports HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJeIJ7nGU2y9uCXWzA0ndZSf0wnDcW2buD1nOOOj1_r4C4KxSs85c9xCh&s=10", T Sports HD
 https://live-cdn.tsports.com/live-02/master_1920.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png", Sony Aath
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/2138.ts
