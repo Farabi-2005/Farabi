@@ -186,7 +186,7 @@ http://103.107.79.87:8080/CH8110HD07/index.fmp4.m3u8
 http://lifetvbd.xyz:8080/637274728473/1020304050/100.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6cACC7Mw5Fjax-3_EufGL-pvd8qZ_cL_w0GrwUbc6Zo9hxKhUYObgkz5&s=10", & Prive HD
 http://lifetvbd.xyz:8080/637274728473/1020304050/304.ts
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png", Sony BBC Earth HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png", Sony BBC Earth HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/129.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdo3WNeaGJq-F8fy7ph2NItU93Ho4LeuxX_RI1Jimhpg&s", NICK
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/2609.ts
