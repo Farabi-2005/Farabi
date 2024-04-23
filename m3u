@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.devilbox.live/logo/BTVWORLDSD.png", BTV World
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png", BTV World
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/75.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", Toffee Movies
 http://lifetvbd.xyz:8080/637274728473/1020304050/3718.ts
@@ -38,9 +38,9 @@ http://lifetvbd.xyz:8080/live/637274728473/1020304050/5630.ts
 http://mag.trexlive.me/live/Michael88/Michael88/1118058.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC NEWS
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.devilbox.live/logo/BijoyTVSD.png", Bijoy Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://bijoy.tv/wp-content/uploads/2024/01/logo.gif", Bijoy Tv
 http://176.119.29.52/live.ts?channelId=85&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.devilbox.live/logo/MYTVSD.png", My Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png", My Tv
 https://myflixbd.com/0.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg", Desh Tv
 http://lifetvbd.xyz:8080/637274728473/1020304050/80.ts
@@ -224,9 +224,9 @@ http://lifetvbd.xyz:8080/live/637274728473/1020304050/134.ts
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/59.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ZbeAUOdK.png",Star Sports select 2 HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/60.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="http://103.107.79.72/logo/SonySports1.png", Sony Ten 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png", Sony Ten 1 HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/66.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="http://103.107.79.72/logo/Sony-Sports2.png", Sony Ten 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png", Sony Ten 2 HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/67.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png", Sony Ten 3 HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/136.ts
