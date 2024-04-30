@@ -6,7 +6,7 @@ http://lifetvbd.xyz:8080/637274728473/1020304050/3718.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Pe2KV3gOSTvpaFx3iDbuM9yCCjjNZUGrMA&usqp=CAU", Toffee Dramas
 http://lifetvbd.xyz:8080/637274728473/1020304050/3676.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4sao4QMrW4QCorCZq1Su0lV-C8jN7IXwJbCAt7VfwFIFUajCdlvq5aQJj&s=10", PTV Sports
-http://103.107.79.87:8080/CH8107SD07/index.fmp4.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/71.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", GTV HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/1686.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJeIJ7nGU2y9uCXWzA0ndZSf0wnDcW2buD1nOOOj1_r4C4KxSs85c9xCh&s=10", T Sports HD
@@ -19,8 +19,8 @@ http://195.26.87.217/live.ts?channelId=79&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://lifetvbd.xyz:8080/637274728473/1020304050/118.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg", Enter10 Bangla
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/3873.ts
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha
-http://103.107.79.87:8080/1406/index.fmp4.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha (TATA Play)
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/494.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XkW14ec4.png", Star Jalsha HD
 http://lifetvbd.xyz:8080/live/637274728473/1020304050/50.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png", Zee Bangla
@@ -88,7 +88,7 @@ http://lifetvbd.xyz:8080/live/637274728473/1020304050/39.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png", Bangla Vision
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/800px-Boishakhi_TV_logo.svg.png", Boishakhi Tv
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+http://lifetvbd.xyz:8080/live/637274728473/1020304050/170.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/XqQLS0Qc/Dd-Bangla.png", DD Bangla
 http://195.26.87.217/live.ts?channelId=36290&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsPSO79i_9mjs_EjJDO40LuUp1Q8uF-BHgt4WJW2E53effHKESvh0ILTd_&s=10", Gaan Bangla
