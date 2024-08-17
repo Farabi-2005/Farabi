@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U × TG:@m3u_lovers
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTINF:-1 group-title="Bangla"
 #EXTINF:-1 group-title="Bangla", GTV
 http://172.19.178.39:18190/JS-TV-01/index.m3u8
@@ -42,6 +43,8 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 http://172.19.178.59:18190/SN-ST-TV-35/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla", Zee Bangla HD
 http://172.19.178.39:18190/JS-TV-09/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla", Sony Aath
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=3161
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://172.19.178.39:18190/JS-TV-04/index.m3u8
 #EXTINF:-1 group-title="Sports", Sony Sports 5 HD
