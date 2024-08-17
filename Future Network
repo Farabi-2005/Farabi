@@ -1,5 +1,4 @@
 #EXTM3U × TG:@m3u_lovers
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTINF:-1 group-title="Bangla"
 #EXTINF:-1 group-title="Bangla", GTV
 http://172.19.178.39:18190/JS-TV-01/index.m3u8
@@ -51,6 +50,27 @@ http://172.19.178.39:18190/JS-TV-04/index.m3u8
 http://172.19.178.49:18190/SN-ST-TV-02/index.m3u8
 #EXTINF:-1 group-title="Cartoon", Pogo
 http://217.20.112.199/pogo/index.m3u8
-#EXTINF:-1 group-title="India", Disney Channel
-http://103.126.50.99:49893/ghLs2zdZSnFvTT000028143b313e8776332c8da287676052967bcf6573eefee8b59b2267c9/tracks-v1a1a2a3a4/2024/08/17/11/34/34-02000.ts?token=1de7c9f35991b58f3d3a6c0a117473c1
-#EXTINF:-1 group-title="India", 
+#EXTINF:-1 group-title="Cartoon", Disney Channel
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=864
+#EXTINF:-1 group-title="Cartoon", Hungama Tv
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=11305
+#EXTINF:-1 group-title="India", Sony Max HD
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=5042
+#EXTINF:-1 group-title="India", Sony Sab HD
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=5045
+#EXTINF:-1 group-title="India", Sony Tv
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=3447
+#EXTINF:-1 group-title="India", Star Bharat HD
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=4032
+#EXTINF:-1 group-title="India", Star Plus HD
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=648
+#EXTINF:-1 group-title="India", Star Gold HD
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=646
+#EXTINF:-1 group-title="India", Star Gold 2
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=5702
+#EXTINF:-1 group-title="India", Star Gold Select
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=4030
+#EXTINF:-1 group-title="India", B4U Movies
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=5272
+
+
