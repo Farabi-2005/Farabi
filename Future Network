@@ -52,14 +52,22 @@ http://172.19.178.49:18190/SN-ST-TV-02/index.m3u8
 http://217.20.112.199/pogo/index.m3u8
 #EXTINF:-1 group-title="Cartoon", Disney Channel
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=864
+#EXTINF:-1 group-title="Cartoon", Disney Channel HD
+https://port.yuvraj49.in/xegd/master.m3u8?id=4538
 #EXTINF:-1 group-title="Cartoon", Hungama Tv
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=11305
+#EXTINF:-1 group-title="Cartoon", Super Hungama
+https://port.yuvraj49.in/xegd/master.m3u8?id=5952
 #EXTINF:-1 group-title="India", Sony Max HD
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=5042
 #EXTINF:-1 group-title="India", Sony Sab HD
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=5045
 #EXTINF:-1 group-title="India", Sony Tv
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=3447
+#EXTINF:-1 group-title="India", Star Plus
+https://port.yuvraj49.in/xegd/master.m3u8?id=4688
+#EXTINF:-1 group-title="India", Star Plus HD
+https://yuvraj.fun/jazz/index.ts?id=648
 #EXTINF:-1 group-title="India", Star Bharat HD
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=4032
 #EXTINF:-1 group-title="India", Star Plus HD
