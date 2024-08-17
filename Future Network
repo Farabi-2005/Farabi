@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla", BTV
-http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
+#EXTINF:-1 group-title="Bangla"
 #EXTINF:-1 group-title="Bangla", GTV
 http://172.19.178.39:18190/JS-TV-01/index.m3u8
 #EXTINF:-1 group-title="Bangla", T Sports
@@ -19,6 +18,12 @@ http://172.19.178.59:18190/SN-ST-TV-28/index.m3u8
 http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
 #EXTINF:-1 group-title="Bangla", Asian Tv
 http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
+#EXTINF:-1 group-title="Bangla", Masranga Tv
+http://172.19.178.39:18190/JS-TV-02/index.m3u8
+#EXTINF:-1 group-title="Bangla", Jamuna Tv
+http://172.19.178.39:18190/JS-TV-03/index.m3u8
+#EXTINF:-1 group-title="Bangla", Nagorik Tv
+http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
 #EXTINF:-1 group-title="Bangla", Ekattor Tv
 http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
 #EXTINF:-1 group-title="Bangla", My Tv
