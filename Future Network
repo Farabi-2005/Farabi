@@ -24,7 +24,7 @@ http://172.19.178.39:18190/JS-TV-02/index.m3u8
 http://172.19.178.39:18190/JS-TV-03/index.m3u8
 #EXTINF:-1 group-title="Bangla", Nagorik Tv
 http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Ekattor Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",", Ekattor Tv
 http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
 #EXTINF:-1 group-title="Bangla", My Tv
 http://172.19.178.59:18190/SN-ST-TV-32/index.m3u8
