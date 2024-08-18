@@ -20,11 +20,11 @@ http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
 http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
 #EXTINF:-1 group-title="Bangla", Masranga Tv
 http://172.19.178.39:18190/JS-TV-02/index.m3u8
-#EXTINF:-1 group-title="Bangla", Jamuna Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png", Jamuna Tv
 http://172.19.178.39:18190/JS-TV-03/index.m3u8
 #EXTINF:-1 group-title="Bangla", Nagorik Tv
 http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
-#EXTINF:-1 group-title="Bangla", Ekattor Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Ekattor Tv
 http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
 #EXTINF:-1 group-title="Bangla", My Tv
 http://172.19.178.59:18190/SN-ST-TV-32/index.m3u8
@@ -54,13 +54,13 @@ http://172.19.178.39:18190/JS-TV-04/index.m3u8
 http://172.19.178.49:18190/SN-ST-TV-02/index.m3u8
 #EXTINF:-1 group-title="Cartoon", Pogo
 http://217.20.112.199/pogo/index.m3u8
-#EXTINF:-1 group-title="Cartoon", Disney Channel
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=864
-#EXTINF:-1 group-title="Cartoon", Disney Channel HD
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2Fj5FueTSk.png&w=640&q=75", Disney Channel HD
 https://port.yuvraj49.in/xegd/master.m3u8?id=4538
-#EXTINF:-1 group-title="Cartoon", Hungama Tv
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Hungama Tv
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=11305
-#EXTINF:-1 group-title="Cartoon", Super Hungama
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png", Super Hungama
 https://port.yuvraj49.in/xegd/master.m3u8?id=5952
 #EXTINF:-1 group-title="India", Sony Max HD
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=5042
