@@ -18,6 +18,12 @@ http://172.19.178.59:18190/SN-ST-TV-28/index.m3u8
 http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
 #EXTINF:-1 group-title="Bangla", Asian Tv
 http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
+#EXTINF:-1 group-title="Bangla", Channel 9
+https://yuvraj.fun/jazz/index.ts?id=3162
+#EXTINF:-1 group-title="Bangla", News 24
+https://yuvraj.fun/jazz/index.ts?id=3140
+#EXTINF:-1 group-title="Bangla", Independent Tv
+https://yuvraj.fun/jazz/index.ts?id=3185
 #EXTINF:-1 group-title="Bangla", Masranga Tv
 http://172.19.178.39:18190/JS-TV-02/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png", Jamuna Tv
@@ -55,7 +61,7 @@ http://172.19.178.49:18190/SN-ST-TV-02/index.m3u8
 #EXTINF:-1 group-title="Cartoon", Pogo
 http://217.20.112.199/pogo/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=864
+https://yuvraj.fun/jazz/index.ts?id=864
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2Fj5FueTSk.png&w=640&q=75", Disney Channel HD
 https://port.yuvraj49.in/xegd/master.m3u8?id=4538
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Hungama Tv
@@ -64,8 +70,10 @@ https://port.yuvraj49.in/dd-150724/index.m3u8?id=11305
 https://port.yuvraj49.in/xegd/master.m3u8?id=5952
 #EXTINF:-1 group-title="India", Sony Max HD
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=5042
-#EXTINF:-1 group-title="India", Sony Sab HD
+#EXTINF:-1 group-title="India", Sony Sab
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=5045
+#EXTINF:-1 group-title="India", Sony Sab HD
+https://yuvraj.fun/jazz/index.ts?id=5688
 #EXTINF:-1 group-title="India", Sony Tv
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=3447
 #EXTINF:-1 group-title="India", Star Plus
@@ -82,5 +90,13 @@ https://port.yuvraj49.in/dd-150724/index.m3u8?id=5702
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=4030
 #EXTINF:-1 group-title="India", B4U Movies
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=5272
-
-
+#EXTINF:-1 group-title="India", B4U Plus
+https://yuvraj.fun/jazz/index.ts?id=11373
+#EXTINF:-1 group-title="India", Manoranjan Movies
+https://yuvraj.fun/jazz/index.ts?id=11358
+#EXTINF:-1 group-title="India", Zee Action
+https://yuvraj.fun/jazz/index.ts?id=960
+#EXTINF:-1 group-title="India", Zee Cinema
+https://yuvraj.fun/jazz/index.ts?id=2665
+#EXTINF:-1 group-title="India", Zee Cinema HD
+https://yuvraj.fun/jazz/index.ts?id=631
