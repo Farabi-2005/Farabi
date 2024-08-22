@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla"
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", GTV
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=3914
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJeIJ7nGU2y9uCXWzA0ndZSf0wnDcW2buD1nOOOj1_r4C4KxSs85c9xCh&s=10", T Sports
