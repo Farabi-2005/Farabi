@@ -1,37 +1,37 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla"
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", GTV
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3914
+http://172.19.178.39:18190/JS-TV-01/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJeIJ7nGU2y9uCXWzA0ndZSf0wnDcW2buD1nOOOj1_r4C4KxSs85c9xCh&s=10", T Sports
 http://172.19.178.49:18190/SN-ST-TV-05/index.m3u8
-#EXTINF:-1 group-title="Bangla", Somoy Tv
-https://port.yuvraj49.in/xegd/master.m3u8?id=3925
+#EXTINF:-1 group-title="Bangla", Ekushey Tv
+http://172.19.178.59:18190/SN-ST-TV-26/index.m3u8
 #EXTINF:-1 group-title="Bangla", Nagorik Tv
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=5614
+http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
 #EXTINF:-1 group-title="Bangla", Channel I
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3173
+http://172.19.178.39:18190/JS-TV-07/index.m3u8
 #EXTINF:-1 group-title="Bangla", Peace Tv Bangla
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=3150
 #EXTINF:-1 group-title="Bangla", Bangla Vision
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3137
+http://172.19.178.59:18190/SN-ST-TV-28/index.m3u8
 #EXTINF:-1 group-title="Bangla", ATN Bangla
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3153
+http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
 #EXTINF:-1 group-title="Bangla", Asian Tv
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3169
+http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
 #EXTINF:-1 group-title="Bangla", Channel 9
 https://yuvraj.fun/jazz/index.ts?id=3162
 #EXTINF:-1 group-title="Bangla", News 24
 https://yuvraj.fun/jazz/index.ts?id=3140
 #EXTINF:-1 group-title="Bangla", Independent Tv
-https://yuvraj.fun/jazz/index.ts?id=3185
+http://172.19.178.59:18190/SN-ST-TV-25/index.m3u8
 #EXTINF:-1 group-title="Bangla", Masranga Tv
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3971
+http://172.19.178.39:18190/JS-TV-02/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png", Jamuna Tv
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3182
+http://172.19.178.39:18190/JS-TV-03/index.m3u8
 #EXTINF:-1 group-title="Bangla", SATV
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=3154
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",", Ekattor Tv
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3146
+http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
 #EXTINF:-1 group-title="Bangla", My Tv
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=3178
 #EXTINF:-1 group-title="Bangla", N TV
@@ -39,7 +39,7 @@ https://port.yuvraj49.in/dd-150724/index.m3u8?id=3178
 #EXTINF:-1 group-title="Bangla", DBC News
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=3168
 #EXTINF:-1 group-title="Bangla", R TV
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3147
+http://172.19.178.39:18190/JS-TV-05/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha
 https://port.yuvraj49.in/xegd/master.m3u8?id=7384
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XkW14ec4.png", Star Jalsha HD
@@ -53,7 +53,7 @@ https://port.yuvraj49.in/dd-150724/index.m3u8?id=5619
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUSKY2MD6.png&w=256&q=75", Zee Bangla HD
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=5618
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png", Sony Aath
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3161
+http://172.19.178.49:18190/SN-ST-TV-03/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=669
 #EXTINF:-1 group-title="Sports", Sony Sports 1 HD
