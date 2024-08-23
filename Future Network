@@ -60,11 +60,11 @@ https://port.yuvraj49.in/dd-150724/index.m3u8?id=673
 #EXTINF:-1 group-title="Cartoon", Pogo
 http://217.20.112.199/pogo/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=864
+https://port.yuvraj49.in/xegd/master.m3u8?id=4785
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2Fj5FueTSk.png&w=640&q=75", Disney Channel HD
 https://port.yuvraj49.in/xegd/master.m3u8?id=4538
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Hungama Tv
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=11305
+https://port.yuvraj49.in/xegd/master.m3u8?id=4019
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png", Super Hungama
 https://port.yuvraj49.in/xegd/master.m3u8?id=5952
 #EXTINF:-1 group-title="India", Sony Max HD
@@ -72,7 +72,7 @@ http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", Sony Sab
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=5045
 #EXTINF:-1 group-title="India", Sony Sab HD
-https://yuvraj.fun/jazz/index.ts?id=5688
+https://port.yuvraj49.in/xegd/master.m3u8?id=4896
 #EXTINF:-1 group-title="India", Sony Tv
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=3447
 #EXTINF:-1 group-title="India", Star Plus
@@ -80,21 +80,21 @@ https://port.yuvraj49.in/xegd/master.m3u8?id=4688
 #EXTINF:-1 group-title="India", Star Plus HD
 http://217.20.112.199/starplushd/index.m3u8
 #EXTINF:-1 group-title="India", Star Bharat HD
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=4032
+https://port.yuvraj49.in/xegd/master.m3u8?id=4900
 #EXTINF:-1 group-title="India", Star Gold HD
 http://116.202.46.40:789/STAR_GOLD_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", Star Gold 2 HD
 http://217.20.112.199/stargold2/index.m3u8
 #EXTINF:-1 group-title="India", Star Gold Select
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=4030
+https://port.yuvraj49.in/xegd/master.m3u8?id=4062
 #EXTINF:-1 group-title="India", B4U Movies
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=5272
+https://port.yuvraj49.in/xegd/master.m3u8?id=4709
 #EXTINF:-1 group-title="India", B4U Plus
-https://yuvraj.fun/jazz/index.ts?id=11373
+https://port.yuvraj49.in/xegd/master.m3u8?id=7271
 #EXTINF:-1 group-title="India", Manoranjan Movies
-https://yuvraj.fun/jazz/index.ts?id=11358
+https://port.yuvraj49.in/xegd/master.m3u8?id=5271
 #EXTINF:-1 group-title="India", Zee Action
-https://yuvraj.fun/jazz/index.ts?id=960
+https://port.yuvraj49.in/xegd/master.m3u8?id=5281
 #EXTINF:-1 group-title="India", Zee Cinema
 https://yuvraj.fun/jazz/index.ts?id=2677
 #EXTINF:-1 group-title="India", Zee Cinema HD
