@@ -54,7 +54,7 @@ http://172.19.178.59:18190/SN-ST-TV-35/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUSKY2MD6.png&w=256&q=75", Zee Bangla HD
 http://172.19.178.39:18190/JS-TV-09/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png", Sony Aath
-http://172.19.178.49:18190/SN-ST-TV-03/index.m3u8
+http://tv.basnetbd.com:8080/roarzone/bk/33/index.m3u8?token=41eef5bd7147c11cf3b71aada40f034afbe05623-e7b67ff6e7c4c9da60f7dab375b7d8c2-1724686849-1724665249
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://172.19.178.49:18190/SN-ST-TV-00/index.m3u8
 #EXTINF:-1 group-title="Sports", Sony Sports 1 HD
