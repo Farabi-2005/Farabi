@@ -10,7 +10,7 @@ http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
 #EXTINF:-1 group-title="Bangla", Channel I
 http://172.19.178.39:18190/JS-TV-07/index.m3u8
 #EXTINF:-1 group-title="Bangla", Peace Tv Bangla
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3150
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 group-title="Bangla", Bangla Vision
 http://172.19.178.59:18190/SN-ST-TV-28/index.m3u8
 #EXTINF:-1 group-title="Bangla", ATN Bangla
@@ -30,7 +30,7 @@ http://172.19.178.39:18190/JS-TV-02/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png", Jamuna Tv
 http://172.19.178.39:18190/JS-TV-03/index.m3u8
 #EXTINF:-1 group-title="Bangla", SATV
-https://port.yuvraj49.in/xegd/master.m3u8?id=3919
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI0IDc6MTc6MzAgQU0maGFzaF92YWx1ZT0xZUpya0gxcVJlWTJ4RlBIdnlyOWl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",", Ekattor Tv
 http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
 #EXTINF:-1 group-title="Bangla", My Tv
@@ -76,7 +76,7 @@ http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", Sony Sab
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=5045
 #EXTINF:-1 group-title="India", Sony Sab HD
-https://port.yuvraj49.in/xegd/master.m3u8?id=4896
+http://116.202.46.40:789/SONY_SAB_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", Sony Tv
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=3447
 #EXTINF:-1 group-title="India", Star Plus
@@ -84,13 +84,13 @@ https://port.yuvraj49.in/xegd/master.m3u8?id=4688
 #EXTINF:-1 group-title="India", Star Plus HD
 http://217.20.112.199/starplushd/index.m3u8
 #EXTINF:-1 group-title="India", Star Bharat HD
-https://port.yuvraj49.in/xegd/master.m3u8?id=4900
+http://103.120.172.74:5200
 #EXTINF:-1 group-title="India", Star Gold HD
 http://116.202.46.40:789/STAR_GOLD_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", Star Gold 2 HD
 http://217.20.112.199/stargold2/index.m3u8
 #EXTINF:-1 group-title="India", Star Gold Select
-https://port.yuvraj49.in/xegd/master.m3u8?id=4062
+http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", B4U Movies
 https://port.yuvraj49.in/xegd/master.m3u8?id=4709
 #EXTINF:-1 group-title="India", B4U Plus
