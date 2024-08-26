@@ -18,9 +18,11 @@ http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
 #EXTINF:-1 group-title="Bangla", Asian Tv
 http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
 #EXTINF:-1 group-title="Bangla", Channel 9
-https://yuvraj.fun/jazz/index.ts?id=3162
+http://tv.basnetbd.com:8080/roarzone/bk/4/index.m3u8?token=81bace4ed5b751ceb10edf114abbd176f7d78397-482008dbda73e79ea13c46a5ff8c2dc4-1724673302-1724651702
 #EXTINF:-1 group-title="Bangla", News 24
 https://yuvraj.fun/jazz/index.ts?id=3140
+#EXTINF:-1 group-title="Bangla", Duranta Tv
+http://tv.basnetbd.com:8080/roarzone/bk/10/index.m3u8?token=adc759e2519b83781ee34cdc3542637a2ef90130-936345d572c64520ab9b6fad932d8b96-1724673759-1724652159
 #EXTINF:-1 group-title="Bangla", Independent Tv
 http://172.19.178.59:18190/SN-ST-TV-25/index.m3u8
 #EXTINF:-1 group-title="Bangla", Masranga Tv
