@@ -54,7 +54,7 @@ http://172.19.178.59:18190/SN-ST-TV-35/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUSKY2MD6.png&w=256&q=75", Zee Bangla HD
 http://172.19.178.39:18190/JS-TV-09/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png", Sony Aath
-http://tv.basnetbd.com:8080/roarzone/bk/33/index.m3u8?token=41eef5bd7147c11cf3b71aada40f034afbe05623-e7b67ff6e7c4c9da60f7dab375b7d8c2-1724686849-1724665249
+https://drmlive.in/Sonyliv/stream.php?id=sony-aath&e=.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://172.19.178.49:18190/SN-ST-TV-00/index.m3u8
 #EXTINF:-1 group-title="Sports", Sony Sports 1 HD
@@ -63,6 +63,8 @@ https://port.yuvraj49.in/dd-150724/index.m3u8?id=673
 http://217.20.112.199/pogo/index.m3u8
 #EXTINF:-1 group-title="Cartoon", Nick
 http://14.102.123.50:5001/live/1341.m3u8
+#EXTINF:-1 group-title="India", Sony Yay
+https://drmlive.in/Sonyliv/stream.php?id=sony-yay&e=.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
 https://port.yuvraj49.in/xegd/master.m3u8?id=4785
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2Fj5FueTSk.png&w=640&q=75", Disney Channel HD
@@ -71,8 +73,12 @@ https://port.yuvraj49.in/xegd/master.m3u8?id=4538
 https://port.yuvraj49.in/xegd/master.m3u8?id=4019
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png", Super Hungama
 https://port.yuvraj49.in/xegd/master.m3u8?id=5952
+#EXTINF:-1 group-title="India", Sony Max
+https://drmlive.in/Sonyliv/stream.php?id=sony-max&e=.m3u8
 #EXTINF:-1 group-title="India", Sony Max HD
 http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
+#EXTINF:-1 group-title="India", Sony Wah
+https://drmlive.in/Sonyliv/stream.php?id=sony-wah&e=.m3u8
 #EXTINF:-1 group-title="India", Sony Sab
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=5045
 #EXTINF:-1 group-title="India", Sony Sab HD
