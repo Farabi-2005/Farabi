@@ -42,7 +42,7 @@ http://172.19.178.59:18190/SN-ST-TV-37/index.m3u8
 #EXTINF:-1 group-title="Bangla", R TV
 http://172.19.178.39:18190/JS-TV-05/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha
-https://port.yuvraj49.in/xegd/master.m3u8?id=7384
+http://103.151.60.174:556
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XkW14ec4.png", Star Jalsha HD
 http://172.19.178.39:18190/JS-TV-08/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla", Jalsha Movies
@@ -85,6 +85,8 @@ https://port.yuvraj49.in/xegd/master.m3u8?id=4688
 http://217.20.112.199/starplushd/index.m3u8
 #EXTINF:-1 group-title="India", Star Bharat HD
 http://103.120.172.74:5200
+#EXTINF:-1 group-title="India", Star Gold
+https://medialive.akash-go.com/out/v1/8c069025cffe4fbd94a11ce0b5c32b93/index.mpd?%7CdrmScheme=clearkey&drmLicense=fb02dc2cba44453897de0870d43cc19c:279226af9c9a1dd6eb488b8520a24d8b
 #EXTINF:-1 group-title="India", Star Gold HD
 http://116.202.46.40:789/STAR_GOLD_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", Star Gold 2 HD
