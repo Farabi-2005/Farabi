@@ -3,7 +3,7 @@
 http://172.19.178.39:18190/JS-TV-01/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJeIJ7nGU2y9uCXWzA0ndZSf0wnDcW2buD1nOOOj1_r4C4KxSs85c9xCh&s=10", T Sports
 http://172.19.178.49:18190/SN-ST-TV-05/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg", Ekushey Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuHJR0tzeTyoc6XnWJgNddJWkmt5y0spfHw&s", Ekushey Tv
 http://172.19.178.59:18190/SN-ST-TV-26/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s", Nagorik Tv
 http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
@@ -37,7 +37,7 @@ http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
 http://172.19.178.59:18190/SN-ST-TV-32/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png", N TV
 http://172.19.178.59:18190/SN-ST-TV-33/index.m3u8
-#EXTINF:-1 group-title="Bangla", DBC News
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png", DBC News
 http://172.19.178.59:18190/SN-ST-TV-37/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png", R TV
 http://172.19.178.39:18190/JS-TV-05/index.m3u8
@@ -99,9 +99,9 @@ http://217.20.112.199/stargold2/index.m3u8
 http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", B4U Movies
 https://port.yuvraj49.in/xegd/master.m3u8?id=4709
-#EXTINF:-1 group-title="India", B4U Plus
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQ6iekKmijKN_RQlEv_4Imt6IFJWMNYzki3tt95S_HZUx_rlOfpGXOWE&s=10", B4U Plus
 https://port.yuvraj49.in/xegd/master.m3u8?id=7271
-#EXTINF:-1 group-title="India", Manoranjan Movies
+#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg", Manoranjan Movies
 https://port.yuvraj49.in/xegd/master.m3u8?id=5271
 #EXTINF:-1 group-title="India", Zee Action
 https://port.yuvraj49.in/xegd/master.m3u8?id=5281
