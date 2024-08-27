@@ -3,43 +3,43 @@
 http://172.19.178.39:18190/JS-TV-01/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJeIJ7nGU2y9uCXWzA0ndZSf0wnDcW2buD1nOOOj1_r4C4KxSs85c9xCh&s=10", T Sports
 http://172.19.178.49:18190/SN-ST-TV-05/index.m3u8
-#EXTINF:-1 group-title="Bangla", Ekushey Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg", Ekushey Tv
 http://172.19.178.59:18190/SN-ST-TV-26/index.m3u8
-#EXTINF:-1 group-title="Bangla", Nagorik Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s", Nagorik Tv
 http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
-#EXTINF:-1 group-title="Bangla", Channel I
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png", Channel I
 http://172.19.178.39:18190/JS-TV-07/index.m3u8
-#EXTINF:-1 group-title="Bangla", Peace Tv Bangla
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png", Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 group-title="Bangla", Bangla Vision
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png", Bangla Vision
 http://172.19.178.59:18190/SN-ST-TV-28/index.m3u8
-#EXTINF:-1 group-title="Bangla", ATN Bangla
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png", ATN Bangla
 http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
-#EXTINF:-1 group-title="Bangla", Asian Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png", Asian Tv
 http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
-#EXTINF:-1 group-title="Bangla", Channel 9
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_jkTvX6sGLEpJmzo2f7iLwPClDRnoOIgnA&usqp=CAU", Channel 9
 http://tv.basnetbd.com:8080/roarzone/bk/4/index.m3u8?token=81bace4ed5b751ceb10edf114abbd176f7d78397-482008dbda73e79ea13c46a5ff8c2dc4-1724673302-17246517
-#EXTINF:-1 group-title="Bangla", News 24
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1lq0pRMhK1p8q-Y2dqTfBH6yxscKencnvV4kVOW-ZFr25CZXtqMQuyK6&s=10", News 24
 https://yuvraj.fun/jazz/index.ts?id=3140
-#EXTINF:-1 group-title="Bangla", Duranta Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png", Duranta Tv
 http://tv.basnetbd.com:8080/roarzone/bk/10/index.m3u8?token=adc759e2519b83781ee34cdc3542637a2ef90130-936345d572c64520ab9b6fad932d8b96-1724673759-1724652159
-#EXTINF:-1 group-title="Bangla", Independent Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png", Independent Tv
 http://172.19.178.59:18190/SN-ST-TV-25/index.m3u8
-#EXTINF:-1 group-title="Bangla", Masranga Tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg", Masranga Tv
 http://172.19.178.39:18190/JS-TV-02/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png", Jamuna Tv
 http://172.19.178.39:18190/JS-TV-03/index.m3u8
-#EXTINF:-1 group-title="Bangla", SATV
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHuUgo3GDDj8V6ikZ40K1oT5tzf859xNJBtfszJGoqj-Daadk0vExt_TY&s=10", SATV
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI0IDc6MTc6MzAgQU0maGFzaF92YWx1ZT0xZUpya0gxcVJlWTJ4RlBIdnlyOWl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",", Ekattor Tv
 http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
 #EXTINF:-1 group-title="Bangla", My Tv
 http://172.19.178.59:18190/SN-ST-TV-32/index.m3u8
-#EXTINF:-1 group-title="Bangla", N TV
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png", N TV
 http://172.19.178.59:18190/SN-ST-TV-33/index.m3u8
 #EXTINF:-1 group-title="Bangla", DBC News
 http://172.19.178.59:18190/SN-ST-TV-37/index.m3u8
-#EXTINF:-1 group-title="Bangla", R TV
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png", R TV
 http://172.19.178.39:18190/JS-TV-05/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha
 http://103.151.60.174:556
