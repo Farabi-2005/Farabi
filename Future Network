@@ -80,7 +80,7 @@ http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", Sony Wah
 https://drmlive.in/Sonyliv/stream.php?id=sony-wah&e=.m3u8
 #EXTINF:-1 group-title="India", Sony Sab
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=5045
+http://116.202.46.40:789/SONY_SAB_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", Sony Sab HD
 http://116.202.46.40:789/SONY_SAB_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", Sony Tv
