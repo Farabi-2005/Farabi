@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", GTV
 http://172.19.178.39:18190/JS-TV-01/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJeIJ7nGU2y9uCXWzA0ndZSf0wnDcW2buD1nOOOj1_r4C4KxSs85c9xCh&s=10", T Sports
@@ -18,13 +21,13 @@ http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png", Asian Tv
 http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_jkTvX6sGLEpJmzo2f7iLwPClDRnoOIgnA&usqp=CAU", Channel 9
-http://tv.basnetbd.com:8080/roarzone/bk/4/index.m3u8?token=81bace4ed5b751ceb10edf114abbd176f7d78397-482008dbda73e79ea13c46a5ff8c2dc4-1724673302-17246517
+http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1lq0pRMhK1p8q-Y2dqTfBH6yxscKencnvV4kVOW-ZFr25CZXtqMQuyK6&s=10", News 24
 https://yuvraj.fun/jazz/index.ts?id=3140
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png", Duranta Tv
-http://tv.basnetbd.com:8080/roarzone/bk/10/index.m3u8?token=adc759e2519b83781ee34cdc3542637a2ef90130-936345d572c64520ab9b6fad932d8b96-1724673759-1724652159
+http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png", Independent Tv
-http://172.19.178.59:18190/SN-ST-TV-25/index.m3u8
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=4SNJl71Eq2zR3p0YfCiJzg&expires=1724916377&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg", Masranga Tv
 http://172.19.178.39:18190/JS-TV-02/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png", Jamuna Tv
@@ -54,7 +57,7 @@ http://172.19.178.59:18190/SN-ST-TV-35/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUSKY2MD6.png&w=256&q=75", Zee Bangla HD
 http://172.19.178.39:18190/JS-TV-09/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png", Sony Aath
-https://drmlive.in/Sonyliv/stream.php?id=sony-aath&e=.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://172.19.178.49:18190/SN-ST-TV-00/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png", Sony Sports 1 HD
@@ -66,8 +69,7 @@ http://14.102.123.50:5001/live/1341.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png", Sony Yay
 https://drmlive.in/Sonyliv/stream.php?id=sony-yay&e=.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=114
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2Fj5FueTSk.png&w=640&q=75", Disney Channel HD
 https://port.yuvraj49.in/xegd/master.m3u8?id=4538
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Hungama Tv
