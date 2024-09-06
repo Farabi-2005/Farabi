@@ -9,7 +9,7 @@ http://172.19.178.49:18190/SN-ST-TV-05/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuHJR0tzeTyoc6XnWJgNddJWkmt5y0spfHw&s", Ekushey Tv
 http://172.19.178.59:18190/SN-ST-TV-26/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s", Nagorik Tv
-http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
+http://10.99.99.99:8080/roarzone/bk/59/index.m3u8?token=aaf47fb2bc3429a511f511b103a9db52d0e6f5f2-b79d9493b9487307b87b7e8a5c4cd0e7-1725663291-1725641691
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png", Channel I
 http://172.19.178.39:18190/JS-TV-07/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png", Peace Tv Bangla
@@ -25,7 +25,7 @@ http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1lq0pRMhK1p8q-Y2dqTfBH6yxscKencnvV4kVOW-ZFr25CZXtqMQuyK6&s=10", News 24
 https://yuvraj.fun/jazz/index.ts?id=3140
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png", Duranta Tv
-http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://10.99.99.99:8080/roarzone/bk/10/tracks-v1a1/mono.m3u8?token=adf6a41e0f520d64edc4a254275aed22bb7fcf4f-4d6c973596b5b11b97d176795fed6fdf-1725663118-1725641518
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png", Independent Tv
 https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=4SNJl71Eq2zR3p0YfCiJzg&expires=1724916377&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg", Masranga Tv
