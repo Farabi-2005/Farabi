@@ -45,7 +45,7 @@ http://172.19.178.59:18190/SN-ST-TV-37/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png", R TV
 http://172.19.178.39:18190/JS-TV-05/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha
-http://103.151.60.174:556
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XkW14ec4.png", Star Jalsha HD
 http://172.19.178.39:18190/JS-TV-08/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla", Jalsha Movies
