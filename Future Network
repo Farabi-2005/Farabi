@@ -70,7 +70,8 @@ http://172.16.88.50:18190/RE-TV-83/index.m3u8
 http://172.16.88.50:18190/RE-TV-96/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
 http://172.16.88.50:18190/RE-TV-84/index.m3u8
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Hungama Tvttp://119.156.26.155:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Hungama Tv
+http://119.156.26.155:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png", Super Hungama
 http://103.124.251.164:28015/play/a02n/index.m3u8
 #EXTINF:-1 group-title="India", Sony Max
