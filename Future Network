@@ -47,7 +47,7 @@ http://172.19.178.39:18190/JS-TV-05/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XkW14ec4.png", Star Jalsha HD
-http://172.19.178.39:18190/JS-TV-08/index.m3u8
+http://103.124.251.164:28015/play/a009/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla", Jalsha Movies
 http://172.19.178.39:18190/JS-TV-06/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla", Jalsha Movies HD
@@ -70,10 +70,9 @@ http://172.16.88.50:18190/RE-TV-83/index.m3u8
 http://172.16.88.50:18190/RE-TV-96/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
 http://172.16.88.50:18190/RE-TV-84/index.m3u8
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Hungama Tv
-http://xtv.ooo:8080/live/927382370/837382809/150480.ts
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Hungama Tvttp://119.156.26.155:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png", Super Hungama
-http://xtv.ooo:8080/live/927382370/837382809/381135.ts
+http://103.124.251.164:28015/play/a02n/index.m3u8
 #EXTINF:-1 group-title="India", Sony Max
 https://drmlive.in/Sonyliv/stream.php?id=sony-max&e=.m3u8
 #EXTINF:-1 group-title="India", Sony Max HD
@@ -83,19 +82,19 @@ https://drmlive.in/Sonyliv/stream.php?id=sony-wah&e=.m3u8
 #EXTINF:-1 group-title="India", Sony Sab
 http://116.202.46.40:789/SONY_SAB_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", Sony Sab HD
-http://116.202.46.40:789/SONY_SAB_HINDI/index.m3u8
+http://172.16.88.40:18190/RE-TV-61/mono.m3u8
 #EXTINF:-1 group-title="India", Sony Tv
 https://port.yuvraj49.in/dd-150724/index.m3u8?id=3447
 #EXTINF:-1 group-title="India", Star Plus
 https://port.yuvraj49.in/xegd/master.m3u8?id=4688
 #EXTINF:-1 group-title="India", Star Plus HD
-http://217.20.112.199/starplushd/index.m3u8
+http://10.20.30.40:8088/401/index.m3u8
 #EXTINF:-1 group-title="India", Star Bharat HD
-http://103.120.172.74:5200
+http://172.16.88.40:18190/RE-TV-62/mono.m3u8
 #EXTINF:-1 group-title="India", Star Gold
 https://medialive.akash-go.com/out/v1/8c069025cffe4fbd94a11ce0b5c32b93/index.mpd?%7CdrmScheme=clearkey&drmLicense=fb02dc2cba44453897de0870d43cc19c:279226af9c9a1dd6eb488b8520a24d8b
 #EXTINF:-1 group-title="India", Star Gold HD
-http://116.202.46.40:789/STAR_GOLD_HINDI/index.m3u8
+http://172.16.88.30:18190/RE-TV-47/index.m3u8
 #EXTINF:-1 group-title="India", Star Gold 2 HD
 http://217.20.112.199/stargold2/index.m3u8
 #EXTINF:-1 group-title="India", Star Gold Select
