@@ -33,7 +33,7 @@ http://172.19.178.39:18190/JS-TV-02/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png", Jamuna Tv
 http://172.19.178.39:18190/JS-TV-03/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHuUgo3GDDj8V6ikZ40K1oT5tzf859xNJBtfszJGoqj-Daadk0vExt_TY&s=10", SATV
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI0IDc6MTc6MzAgQU0maGFzaF92YWx1ZT0xZUpya0gxcVJlWTJ4RlBIdnlyOWl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://172.16.88.10:18190/RE-TV-15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",", Ekattor Tv
 http://172.16.88.10:18190/RE-TV-06/index.m3u8
 #EXTINF:-1 group-title="Bangla", tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png", My Tv
@@ -41,7 +41,7 @@ http://172.19.178.59:18190/SN-ST-TV-32/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png", N TV
 http://172.19.178.59:18190/SN-ST-TV-33/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png", DBC News
-http://172.19.178.59:18190/SN-ST-TV-37/index.m3u8
+http://172.16.88.20:18190/RE-TV-32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png", R TV
 http://172.19.178.39:18190/JS-TV-05/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha
@@ -51,17 +51,17 @@ http://103.124.251.164:28015/play/a009/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla", Jalsha Movies
 http://172.19.178.39:18190/JS-TV-06/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla", Jalsha Movies HD
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/117.ts
+http://172.16.88.20:18190/RE-TV-37/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png", Zee Bangla
 http://172.19.178.59:18190/SN-ST-TV-35/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUSKY2MD6.png&w=256&q=75", Zee Bangla HD
 http://172.19.178.39:18190/JS-TV-09/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png", Sony Aath
-http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
+http://172.16.88.30:18190/RE-TV-44/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
-http://172.19.178.49:18190/SN-ST-TV-00/index.m3u8
+http://172.16.88.40:18190/RE-TV-64/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png", Sony Sports 1 HD
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=673
+http://172.16.88.40:18190/RE-TV-69/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cartoon", Pogo
 http://217.20.112.199/pogo/index.m3u8
 #EXTINF:-1 group-title="Cartoon", Nick
