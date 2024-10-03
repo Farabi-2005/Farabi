@@ -57,7 +57,7 @@ http://172.19.178.59:18190/SN-ST-TV-35/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUSKY2MD6.png&w=256&q=75", Zee Bangla HD
 http://172.19.178.39:18190/JS-TV-09/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png", Sony Aath
-http://172.16.88.30:18190/RE-TV-44/tracks-v1a1/mono.m3u8
+http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://172.16.88.40:18190/RE-TV-64/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png", Sony Sports 1 HD
@@ -77,7 +77,7 @@ http://103.124.251.164:28015/play/a02n/index.m3u8
 #EXTINF:-1 group-title="India", Sony Max
 https://drmlive.in/Sonyliv/stream.php?id=sony-max&e=.m3u8
 #EXTINF:-1 group-title="India", Sony Max HD
-http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
+http://10.20.30.40:8088/404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="India", Sony Wah
 https://drmlive.in/Sonyliv/stream.php?id=sony-wah&e=.m3u8
 #EXTINF:-1 group-title="India", Sony Sab
@@ -101,14 +101,14 @@ http://217.20.112.199/stargold2/index.m3u8
 #EXTINF:-1 group-title="India", Star Gold Select
 http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", B4U Movies
-https://port.yuvraj49.in/xegd/master.m3u8?id=4709
+https://cdn2.pishow.tv/live/156/master.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQ6iekKmijKN_RQlEv_4Imt6IFJWMNYzki3tt95S_HZUx_rlOfpGXOWE&s=10", B4U Plus
 https://port.yuvraj49.in/xegd/master.m3u8?id=7271
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg", Manoranjan Movies
 https://port.yuvraj49.in/xegd/master.m3u8?id=5271
 #EXTINF:-1 group-title="India", Zee Action
-https://port.yuvraj49.in/xegd/master.m3u8?id=5281
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction.m3u8
 #EXTINF:-1 group-title="India", Zee Cinema
-https://yuvraj.fun/jazz/index.ts?id=2677
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema.m3u8
 #EXTINF:-1 group-title="India", Zee Cinema HD
-http://172.19.178.59:18190/SN-ST-TV-39/index.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd.m3u8
