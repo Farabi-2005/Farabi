@@ -69,7 +69,7 @@ http://10.20.30.40:8088/601/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png", Sony Yay
 http://172.16.88.50:18190/RE-TV-96/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
-http://172.16.88.50:18190/RE-TV-84/index.m3u8
+http://119.156.26.155:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEmllc2c86G2eSd27CMsMQpULNfDk7QYC_YtKNTkwVA&s", Hungama Tv
 http://119.156.26.155:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png", Super Hungama
@@ -79,7 +79,7 @@ https://drmlive.in/Sonyliv/stream.php?id=sony-max&e=.m3u8
 #EXTINF:-1 group-title="India", Sony Max HD
 http://172.16.29.3:8080/hls/sonymaxhd.m3u8
 #EXTINF:-1 group-title="India", Sony Wah
-https://drmlive.in/Sonyliv/stream.php?id=sony-wah&e=.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 group-title="India", Sony Sab
 http://116.202.46.40:789/SONY_SAB_HINDI/index.m3u8
 #EXTINF:-1 group-title="India", Sony Sab HD
@@ -91,7 +91,7 @@ https://port.yuvraj49.in/xegd/master.m3u8?id=4688
 #EXTINF:-1 group-title="India", Star Plus HD
 http://10.20.30.40:8088/401/index.m3u8
 #EXTINF:-1 group-title="India", Star Bharat HD
-http://172.16.88.40:18190/RE-TV-62/mono.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=195&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="India", Star Gold
 https://medialive.akash-go.com/out/v1/8c069025cffe4fbd94a11ce0b5c32b93/index.mpd?%7CdrmScheme=clearkey&drmLicense=fb02dc2cba44453897de0870d43cc19c:279226af9c9a1dd6eb488b8520a24d8b
 #EXTINF:-1 group-title="India", Star Gold HD
