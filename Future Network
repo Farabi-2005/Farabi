@@ -9,7 +9,7 @@ http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuHJR0tzeTyoc6XnWJgNddJWkmt5y0spfHw&s", Ekushey Tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s", Nagorik Tv
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=nuMarPuKV5_H_ilCbuVsLg&expires=1728674161&user=c15be118d93a464dabf7726012cf
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=nuMarPuKV5_H_ilCbuVsLg&expires=1728674161&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png", Channel I
 http://172.19.178.39:18190/JS-TV-07/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png", Peace Tv Bangla
@@ -23,7 +23,7 @@ http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_jkTvX6sGLEpJmzo2f7iLwPClDRnoOIgnA&usqp=CAU", Channel 9
 http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1lq0pRMhK1p8q-Y2dqTfBH6yxscKencnvV4kVOW-ZFr25CZXtqMQuyK6&s=10", News 24
-.
+http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png", Duranta Tv
 http://172.16.88.40:18190/duronto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png", Independent Tv
