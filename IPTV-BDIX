@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
 #EXTINF:-1,ATN BANGLA
 http://172.20.2.5:8082/ATN-BANGLA/index.m3u8
