@@ -1,307 +1,259 @@
 #EXTM3U
 
 #EXTINF:-1,ATN BANGLA
-#EXTIMG:http://seeklogo.com/images/A/ATN_Bangla-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/ATN_Bangla_logo.png/320px-ATN_Bangla_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/ATN-BANGLA/index.m3u8
 
 #EXTINF:-1,ATN NEWS
-#EXTIMG:http://seeklogo.com/images/A/ATN_News-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/ATN_News_logo.png/320px-ATN_News_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/ATN-NEWS/index.m3u8
 
 #EXTINF:-1,BANGLAVISION-TV
-#EXTIMG:http://seeklogo.com/images/B/Bangla_Vision_TV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Banglavision_logo.png/320px-Banglavision_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/BANGLAVISION-TV/index.m3u8
 
 #EXTINF:-1,BIJOY-TV
 #EXTIMG:https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_of_Bijoy_TV.svg
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/BIJOY-TV/index.m3u8
 
 #EXTINF:-1,BOISHAKI-TV
-#EXTIMG:http://seeklogo.com/images/B/Boishakhi_TV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Boishakhi_TV_logo.png/320px-Boishakhi_TV_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/BOISHAKI-TV/index.m3u8
 
 #EXTINF:-1,BTV NEWS
 #EXTIMG:https://upload.wikimedia.org/wikipedia/commons/7/7b/BTV_NEWS_Logo_-_Bangladesh_Television.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/BTV-NEWS/index.m3u8
 
 #EXTINF:-1,CHANNEL 9
-#EXTIMG:http://seeklogo.com/images/C/Channel_9-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Channel_9_Bangladesh_logo.png/320px-Channel_9_Bangladesh_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/CHANNEL-9/index.m3u8
 
 #EXTINF:-1,CHANNEL I
-#EXTIMG:http://seeklogo.com/images/C/Channel_I-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Channel-i_logo.png/320px-Channel-i_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/CHANNEL-I/index.m3u8
 
 #EXTINF:-1,COLORS BANGLA
-#EXTIMG:http://seeklogo.com/images/C/Colors_Bangla-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Colors_Bangla_logo.png/320px-Colors_Bangla_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/COLORS-BANGLA/index.m3u8
 
 #EXTINF:-1,DBC NEWS
-#EXTIMG:http://seeklogo.com/images/D/DBC_News-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/6/63/DBC_News_logo.png/320px-DBC_News_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/DBC-NEWS/index.m3u8
 
 #EXTINF:-1,DEEPTO-TV
-#EXTIMG:http://seeklogo.com/images/D/Deepto_TV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Deepto_TV_logo.png/320px-Deepto_TV_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/DEEPTO-TV/index.m3u8
 
 #EXTINF:-1,EKATTOR-TV
-#EXTIMG:http://seeklogo.com/images/E/Ekattor_TV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Ekattor_TV_logo.png/320px-Ekattor_TV_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/EKATTOR-TV/index.m3u8
 
 #EXTINF:-1,GLOBAL-TV
-#EXTIMG:http://seeklogo.com/images/G/Global_TV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Global_TV_logo.png/320px-Global_TV_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/GLOBAL-TV/index.m3u8
 
 #EXTINF:-1,GTV
-#EXTIMG:http://seeklogo.com/images/G/GTV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/GTV_logo.png/320px-GTV_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/GTV/index.m3u8
 
 #EXTINF:-1,INDEPENDENT-TV
-#EXTIMG:http://seeklogo.com/images/I/Independent_TV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://172.20.2.5:8082/INDPENDENT-TV/index.m3u8
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Independent_TV_logo.png/320px-Independent_TV_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
+http://172.20.2.5:8082/INDEPENDENT-TV/index.m3u8
 
 #EXTINF:-1,JALSHA MOVIES
-#EXTIMG:http://seeklogo.com/images/J/Jalsha_Movies-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Jalsha_Movies_logo.png/320px-Jalsha_Movies_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/JALSHA-MOVIES/index.m3u8
 
 #EXTINF:-1,JAMUNA-TV
-#EXTIMG:http://seeklogo.com/images/J/Jamuna_TV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Jamuna_TV_logo.png/320px-Jamuna_TV_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/JAMUNA-TV/index.m3u8
 
 #EXTINF:-1,MASRANGA-TV
-#EXTIMG:http://seeklogo.com/images/M/Masranga_TV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Masranga_TV_logo.png/320px-Masranga_TV_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/MASRANGA-TV/index.m3u8
 
 #EXTINF:-1,MOHONA
-#EXTIMG:http://seeklogo.com/images/M/Mohona_TV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Mohona_TV_logo.png/320px-Mohona_TV_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/MOHONA/index.m3u8
 
 #EXTINF:-1,NTV
-#EXTIMG:http://seeklogo.com/images/N/NTV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/3/36/NTV_logo.png/320px-NTV_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/NTV/index.m3u8
 
 #EXTINF:-1,RTV
-#EXTIMG:http://seeklogo.com/images/R/RTV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/RTV_logo.png/320px-RTV_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/RTV/index.m3u8
 
 #EXTINF:-1,SATV
-#EXTIMG:http://seeklogo.com/images/S/SATV-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/1/15/SATV_logo.png/320px-SATV_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/SATV/index.m3u8
 
 #EXTINF:-1,SOMOY NEWS
-#EXTIMG:http://seeklogo.com/images/S/Somoy_News-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Somoy_News_logo.png/320px-Somoy_News_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/SOMOY-NEWS/index.m3u8
 
 #EXTINF:-1,SONY ART
-#EXTIMG:http://seeklogo.com/images/S/Sony_Art-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Sony_Art_logo.png/320px-Sony_Art_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/SONY-ART/index.m3u8
 
 #EXTINF:-1,STAR JALSHA
-#EXTIMG:http://seeklogo.com/images/S/Star_Jalsha-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Star_Jalsha_logo.png/320px-Star_Jalsha_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/STAR-JALSHA/index.m3u8
 
 #EXTINF:-1,ZEE BANGLA
-#EXTIMG:http://seeklogo.com/images/Z/Zee_Bangla-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Zee_Bangla_logo.png/320px-Zee_Bangla_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/ZEE-BANGLA/index.m3u8
 
 #EXTINF:-1,ZEE BANGLA CINEMA
-#EXTIMG:http://seeklogo.com/images/Z/Zee_Bangla_Cinema-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Zee_Bangla_Cinema_logo.png/320px-Zee_Bangla_Cinema_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/ZEE-BANGLA-CINEMA/index.m3u8
 
 #EXTINF:-1,DISCOVERY
-#EXTIMG:http://seeklogo.com/images/D/Discovery-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Discovery_Channel_logo.png/320px-Discovery_Channel_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/DISCOVERY/index.m3u8
 
 #EXTINF:-1,MASTI
-#EXTIMG:http://seeklogo.com/images/M/Masti-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Masti_logo.png/320px-Masti_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/MASTI/index.m3u8
 
 #EXTINF:-1,NGO GEROPHY
-#EXTIMG:http://seeklogo.com/images/N/NGO_Gerophy-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/3/33/NGO_Gerophy_logo.png/320px-NGO_Gerophy_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/NGO-GEROPHY/index.m3u8
 
 #EXTINF:-1,SONY PIX
-#EXTIMG:http://seeklogo.com/images/S/Sony_Pix-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Sony_Pix_logo.png/320px-Sony_Pix_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/SONY-PIX/index.m3u8
 
 #EXTINF:-1,STAR MOVIE
-#EXTIMG:http://seeklogo.com/images/S/Star_Movie-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Star_Movie_logo.png/320px-Star_Movie_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/STAR-MOVIE/index.m3u8
 
 #EXTINF:-1,AND PICTURE
-#EXTIMG:http://seeklogo.com/images/A/And_Picture-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/1/19/And_Picture_logo.png/320px-And_Picture_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/AND-PICTURE/index.m3u8
 
 #EXTINF:-1,COLORS HIN
-#EXTIMG:http://seeklogo.com/images/C/Colors_Hin-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Colors_Hin_logo.png/320px-Colors_Hin_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/COLORS-HIN/index.m3u8
 
 #EXTINF:-1,SONY ENT
-#EXTIMG:http://seeklogo.com/images/S/Sony_Ent-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Sony_Ent_logo.png/320px-Sony_Ent_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/SONY-ENT/index.m3u8
 
 #EXTINF:-1,SONY MAX
-#EXTIMG:http://seeklogo.com/images/S/Sony_Max-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Sony_Max_logo.png/320px-Sony_Max_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/SONY-MAX/index.m3u8
 
 #EXTINF:-1,STAR GOLD
-#EXTIMG:http://seeklogo.com/images/S/Star_Gold-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Star_Gold_logo.png/320px-Star_Gold_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/STAR-GOLD/index.m3u8
 
 #EXTINF:-1,STAR PLUS
-#EXTIMG:http://seeklogo.com/images/S/Star_Plus-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Star_Plus_logo.png/320px-Star_Plus_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/STAR-PLUS/index.m3u8
 
 #EXTINF:-1,ZEE CINEMA
-#EXTIMG:http://seeklogo.com/images/Z/Zee_Cinema-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Zee_Cinema_logo.png/320px-Zee_Cinema_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/ZEE-CINEMA/index.m3u8
 
 #EXTINF:-1,CN NETWORK
-#EXTIMG:http://seeklogo.com/images/C/CN_Network-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/CN_Network_logo.png/320px-CN_Network_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/CN-NETWORK/index.m3u8
 
 #EXTINF:-1,NICK
-#EXTIMG:http://seeklogo.com/images/N/Nick-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Nick_logo.png/320px-Nick_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/NICK/index.m3u8
 
 #EXTINF:-1,EURO SPORTS
-#EXTIMG:http://seeklogo.com/images/E/Euro_Sports-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Euro_Sports_logo.png/320px-Euro_Sports_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/EURO-SPORTS/index.m3u8
 
 #EXTINF:-1,LIVE SPORTS
-#EXTIMG:http://seeklogo.com/images/L/Live_Sports-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTIMG:https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Live_Sports_logo.png/320px-Live_Sports_logo.png
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8
-
-#EXTINF:-1,SPL 1
-#EXTIMG:http://seeklogo.com/images/S/SPL-1-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://172.20.2.5:8082/SPL-1/index.m3u8
-
-#EXTINF:-1,SPL 2
-#EXTIMG:http://seeklogo.com/images/S/SPL-2-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://172.20.2.5:8082/SPL-2/index.m3u8
-
-#EXTINF:-1,STAR SPORTS 1
-#EXTIMG:http://seeklogo.com/images/S/Star_Sports_1-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://172.20.2.5:8082/STAR-SPORTS-1/index.m3u8
-
-#EXTINF:-1,STAR SPORTS 2
-#EXTIMG:http://seeklogo.com/images/S/Star_Sports_2-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://172.20.2.5:8082/STAR-SPORTS-2/index.m3u8
-
-#EXTINF:-1,T SPORTS
-#EXTIMG:http://seeklogo.com/images/T/T_Sports-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://172.20.2.5:8082/T-SPORTS/index.m3u8
-
-#EXTINF:-1,SONY TEN 1
-#EXTIMG:http://seeklogo.com/images/S/Sony_Ten_1-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://172.20.2.5:8082/SONY-TEN-1/index.m3u8
-
-#EXTINF:-1,SONY TEN 2
-#EXTIMG:http://seeklogo.com/images/S/Sony_Ten_2-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://172.20.2.5:8082/SONY-TEN-2/index.m3u8
-
-#EXTINF:-1,SONY TEN 3
-#EXTIMG:http://seeklogo.com/images/S/Sony_Ten_3-logo.png
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://172.20.2.5:8082/SONY-TEN-3/index.m3u8
