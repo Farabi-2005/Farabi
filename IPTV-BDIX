@@ -1,187 +1,87 @@
-#EXTM3U
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/bd.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="atn-bangla.bd" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png",ATN BANGLA
+#Bangladesh Channels
+#EXTINF:-1 tvg-id="atn-bangla" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/ATN_Bangla_logo.png/320px-ATN_Bangla_logo.png",ATN BANGLA
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/ATN-BANGLA/index.m3u8
 
-#EXTINF:-1 tvg-id="atn-news.bd" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png",ATN NEWS
+#EXTINF:-1 tvg-id="atn-news" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/ATN_News_logo.png/220px-ATN_News_logo.png",ATN NEWS
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/ATN-NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="banglavision.bd" tvg-name="Banglavision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",BANGLAVISION-TV
+#EXTINF:-1 tvg-id="banglavision" tvg-name="Banglavision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",BANGLAVISION-TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/BANGLAVISION-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="bijoy-tv.bd" tvg-name="Bijoy TV" tvg-logo="https://example.com/logos/bijoy-tv.png",BIJOY-TV
+#EXTINF:-1 tvg-id="bijoy-tv" tvg-name="Bijoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Bijoy_TV_logo.png/220px-Bijoy_TV_logo.png",BIJOY-TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/BIJOY-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="boishakhi-tv.bd" tvg-name="Boishakhi TV" tvg-logo="https://example.com/logos/boishakhi-tv.png",BOISHAKI-TV
+#EXTINF:-1 tvg-id="boishaki-tv" tvg-name="Boishaki TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Boishakhi_TV_logo.png/220px-Boishakhi_TV_logo.png",BOISHAKI-TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/BOISHAKI-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="btv-news.bd" tvg-name="BTV News" tvg-logo="https://example.com/logos/btv-news.png",BTV NEWS
+#EXTINF:-1 tvg-id="btv-news" tvg-name="BTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/BTV_News_logo.png/220px-BTV_News_logo.png",BTV NEWS
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/BTV-NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="channel9.bd" tvg-name="Channel 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_jkTvX6sGLEpJmzo2f7iLwPClDRnoOIgnA&usqp=CAU",CHANNEL 9
+#EXTINF:-1 tvg-id="channel-9" tvg-name="Channel 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_jkTvX6sGLEpJmzo2f7iLwPClDRnoOIgnA&usqp=CAU",CHANNEL 9
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/CHANNEL-9/index.m3u8
 
-#EXTINF:-1 tvg-id="channel-i.bd" tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",CHANNEL I
+#EXTINF:-1 tvg-id="channel-i" tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",CHANNEL I
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/CHANNEL-I/index.m3u8
 
-#EXTINF:-1 tvg-id="colors-bangla.in" tvg-name="Colors Bangla" tvg-logo="https://example.com/logos/colors-bangla.png",COLORS BANGLA
+#EXTINF:-1 tvg-id="dbc-news" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png",DBC NEWS
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/COLORS-BANGLA/index.m3u8
-
-#EXTINF:-1 tvg-id="dbc-news.bd" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png",DBC NEWS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/DBC-NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="ekattor-TV.bd" tvg-name="Ekattor TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",EKATTOR-TV
+#EXTINF:-1 tvg-id="deepto-tv" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Deepto_TV_logo.png/220px-Deepto_TV_logo.png",DEEPTO-TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
+http://172.20.2.5:8082/DEEPTO-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="ekattor-tv" tvg-name="Ekattor TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",EKATTOR-TV
+#EXTVLCOPT:network-caching=1000
 http://172.20.2.5:8082/EKATTOR-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="global-tv.bd" tvg-name="Global TV" tvg-logo="https://example.com/logos/global-tv.png",GLOBAL-TV
+#EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/GLOBAL-TV/index.m3u8
-
-#EXTINF:-1 tvg-id="gtv.bd" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/GTV/index.m3u8
 
-#EXTINF:-1 tvg-id="independent-tv.bd" tvg-name="Independent TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png",INDEPENDENT-TV
+#EXTINF:-1 tvg-id="independent-tv" tvg-name="Independent TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png",INDEPENDENT-TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/INDEPENDENT-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="jamuna-tv.bd" tvg-name="Jamuna TV" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png",JAMUNA-TV
+#EXTINF:-1 tvg-id="jamuna-tv" tvg-name="Jamuna TV" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png",JAMUNA-TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/JAMUNA-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="masranga-tv.bd" tvg-name="Masranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",MASRANGA-TV
+#EXTINF:-1 tvg-id="masranga-tv" tvg-name="Masranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",MASRANGA-TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/MASRANGA-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="ntv.bd" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
+#EXTINF:-1 tvg-id="mohona" tvg-name="Mohona" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Mohona_logo.png/220px-Mohona_logo.png",MOHONA
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
+http://172.20.2.5:8082/MOHONA/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
+#EXTVLCOPT:network-caching=1000
 http://172.20.2.5:8082/NTV/index.m3u8
 
-#EXTINF:-1 tvg-id="rtv.bd" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png",RTV
+#EXTINF:-1 tvg-id="rtv" tvg-name="R TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png",RTV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/RTV/index.m3u8
 
-#EXTINF:-1 tvg-id="satv.bd" tvg-name="SATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHuUgo3GDDj8V6ikZ40K1oT5tzf859xNJBtfszJGoqj-Daadk0vExt_TY&s=10",SATV
+#EXTINF:-1 tvg-id="satv" tvg-name="SATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1lq0pRMhK1p8q-Y2dqTfBH6yxscKencnvV4kVOW-ZFr25CZXtqMQuyK6&s=10",SATV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/SATV/index.m3u8
 
-#EXTINF:-1 tvg-id="somoy-news.bd" tvg-name="Somoy News" tvg-logo="https://example.com/logos/somoy-news.png",SOMOY NEWS
+#EXTINF:-1 tvg-id="somoy-news" tvg-name="Somoy News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Somoy_News_logo.png/220px-Somoy_News_logo.png",SOMOY NEWS
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/SOMOY-NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="sony-aath.in" tvg-name="Sony Aath" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png",SONY AATH
+#Indian Channels
+#EXTINF:-1 tvg-id="star-jalsha" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",STAR JALSHA
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/SONY-ART/index.m3u8
-
-#EXTINF:-1 tvg-id="star-jalsha.in" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",STAR JALSHA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
 http://172.20.2.5:8082/STAR-JALSHA/index.m3u8
-
-#EXTINF:-1 tvg-id="zee-bangla.in" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",ZEE BANGLA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/ZEE-BANGLA/index.m3u8
-
-#EXTINF:-1 tvg-id="zee-cinema.in" tvg-name="Zee Cinema" tvg-logo="https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema.m3u8",ZEE CINEMA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/ZEE-CINEMA/index.m3u8
-
-#EXTINF:-1 tvg-id="discovery.in" tvg-name="Discovery" tvg-logo="https://example.com/logos/discovery.png",DISCOVERY
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id="masti.in" tvg-name="Masti" tvg-logo="https://example.com/logos/masti.png",MASTI
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/MASTI/index.m3u8
-
-#EXTINF:-1 tvg-id="sony-pix.in" tvg-name="Sony Pix" tvg-logo="https://example.com/logos/sony-pix.png",SONY PIX
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:q8082/SONY-PIX/index.m3u8
-
-#EXTINF:-1 tvg-id="star-movie.in" tvg-name="Star Movie" tvg-logo="https://example.com/logos/star-movie.png",STAR MOVIE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/STAR-MOVIE/index.m3u8
-
-#EXTINF:-1 tvg-id="and-picture.in" tvg-name="& Picture" tvg-logo="https://example.com/logos/and-picture.png",& PICTURE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/AND-PICTURE/index.m3u8
-
-#EXTINF:-1 tvg-id="colors-hindi.in" tvg-name="Colors Hindi" tvg-logo="https://example.com/logos/colors-hindi.png",COLORS HINDI
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/COLORS-HIN/index.m3u8
-
-#EXTINF:-1 tvg-id="sony-tv.in" tvg-name="Sony TV" tvg-logo="https://example.com/logos/sony-tv.png",SONY TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/SONY-ENT/index.m3u8
-
-#EXTINF:-1 tvg-id="sony-max.in" tvg-name="Sony Max" tvg-logo="https://example.com/logos/sony-max.png",SONY MAX
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/SONY-MAX/index.m3u8
-
-#EXTINF:-1 tvg-id="star-gold.in" tvg-name="Star Gold" tvg-logo="https://example.com/logos/star-gold.png",STAR GOLD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/STAR-GOLD/index.m3u8
-
-#EXTINF:-1 tvg-id="star-plus.in" tvg-name="Star Plus" tvg-logo="https://example.com/logos/star-plus.png",STAR PLUS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/STAR-PLUS/index.m3u8
-
-#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",NICK
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/NICK/index.m3u8
-
-#EXTINF:-1 tvg-id="euro-sports.in" tvg-name="Euro Sports" tvg-logo="https://example.com/logos/euro-sports.png",EURO SPORTS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/EURO-SPORTS/index.m3u8
-
-#EXTINF:-1 tvg-id="live-sports.in" tvg-name="Live Sports" tvg-logo="https://example.com/logos/live-sports.png",LIVE SPORTS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-continuous=true
-http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8
