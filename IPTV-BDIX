@@ -1,154 +1,190 @@
-#EXTM3U
+/**
+ * Simple IPTV proxy + playlist rewriter
+ * Usage:
+ * 1. npm install
+ * 2. node server.js
+ * 3. Open http://localhost:3000
+ *
+ * Features:
+ * - Fetches original .m3u8 and rewrites absolute URLs to /proxy?url=...
+ * - /proxy streams any URL with retries and simple in-memory cache for small segments
+ */
 
-#EXTINF:-1,ATN BANGLA
-http://172.20.2.5:8082/ATN-BANGLA/index.m3u8
+const express = require('express');
+const fetch = require('node-fetch');
+const LRU = require('lru-cache');
+const { URL } = require('url');
 
-#EXTINF:-1,ATN NEWS
-http://172.20.2.5:8082/ATN-NEWS/index.m3u8
+const app = express();
+const PORT = process.env.PORT || 3000;
 
-#EXTINF:-1,BANGLAVISION-TV
-http://172.20.2.5:8082/BANGLAVISION-TV/index.m3u8
+// small LRU cache for segments (evict by size/time)
+const cache = new LRU({
+  max: 200,            // at most ~200 entries
+  ttl: 1000 * 60 * 5   // cache for 5 minutes
+});
 
-#EXTINF:-1,BIJOY-TV
-http://172.20.2.5:8082/BIJOY-TV/index.m3u8
+function safeEncode(u){ return encodeURIComponent(u); }
+function safeDecode(u){ return decodeURIComponent(u); }
 
-#EXTINF:-1,BOISHAKI-TV
-http://172.20.2.5:8082/BOISHAKI-TV/index.m3u8
+// utility: fetch with basic retries
+async function fetchWithRetry(url, opts = {}, retries = 2, backoff = 300) {
+  let lastErr;
+  for (let i = 0; i <= retries; i++) {
+    try {
+      const res = await fetch(url, opts);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return res;
+    } catch (err) {
+      lastErr = err;
+      if (i < retries) await new Promise(r => setTimeout(r, backoff * (i+1)));
+    }
+  }
+  throw lastErr;
+}
 
-#EXTINF:-1,BTV-NEWS
-http://172.20.2.5:8082/BTV-NEWS/index.m3u8
+// Serve static UI
+app.use(express.static(__dirname + '/public'));
 
-#EXTINF:-1,CHANNEL-9
-http://172.20.2.5:8082/CHANNEL-9/index.m3u8
+// endpoint: rewrite m3u8 playlist so segment URLs point to our /proxy
+// Query param: url = original playlist URL
+app.get('/playlist', async (req, res) => {
+  const orig = req.query.url;
+  if (!orig) return res.status(400).send('Missing url query param');
 
-#EXTINF:-1,CHANNEL-I
-http://172.20.2.5:8082/CHANNEL-I/index.m3u8
+  try {
+    const upstream = await fetchWithRetry(orig, { timeout: 10000 });
+    const text = await upstream.text();
 
-#EXTINF:-1,COLORS-BANGLA
-http://172.20.2.5:8082/COLORS-BANGLA/index.m3u8
+    // rewrite absolute urls (http/https) to /proxy?url=...
+    // Also rewrite lines starting with #EXT-X-KEY URI="..." if present (simple replacement)
+    const rewritten = text.replace(/(https?:\/\/[^\s"']+)/g, (match) => {
+      return `/proxy?url=${safeEncode(match)}`;
+    }).replace(/URI="(\/proxy\?url=[^"]+)"/g, (m, p1) => `URI="${p1}"`); // keep encryption URI if rewritten
 
-#EXTINF:-1,DBC-NEWS
-http://172.20.2.5:8082/DBC-NEWS/index.m3u8
+    // preserve content-type
+    res.set('Content-Type', 'application/vnd.apple.mpegurl');
+    res.send(rewritten);
+  } catch (err) {
+    console.error('playlist error', err.message);
+    res.status(502).send('Failed to fetch playlist: ' + err.message);
+  }
+});
 
-#EXTINF:-1,DEEPTO-TV
-http://172.20.2.5:8082/DEEPTO-TV/index.m3u8
+// endpoint: proxy arbitrary resource (playlist segment or ts or chunklist)
+// Query param: url = encoded original url
+app.get('/proxy', async (req, res) => {
+  const q = req.query.url;
+  if (!q) return res.status(400).send('Missing url');
 
-#EXTINF:-1,EKATTOR-TV
-http://172.20.2.5:8082/EKATTOR-TV/index.m3u8
+  const orig = safeDecode(q);
 
-#EXTINF:-1,GLOBAL-TV
-http://172.20.2.5:8082/GLOBAL-TV/index.m3u8
+  // If cached, return buffer quickly
+  try {
+    const key = orig;
+    if (cache.has(key)) {
+      const entry = cache.get(key);
+      res.set(entry.headers);
+      return res.send(entry.body);
+    }
 
-#EXTINF:-1,GTV
-http://172.20.2.5:8082/GTV/index.m3u8
+    // stream from origin with retry
+    const upstream = await fetchWithRetry(orig, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (IPTV-Proxy)'
+      },
+      timeout: 15000
+    }, 2, 300);
 
-#EXTINF:-1,INDPENDENT-TV
-http://172.20.2.5:8082/INDPENDENT-TV/index.m3u8
+    // read as buffer for caching small files (segments). For large playlist/manifest only not cached.
+    const contentType = upstream.headers.get('content-type') || '';
+    const buf = await upstream.buffer();
 
-#EXTINF:-1,JALSHA-MOVIES
-http://172.20.2.5:8082/JALSHA-MOVIES/index.m3u8
+    // decide caching: if it's a small segment (< 1MB) cache it
+    if (buf.length <= 1024 * 1024) {
+      cache.set(key, {
+        headers: {
+          'Content-Type': contentType,
+          'Content-Length': buf.length.toString(),
+          'Access-Control-Allow-Origin': '*'
+        },
+        body: buf
+      });
+      res.set('Content-Type', contentType);
+      res.set('Content-Length', buf.length.toString());
+      res.set('Access-Control-Allow-Origin', '*');
+      return res.send(buf);
+    } else {
+      // large: stream without caching
+      res.set('Content-Type', contentType);
+      res.set('Access-Control-Allow-Origin', '*');
+      res.send(buf);
+    }
+  } catch (err) {
+    console.error('proxy error', orig, err.message);
+    res.status(502).send('Proxy failed: ' + err.message);
+  }
+});
 
-#EXTINF:-1,JAMUNA-TV
-http://172.20.2.5:8082/JAMUNA-TV/index.m3u8
+// Provide a small JSON of channels (server also serves UI which loads this)
+const channels = [
+  { name: "ATN-BANGLA", url: "http://172.20.2.5:8082/ATN-BANGLA/index.m3u8" },
+  { name: "ATN-NEWS", url: "http://172.20.2.5:8082/ATN-NEWS/index.m3u8" },
+  { name: "BANGLAVISION-TV", url: "http://172.20.2.5:8082/BANGLAVISION-TV/index.m3u8" },
+  { name: "BIJOY-TV", url: "http://172.20.2.5:8082/BIJOY-TV/index.m3u8" },
+  { name: "BOISHAKI-TV", url: "http://172.20.2.5:8082/BOISHAKI-TV/index.m3u8" },
+  { name: "BTV-NEWS", url: "http://172.20.2.5:8082/BTV-NEWS/index.m3u8" },
+  { name: "CHANNEL-9", url: "http://172.20.2.5:8082/CHANNEL-9/index.m3u8" },
+  { name: "CHANNEL-I", url: "http://172.20.2.5:8082/CHANNEL-I/index.m3u8" },
+  { name: "COLORS-BANGLA", url: "http://172.20.2.5:8082/COLORS-BANGLA/index.m3u8" },
+  { name: "DBC-NEWS", url: "http://172.20.2.5:8082/DBC-NEWS/index.m3u8" },
+  { name: "DEEPTO-TV", url: "http://172.20.2.5:8082/DEEPTO-TV/index.m3u8" },
+  { name: "EKATTOR-TV", url: "http://172.20.2.5:8082/EKATTOR-TV/index.m3u8" },
+  { name: "GLOBAL-TV", url: "http://172.20.2.5:8082/GLOBAL-TV/index.m3u8" },
+  { name: "GTV", url: "http://172.20.2.5:8082/GTV/index.m3u8" },
+  { name: "INDPENDENT-TV", url: "http://172.20.2.5:8082/INDPENDENT-TV/index.m3u8" },
+  { name: "JALSHA-MOVIES", url: "http://172.20.2.5:8082/JALSHA-MOVIES/index.m3u8" },
+  { name: "JAMUNA-TV", url: "http://172.20.2.5:8082/JAMUNA-TV/index.m3u8" },
+  { name: "MASRANGA-TV", url: "http://172.20.2.5:8082/MASRANGA-TV/index.m3u8" },
+  { name: "MOHONA", url: "http://172.20.2.5:8082/MOHONA/index.m3u8" },
+  { name: "NTV", url: "http://172.20.2.5:8082/NTV/index.m3u8" },
+  { name: "RTV", url: "http://172.20.2.5:8082/RTV/index.m3u8" },
+  { name: "SATV", url: "http://172.20.2.5:8082/SATV/index.m3u8" },
+  { name: "SOMOY-NEWS", url: "http://172.20.2.5:8082/SOMOY-NEWS/index.m3u8" },
+  { name: "SONY-ART", url: "http://172.20.2.5:8082/SONY-ART/index.m3u8" },
+  { name: "STAR-JALSHA", url: "http://172.20.2.5:8082/STAR-JALSHA/index.m3u8" },
+  { name: "ZEE-BANGLA", url: "http://172.20.2.5:8082/ZEE-BANGLA/index.m3u8" },
+  { name: "ZEE-BANGLA-CINEMA", url: "http://172.20.2.5:8082/ZEE-BANGLA-CINEMA/index.m3u8" },
+  { name: "DISCOVERY", url: "http://172.20.2.5:8082/DISCOVERY/index.m3u8" },
+  { name: "MASTI", url: "http://172.20.2.5:8082/MASTI/index.m3u8" },
+  { name: "NGO-GEROPHY", url: "http://172.20.2.5:8082/NGO-GEROPHY/index.m3u8" },
+  { name: "SONY-PIX", url: "http://172.20.2.5:8082/SONY-PIX/index.m3u8" },
+  { name: "STAR-MOVIE", url: "http://172.20.2.5:8082/STAR-MOVIE/index.m3u8" },
+  { name: "AND-PICTURE", url: "http://172.20.2.5:8082/AND-PICTURE/index.m3u8" },
+  { name: "COLORS-HIN", url: "http://172.20.2.5:8082/COLORS-HIN/index.m3u8" },
+  { name: "SONY-ENT", url: "http://172.20.2.5:8082/SONY-ENT/index.m3u8" },
+  { name: "SONY-MAX", url: "http://172.20.2.5:8082/SONY-MAX/index.m3u8" },
+  { name: "STAR-GOLD", url: "http://172.20.2.5:8082/STAR-GOLD/index.m3u8" },
+  { name: "STAR-PLUS", url: "http://172.20.2.5:8082/STAR-PLUS/index.m3u8" },
+  { name: "ZEE-CINEMA", url: "http://172.20.2.5:8082/ZEE-CINEMA/index.m3u8" },
+  { name: "CN-NETWORK", url: "http://172.20.2.5:8082/CN-NETWORK/index.m3u8" },
+  { name: "NICK", url: "http://172.20.2.5:8082/NICK/index.m3u8" },
+  { name: "EURO-SPORTS", url: "http://172.20.2.5:8082/EURO-SPORTS/index.m3u8" },
+  { name: "LIVE-SPORTS", url: "http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8" },
+  { name: "SPL-1", url: "http://172.20.2.5:8082/SPL-1/index.m3u8" },
+  { name: "SPL-2", url: "http://172.20.2.5:8082/SPL-2/index.m3u8" },
+  { name: "STAR-SPORTS-2", url: "http://172.20.2.5:8082/STAR-SPORTS-2/index.m3u8" },
+  { name: "STAR-SPORTS-1", url: "http://172.20.2.5:8082/STAR-SPORTS-1/index.m3u8" },
+  { name: "T-SPORTS", url: "http://172.20.2.5:8082/T-SPORTS/index.m3u8" },
+  { name: "SONY-TEN-1", url: "http://172.20.2.5:8082/SONY-TEN-1/index.m3u8" },
+  { name: "SONY-TEN-2", url: "http://172.20.2.5:8082/SONY-TEN-2/index.m3u8" },
+  { name: "SONY-TEN-3", url: "http://172.20.2.5:8082/SONY-TEN-3/index.m3u8" }
+];
 
-#EXTINF:-1,MASRANGA-TV
-http://172.20.2.5:8082/MASRANGA-TV/index.m3u8
+app.get('/channels.json', (req, res) => {
+  res.json(channels);
+});
 
-#EXTINF:-1,MOHONA TV
-http://172.20.2.5:8082/MOHONA/index.m3u8
-
-#EXTINF:-1,NTV
-http://172.20.2.5:8082/NTV/index.m3u8
-
-#EXTINF:-1,RTV
-http://172.20.2.5:8082/RTV/index.m3u8
-
-#EXTINF:-1,SATV
-http://172.20.2.5:8082/SATV/index.m3u8
-
-#EXTINF:-1,SOMOY-NEWS
-http://172.20.2.5:8082/SOMOY-NEWS/index.m3u8
-
-#EXTINF:-1,SONY-AATH
-http://172.20.2.5:8082/SONY-ART/index.m3u8
-
-#EXTINF:-1,STAR-JALSHA
-http://172.20.2.5:8082/STAR-JALSHA/index.m3u8
-
-#EXTINF:-1,ZEE-BANGLA
-http://172.20.2.5:8082/ZEE-BANGLA/index.m3u8
-
-#EXTINF:-1,ZEE-BANGLA-CINEMA
-http://172.20.2.5:8082/ZEE-BANGLA-CINEMA/index.m3u8
-
-#EXTINF:-1,DISCOVERY
-http://172.20.2.5:8082/DISCOVERY/index.m3u8
-
-#EXTINF:-1,MASTI
-http://172.20.2.5:8082/MASTI/index.m3u8
-
-#EXTINF:-1,NGO-GEROPHY
-http://172.20.2.5:8082/NGO-GEROPHY/index.m3u8
-
-#EXTINF:-1,SONY-PIX
-http://172.20.2.5:8082/SONY-PIX/index.m3u8
-
-#EXTINF:-1,STAR-MOVIE
-http://172.20.2.5:8082/STAR-MOVIE/index.m3u8
-
-#EXTINF:-1,AND-PICTURE
-http://172.20.2.5:8082/AND-PICTURE/index.m3u8
-
-#EXTINF:-1,COLORS-HINDI
-http://172.20.2.5:8082/COLORS-HIN/index.m3u8
-
-#EXTINF:-1,SONY-TV
-http://172.20.2.5:8082/SONY-ENT/index.m3u8
-
-#EXTINF:-1,SONY-MAX
-http://172.20.2.5:8082/SONY-MAX/index.m3u8
-
-#EXTINF:-1,STAR-GOLD
-http://172.20.2.5:8082/STAR-GOLD/index.m3u8
-
-#EXTINF:-1,STAR-PLUS
-http://172.20.2.5:8082/STAR-PLUS/index.m3u8
-
-#EXTINF:-1,ZEE-CINEMA
-http://172.20.2.5:8082/ZEE-CINEMA/index.m3u8
-
-#EXTINF:-1,CN-NETWORK
-http://172.20.2.5:8082/CN-NETWORK/index.m3u8
-
-#EXTINF:-1,NICK
-http://172.20.2.5:8082/NICK/index.m3u8
-
-#EXTINF:-1,EURO-SPORTS
-http://172.20.2.5:8082/EURO-SPORTS/index.m3u8
-
-#EXTINF:-1,LIVE-SPORTS
-http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8
-
-#EXTINF:-1,SPL-1
-http://172.20.2.5:8082/SPL-1/index.m3u8
-
-#EXTINF:-1,SPL-2
-http://172.20.2.5:8082/SPL-2/index.m3u8
-
-#EXTINF:-1,STAR-SPORTS-2
-http://172.20.2.5:8082/STAR-SPORTS-2/index.m3u8
-
-#EXTINF:-1,STAR-SPORTS-1
-http://172.20.2.5:8082/STAR-SPORTS-1/index.m3u8
-
-#EXTINF:-1,T-SPORTS
-http://172.20.2.5:8082/T-SPORTS/index.m3u8
-
-#EXTINF:-1,SONY-TEN-1
-http://172.20.2.5:8082/SONY-TEN-1/index.m3u8
-
-#EXTINF:-1,SONY-TEN-2
-http://172.20.2.5:8082/SONY-TEN-2/index.m3u8
-
-#EXTINF:-1,SONY-TEN-3
-http://172.20.2.5:8082/SONY-TEN-3/index.m3u8
+app.listen(PORT, () => {
+  console.log(`IPTV proxy running on http://localhost:${PORT}`);
+});
