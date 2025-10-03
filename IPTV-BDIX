@@ -1,123 +1,157 @@
 #EXTM3U
 
+# Channels List with Logo & Proxy
+# All URLs rewritten to proxy (example: replace http://172.20.2.5:8082/... with your proxy if needed)
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/ATN_Bangla_logo.png",ATN BANGLA
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FATN-BANGLA%2Findex.m3u8
+http://172.20.2.5:8082/ATN-BANGLA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/ATN_News_Logo.png",ATN NEWS
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FATN-NEWS%2Findex.m3u8
+http://172.20.2.5:8082/ATN-NEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Banglavision_logo.png",BANGLAVISION TV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FBANGLAVISION-TV%2Findex.m3u8
+http://172.20.2.5:8082/BANGLAVISION-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bijoy_TV_logo.png",BIJOY TV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FBIJOY-TV%2Findex.m3u8
+http://172.20.2.5:8082/BIJOY-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Boishakhi_TV_logo.png",BOISHAKI TV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FBOISHAKI-TV%2Findex.m3u8
+http://172.20.2.5:8082/BOISHAKI-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/BTV_World_logo.png",BTV NEWS
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FBTV-NEWS%2Findex.m3u8
+http://172.20.2.5:8082/BTV-NEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Channel9_Bangladesh.png",CHANNEL 9
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FCHANNEL-9%2Findex.m3u8
+http://172.20.2.5:8082/CHANNEL-9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Channel-i.svg",CHANNEL I
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FCHANNEL-I%2Findex.m3u8
+http://172.20.2.5:8082/CHANNEL-I/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Colors_Bangla_Logo.jpg",COLORS BANGLA
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FCOLORS-BANGLA%2Findex.m3u8
+http://172.20.2.5:8082/COLORS-BANGLA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/DBC_News_logo.png",DBC NEWS
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FDBC-NEWS%2Findex.m3u8
+http://172.20.2.5:8082/DBC-NEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Deepto_TV_logo.png",DEEPTO TV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FDEEPTO-TV%2Findex.m3u8
+http://172.20.2.5:8082/DEEPTO-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Ekattor_TV_logo.png",EKATTOR TV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FEKATTOR-TV%2Findex.m3u8
+http://172.20.2.5:8082/EKATTOR-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1dWv4k/globaltv.png",GLOBAL TV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FGLOBAL-TV%2Findex.m3u8
+http://172.20.2.5:8082/GLOBAL-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GtvBangladeshLogo.png",GTV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FGTV%2Findex.m3u8
+http://172.20.2.5:8082/GTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Independent_TV_logo.png",INDEPENDENT TV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FINDPENDENT-TV%2Findex.m3u8
+http://172.20.2.5:8082/INDPENDENT-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Jalsha_Movies_Logo.png",JALSHA MOVIES
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FJALSHA-MOVIES%2Findex.m3u8
+http://172.20.2.5:8082/JALSHA-MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/JamunaTV_logo.png",JAMUNA TV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FJAMUNA-TV%2Findex.m3u8
+http://172.20.2.5:8082/JAMUNA-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Maasranga_Television_Logo.jpg",MASRANGA TV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FMASRANGA-TV%2Findex.m3u8
+http://172.20.2.5:8082/MASRANGA-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Mohona_TV_logo.png",MOHONA
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FMOHONA%2Findex.m3u8
+http://172.20.2.5:8082/MOHONA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/NTV_Television_Logo.png",NTV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FNTV%2Findex.m3u8
+http://172.20.2.5:8082/NTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/RTV_Bangladesh_Logo.png",RTV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FRTV%2Findex.m3u8
+http://172.20.2.5:8082/RTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/SATV_Logo.png",SATV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FSATV%2Findex.m3u8
+http://172.20.2.5:8082/SATV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Somoy_TV_logo.png",SOMOY NEWS
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FSOMOY-NEWS%2Findex.m3u8
+http://172.20.2.5:8082/SOMOY-NEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Sony_Aath_logo.png",SONY AATH
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FSONY-ART%2Findex.m3u8
+http://172.20.2.5:8082/SONY-ART/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Star_Jalsha_logo.png",STAR JALSHA
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FSTAR-JALSHA%2Findex.m3u8
+http://172.20.2.5:8082/STAR-JALSHA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Zee_Bangla_Logo.png",ZEE BANGLA
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FZEE-BANGLA%2Findex.m3u8
+http://172.20.2.5:8082/ZEE-BANGLA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Zee_Bangla_Cinema_logo.png",ZEE BANGLA CINEMA
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FZEE-BANGLA-CINEMA%2Findex.m3u8
+http://172.20.2.5:8082/ZEE-BANGLA-CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Discovery_logo_2019.svg",DISCOVERY
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FDISCOVERY%2Findex.m3u8
+http://172.20.2.5:8082/DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RfWNkn/masti.png",MASTI
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FMASTI%2Findex.m3u8
+http://172.20.2.5:8082/MASTI/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fSvWNNV/NGO.png",NGO GEROPHY
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FNGO-GEROPHY%2Findex.m3u8
+http://172.20.2.5:8082/NGO-GEROPHY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Sony_PIX_logo.png",SONY PIX
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FSONY-PIX%2Findex.m3u8
+http://172.20.2.5:8082/SONY-PIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Star_Movies_logo.png",STAR MOVIE
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FSTAR-MOVIE%2Findex.m3u8
+http://172.20.2.5:8082/STAR-MOVIE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/And_Pictures_logo.png",AND PICTURE
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FAND-PICTURE%2Findex.m3u8
+http://172.20.2.5:8082/AND-PICTURE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Colors_TV_2017_logo.png",COLORS HINDI
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FCOLORS-HIN%2Findex.m3u8
+http://172.20.2.5:8082/COLORS-HIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Sony_Entertainment_Television_2016_logo.png",SONY TV
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FSONY-ENT%2Findex.m3u8
+http://172.20.2.5:8082/SONY-ENT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Sony_MAX_logo.png",SONY MAX
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FSONY-MAX%2Findex.m3u8
+http://172.20.2.5:8082/SONY-MAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Star_Gold_logo.png",STAR GOLD
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FSTAR-GOLD%2Findex.m3u8
+http://172.20.2.5:8082/STAR-GOLD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Star_Plus_logo.png",STAR PLUS
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FSTAR-PLUS%2Findex.m3u8
+http://172.20.2.5:8082/STAR-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Zee_Cinema_Logo.png",ZEE CINEMA
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FZEE-CINEMA%2Findex.m3u8
+http://172.20.2.5:8082/ZEE-CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Cartoon_Network_logo.png",CN NETWORK
-http://localhost:3000/proxy?url=http%3A%2F%2F172.20.2.5%3A8082%2FCN-NETWORK%2Findex.m3u8
+http://172.20.2.5:8082/CN-NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Nickelode
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Nickelodeon_logo.png",NICK
+http://172.20.2.5:8082/NICK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Eurosport_logo_2015.svg",EURO SPORTS
+http://172.20.2.5:8082/EURO-SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G0dWzKP/livesports.png",LIVE SPORTS
+http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TgFbWkJ/spl1.png",SPL 1
+http://172.20.2.5:8082/SPL-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z29nWw0/spl2.png",SPL 2
+http://172.20.2.5:8082/SPL-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Star_Sports_logo.png",STAR SPORTS 2
+http://172.20.2.5:8082/STAR-SPORTS-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Star_Sports_logo.png",STAR SPORTS 1
+http://172.20.2.5:8082/STAR-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/T_Sports_logo.png",T SPORTS
+http://172.20.2.5:8082/T-SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Sony_Ten_logo.png",SONY TEN 1
+http://172.20.2.5:8082/SONY-TEN-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Sony_Ten_logo.png",SONY TEN 2
+http://172.20.2.5:8082/SONY-TEN-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Sony_Ten_logo.png",SONY TEN 3
+http://172.20.2.5:8082/SONY-TEN-3/index.m3u8
