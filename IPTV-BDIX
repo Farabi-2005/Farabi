@@ -1,157 +1,205 @@
 #EXTM3U
 
-# Channels List with Logo & Proxy
-# All URLs rewritten to proxy (example: replace http://172.20.2.5:8082/... with your proxy if needed)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/ATN_Bangla_logo.png",ATN BANGLA
+#EXTINF:-1,ATN-BANGLA
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/ATN-BANGLA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/ATN_News_Logo.png",ATN NEWS
+#EXTINF:-1,ATN-NEWS
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/ATN-NEWS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Banglavision_logo.png",BANGLAVISION TV
+#EXTINF:-1,BANGLAVISION-TV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/BANGLAVISION-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bijoy_TV_logo.png",BIJOY TV
+#EXTINF:-1,BIJOY-TV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/BIJOY-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Boishakhi_TV_logo.png",BOISHAKI TV
+#EXTINF:-1,BOISHAKI-TV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/BOISHAKI-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/BTV_World_logo.png",BTV NEWS
+#EXTINF:-1,BTV-NEWS
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/BTV-NEWS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Channel9_Bangladesh.png",CHANNEL 9
+#EXTINF:-1,CHANNEL-9
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/CHANNEL-9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Channel-i.svg",CHANNEL I
+#EXTINF:-1,CHANNEL-I
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/CHANNEL-I/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Colors_Bangla_Logo.jpg",COLORS BANGLA
+#EXTINF:-1,COLORS-BANGLA
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/COLORS-BANGLA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/DBC_News_logo.png",DBC NEWS
+#EXTINF:-1,DBC-NEWS
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/DBC-NEWS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Deepto_TV_logo.png",DEEPTO TV
+#EXTINF:-1,DEEPTO-TV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/DEEPTO-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Ekattor_TV_logo.png",EKATTOR TV
+#EXTINF:-1,EKATTOR-TV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/EKATTOR-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v1dWv4k/globaltv.png",GLOBAL TV
+#EXTINF:-1,GLOBAL-TV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/GLOBAL-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GtvBangladeshLogo.png",GTV
+#EXTINF:-1,GTV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/GTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Independent_TV_logo.png",INDEPENDENT TV
+#EXTINF:-1,INDPENDENT-TV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/INDPENDENT-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Jalsha_Movies_Logo.png",JALSHA MOVIES
+#EXTINF:-1,JALSHA-MOVIES
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/JALSHA-MOVIES/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/JamunaTV_logo.png",JAMUNA TV
+#EXTINF:-1,JAMUNA-TV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/JAMUNA-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Maasranga_Television_Logo.jpg",MASRANGA TV
+#EXTINF:-1,MASRANGA-TV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/MASRANGA-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Mohona_TV_logo.png",MOHONA
+#EXTINF:-1,MOHONA
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/MOHONA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/NTV_Television_Logo.png",NTV
+#EXTINF:-1,NTV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/NTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/RTV_Bangladesh_Logo.png",RTV
+#EXTINF:-1,RTV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/RTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/SATV_Logo.png",SATV
+#EXTINF:-1,SATV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/SATV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Somoy_TV_logo.png",SOMOY NEWS
+#EXTINF:-1,SOMOY-NEWS
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/SOMOY-NEWS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Sony_Aath_logo.png",SONY AATH
+#EXTINF:-1,SONY-AATH
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/SONY-ART/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Star_Jalsha_logo.png",STAR JALSHA
+#EXTINF:-1,STAR-JALSHA
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/STAR-JALSHA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Zee_Bangla_Logo.png",ZEE BANGLA
+#EXTINF:-1,ZEE-BANGLA
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/ZEE-BANGLA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Zee_Bangla_Cinema_logo.png",ZEE BANGLA CINEMA
+#EXTINF:-1,ZEE-BANGLA-CINEMA
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/ZEE-BANGLA-CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Discovery_logo_2019.svg",DISCOVERY
+#EXTINF:-1,DISCOVERY
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4RfWNkn/masti.png",MASTI
+#EXTINF:-1,MASTI
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/MASTI/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fSvWNNV/NGO.png",NGO GEROPHY
+#EXTINF:-1,NGO-GEROPHY
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/NGO-GEROPHY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Sony_PIX_logo.png",SONY PIX
+#EXTINF:-1,SONY-PIX
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/SONY-PIX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Star_Movies_logo.png",STAR MOVIE
+#EXTINF:-1,STAR-MOVIE
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/STAR-MOVIE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/And_Pictures_logo.png",AND PICTURE
+#EXTINF:-1,AND-PICTURE
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/AND-PICTURE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Colors_TV_2017_logo.png",COLORS HINDI
+#EXTINF:-1,COLORS-HINDI
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/COLORS-HIN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Sony_Entertainment_Television_2016_logo.png",SONY TV
+#EXTINF:-1,SONY-TV
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/SONY-ENT/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Sony_MAX_logo.png",SONY MAX
+#EXTINF:-1,SONY-MAX
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/SONY-MAX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Star_Gold_logo.png",STAR GOLD
+#EXTINF:-1,STAR-GOLD
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/STAR-GOLD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Star_Plus_logo.png",STAR PLUS
+#EXTINF:-1,STAR-PLUS
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/STAR-PLUS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Zee_Cinema_Logo.png",ZEE CINEMA
+#EXTINF:-1,ZEE-CINEMA
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/ZEE-CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Cartoon_Network_logo.png",CN NETWORK
+#EXTINF:-1,CN-NETWORK
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/CN-NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Nickelodeon_logo.png",NICK
+#EXTINF:-1,NICK
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/NICK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Eurosport_logo_2015.svg",EURO SPORTS
+#EXTINF:-1,EURO-SPORTS
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/EURO-SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G0dWzKP/livesports.png",LIVE SPORTS
+#EXTINF:-1,LIVE-SPORTS
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TgFbWkJ/spl1.png",SPL 1
+#EXTINF:-1,SPL-1
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/SPL-1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z29nWw0/spl2.png",SPL 2
+#EXTINF:-1,SPL-2
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/SPL-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Star_Sports_logo.png",STAR SPORTS 2
+#EXTINF:-1,STAR-SPORTS-2
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/STAR-SPORTS-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Star_Sports_logo.png",STAR SPORTS 1
+#EXTINF:-1,STAR-SPORTS-1
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/STAR-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/T_Sports_logo.png",T SPORTS
+#EXTINF:-1,T-SPORTS
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/T-SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Sony_Ten_logo.png",SONY TEN 1
+#EXTINF:-1,SONY-TEN-1
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/SONY-TEN-1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Sony_Ten_logo.png",SONY TEN 2
+#EXTINF:-1,SONY-TEN-2
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/SONY-TEN-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Sony_Ten_logo.png",SONY TEN 3
+#EXTINF:-1,SONY-TEN-3
+#EXTVLCOPT:network-caching=50
 http://172.20.2.5:8082/SONY-TEN-3/index.m3u8
