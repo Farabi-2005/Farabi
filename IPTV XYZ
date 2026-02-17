@@ -5,12 +5,8 @@
 NEWS CHANNELS
 
 #######################
-#EXTINF:-1 group-title="News",BBC News
-http://103.89.248.130:8082/BBC-NEWS/index.m3u8
-#EXTINF:-1 group-title="News",CNN
-http://103.89.248.130:8082/CNN/index.m3u8
-#EXTINF:-1 group-title="News",Jamuna TV
-http://103.89.248.130:8082/Jamuna/index.m3u8
+#EXTINF:-1 group-title="News",BTV
+http://103.89.248.130:8082/BTV/index.m3u8
 #EXTINF:-1 group-title="News",Channel 24
 http://103.89.248.130:8082/Chanal24/index.m3u8
 #EXTINF:-1 group-title="News",ATN News
@@ -21,28 +17,18 @@ http://103.89.248.130:8082/NEWS-24/index.m3u8
 http://103.89.248.130:8082/SOMOY_TV/index.m3u8
 #EXTINF:-1 group-title="News",DBC News
 http://103.89.248.130:8082/DBC-NEWS/index.m3u8
+#EXTINF:-1 group-title="News",Jamuna TV
+http://103.89.248.130:8082/Jamuna/index.m3u8
 #EXTINF:-1 group-title="News",Independent TV
 http://103.89.248.130:8082/INDEPENDENT-NEWS/index.m3u8
-#EXTINF:-1 group-title="News",71 TV
+#EXTINF:-1 group-title="News",Ekattor TV
 http://103.89.248.130:8082/71-TV/index.m3u8
+#EXTINF:-1 group-title="News",BBC News
+http://103.89.248.130:8082/BBC-NEWS/index.m3u8
+#EXTINF:-1 group-title="News",CNN
+http://103.89.248.130:8082/CNN/index.m3u8
 #EXTINF:-1 group-title="News",Zee 24 Ghanta
 http://103.89.248.130:8082/ZEE-24-GHANTA/index.m3u8
-
-#######################
-
-KIDS CHANNELS
-
-#######################
-#EXTINF:-1 group-title="Kids",Duronto TV
-http://103.89.248.130:8082/DURONTO-TV/index.m3u8
-#EXTINF:-1 group-title="Kids",Sony Yay
-http://103.89.248.130:8082/SONY-YAY/index.m3u8
-#EXTINF:-1 group-title="Kids",Discovery Kids
-http://103.89.248.130:8082/DISCOVERY-KIDS/index.m3u8
-#EXTINF:-1 group-title="Kids",Disney Hindi
-http://103.89.248.130:8082/DISNEY-HINDI/index.m3u8
-#EXTINF:-1 group-title="Kids",Cartoon Network
-http://103.89.248.130:8082/cn/index.m3u8
 
 #######################
 
@@ -93,6 +79,20 @@ http://103.89.248.130:8082/zee-tv-hd/index.m3u8
 http://103.89.248.130:8082/HUM-TV/index.m3u8
 
 #######################
+
+KIDS CHANNELS
+
+#######################
+#EXTINF:-1 group-title="Kids",Duronto TV
+http://103.89.248.130:8082/DURONTO-TV/index.m3u8
+#EXTINF:-1 group-title="Kids",Sony Yay
+http://103.89.248.130:8082/SONY-YAY/index.m3u8
+#EXTINF:-1 group-title="Kids",Discovery Kids
+http://103.89.248.130:8082/DISCOVERY-KIDS/index.m3u8
+#EXTINF:-1 group-title="Kids",Disney Hindi
+http://103.89.248.130:8082/DISNEY-HINDI/index.m3u8
+#EXTINF:-1 group-title="Kids",Cartoon Network
+http://103.89.248.130:8082/cn/index.m3u8
 
 DOCUMENTARY & INFO
 
