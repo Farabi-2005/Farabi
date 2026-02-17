@@ -1,0 +1,212 @@
+#EXTM3U
+
+#######################
+
+NEWS CHANNELS
+
+#######################
+#EXTINF:-1 group-title="News",BBC News
+http://103.89.248.130:8082/BBC-NEWS/index.m3u8
+#EXTINF:-1 group-title="News",CNN
+http://103.89.248.130:8082/CNN/index.m3u8
+#EXTINF:-1 group-title="News",Jamuna TV
+http://103.89.248.130:8082/Jamuna/index.m3u8
+#EXTINF:-1 group-title="News",Channel 24
+http://103.89.248.130:8082/Chanal24/index.m3u8
+#EXTINF:-1 group-title="News",ATN News
+http://103.89.248.130:8082/ATN-NEWS/index.m3u8
+#EXTINF:-1 group-title="News",News 24
+http://103.89.248.130:8082/NEWS-24/index.m3u8
+#EXTINF:-1 group-title="News",Somoy TV
+http://103.89.248.130:8082/SOMOY_TV/index.m3u8
+#EXTINF:-1 group-title="News",DBC News
+http://103.89.248.130:8082/DBC-NEWS/index.m3u8
+#EXTINF:-1 group-title="News",Independent TV
+http://103.89.248.130:8082/INDEPENDENT-NEWS/index.m3u8
+#EXTINF:-1 group-title="News",71 TV
+http://103.89.248.130:8082/71-TV/index.m3u8
+#EXTINF:-1 group-title="News",Zee 24 Ghanta
+http://103.89.248.130:8082/ZEE-24-GHANTA/index.m3u8
+
+#######################
+
+KIDS CHANNELS
+
+#######################
+#EXTINF:-1 group-title="Kids",Duronto TV
+http://103.89.248.130:8082/DURONTO-TV/index.m3u8
+#EXTINF:-1 group-title="Kids",Sony Yay
+http://103.89.248.130:8082/SONY-YAY/index.m3u8
+#EXTINF:-1 group-title="Kids",Discovery Kids
+http://103.89.248.130:8082/DISCOVERY-KIDS/index.m3u8
+#EXTINF:-1 group-title="Kids",Disney Hindi
+http://103.89.248.130:8082/DISNEY-HINDI/index.m3u8
+#EXTINF:-1 group-title="Kids",Cartoon Network
+http://103.89.248.130:8082/cn/index.m3u8
+
+#######################
+
+MOVIE CHANNELS
+
+#######################
+#EXTINF:-1 group-title="Movies",HBO
+http://103.89.248.130:8082/HBO/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Movies Select
+http://103.89.248.130:8082/STAR-MOVIES-SELECT/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold
+http://103.89.248.130:8082/star-gold/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold 2
+http://103.89.248.130:8082/star-gold-2/index.m3u8
+#EXTINF:-1 group-title="Movies",Sony Max
+http://103.89.248.130:8082/SONY-MAX/index.m3u8
+#EXTINF:-1 group-title="Movies",Sony Max 2
+http://103.89.248.130:8082/sony-max2/index.m3u8
+#EXTINF:-1 group-title="Movies",Zee Cinema HD
+http://103.89.248.130:8082/Zee-Cinema-HD/index.m3u8
+#EXTINF:-1 group-title="Movies",B4U Movies
+http://103.89.248.130:8082/B4U-MOVIES/index.m3u8
+#EXTINF:-1 group-title="Movies",Sony Pix HD
+http://103.89.248.130:8082/sony-pix-hd/index.m3u8
+#EXTINF:-1 group-title="Movies",&Flix
+http://103.89.248.130:8082/AND-FLIX/index.m3u8
+#EXTINF:-1 group-title="Movies",&Pictures HD
+http://103.89.248.130:8082/and-picture-HD/index.m3u8
+
+#######################
+
+DRAMA & ENTERTAINMENT
+
+#######################
+#EXTINF:-1 group-title="Entertainment",Star Plus
+http://103.89.248.130:8082/STAR-PLUS/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Star Bharat
+http://103.89.248.130:8082/STAR-BHARAT/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Sony TV
+http://103.89.248.130:8082/SONY-TV/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Sony SAB
+http://103.89.248.130:8082/SONY-SAB/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Colors HD
+http://103.89.248.130:8082/Colors-HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Zee TV HD
+http://103.89.248.130:8082/zee-tv-hd/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Hum TV
+http://103.89.248.130:8082/HUM-TV/index.m3u8
+
+#######################
+
+DOCUMENTARY & INFO
+
+#######################
+#EXTINF:-1 group-title="Documentary",BBC Earth
+http://103.89.248.130:8082/BBC-Earth/index.m3u8
+#EXTINF:-1 group-title="Documentary",Animal Planet
+http://103.89.248.130:8082/animalplanent/index.m3u8
+#EXTINF:-1 group-title="Documentary",National Geographic Bangla
+http://103.89.248.130:8082/National-geo-graphy-bangla/index.m3u8
+#EXTINF:-1 group-title="Documentary",Nat Geo Wild
+http://103.89.248.130:8082/nat-geo-wild/index.m3u8
+#EXTINF:-1 group-title="Documentary",Discovery HD
+http://103.89.248.130:8082/DISCOVERY-HD/index.m3u8
+#EXTINF:-1 group-title="Documentary",Discovery Science
+http://103.89.248.130:8082/Discovery-Science/index.m3u8
+#EXTINF:-1 group-title="Documentary",Discovery Turbo
+http://103.89.248.130:8082/Discovery-Turbo/index.m3u8
+#EXTINF:-1 group-title="Documentary",Investigation Discovery
+http://103.89.248.130:8082/Investigation-Discovery/index.m3u8
+#######################
+# LIVE & SPORTS CHANNELS
+#######################
+
+#EXTINF:-1 group-title="Sports",LIVE 1
+http://103.89.248.130:8082/1LIVE/index.m3u8
+#EXTINF:-1 group-title="Sports",LIVE 2
+http://103.89.248.130:8082/2LIVE/index.m3u8
+#EXTINF:-1 group-title="Sports",LIVE CRICKET
+http://103.89.248.130:8082/LIVE-CRICKET/index.m3u8
+#EXTINF:-1 group-title="Sports",LIVE CRICKET 1
+http://103.89.248.130:8082/LIVE-CRICKET-1/index.m3u8
+#EXTINF:-1 group-title="Sports",LIVE FOOTBALL
+http://103.89.248.130:8082/LIVE-FOOTBALL/index.m3u8
+#EXTINF:-1 group-title="Sports",LIVE FOOTBALL 1
+http://103.89.248.130:8082/LIVE-FOOTBALL-1/index.m3u8
+#EXTINF:-1 group-title="Sports",LIVE FOOTBALL 2
+http://103.89.248.130:8082/LIVE-FOOTBALL-2/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Bein Sports HD
+http://103.89.248.130:8082/Bein-hd/index.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 2
+http://103.89.248.130:8082/BEIN-SPORTS-2/index.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 3
+http://103.89.248.130:8082/BEIN-SPORTS-3/index.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 4
+http://103.89.248.130:8082/Bein-Sports-4/index.m3u8
+#EXTINF:-1 group-title="Sports",Ten Cricket HD
+http://103.89.248.130:8082/Ten-Cricket-HD/index.m3u8
+#EXTINF:-1 group-title="Sports",TNT Sports 1
+http://103.89.248.130:8082/TNT-Sports-1/index.m3u8
+#EXTINF:-1 group-title="Sports",TNT Sports 2
+http://103.89.248.130:8082/TNT-Sports-2/index.m3u8
+#EXTINF:-1 group-title="Sports",TNT Sports 3
+http://103.89.248.130:8082/TNT-Sports-3/index.m3u8
+#EXTINF:-1 group-title="Sports",TNT Sports 4
+http://103.89.248.130:8082/Uk-TNT-4/index.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports
+http://103.89.248.130:8082/FOX-SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports 1
+http://103.89.248.130:8082/FOX-SPORTS1/index.m3u8
+#EXTINF:-1 group-title="Sports",Willow Cricket
+http://103.89.248.130:8082/willow/index.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports Main Event
+http://103.89.248.130:8082/Sky-Sports-Main-Event/index.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports Cricket
+http://103.89.248.130:8082/Sky-Sports-Cricket/index.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports Premier League
+http://103.89.248.130:8082/Sky-Sports-premier-League/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports Select 1
+http://103.89.248.130:8082/Star-sports-select-1/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports Select 2
+http://103.89.248.130:8082/Star-sports-select-2/index.m3u8
+#EXTINF:-1 group-title="Sports",Sony TEN 1
+http://103.89.248.130:8082/Sony-TEN-1/index.m3u8
+#EXTINF:-1 group-title="Sports",Sony TEN 2
+http://103.89.248.130:8082/sony-TEN-2/index.m3u8
+#EXTINF:-1 group-title="Sports",Sony TEN 3
+http://103.89.248.130:8082/sony-ten3/index.m3u8
+#EXTINF:-1 group-title="Sports",Sony TEN 5
+http://103.89.248.130:8082/Sony-TEN-5/index.m3u8
+#EXTINF:-1 group-title="Sports",Sports 18
+http://103.89.248.130:8082/SPORTS-18/index.m3u8
+#EXTINF:-1 group-title="Sports",Eurosports
+http://103.89.248.130:8082/Eurosports/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 3
+http://103.89.248.130:8082/Star-sport-3/index.m3u8
+#EXTINF:-1 group-title="Sports",A Sports
+http://103.89.248.130:8082/A-SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 2
+http://103.89.248.130:8082/DUBAI-SPORTS-2/index.m3u8
+#EXTINF:-1 group-title="Sports",Dubai Sports 3
+http://103.89.248.130:8082/dubai-sports-3/index.m3u8
+#EXTINF:-1 group-title="Sports",ESPN 1
+http://103.89.248.130:8082/ESPN-1/index.m3u8
+#EXTINF:-1 group-title="Sports",T Sports
+http://103.89.248.130:8082/T-SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports",Gazi TV
+http://103.89.248.130:8082/GAZI-TV/index.m3u8
+#EXTINF:-1 group-title="Sports",PTV Sports
+http://103.89.248.130:8082/PTV/index.m3u8
+#EXTINF:-1 group-title="Sports",Afgan Sports
+http://103.89.248.130:8082/Afgan-Sports/index.m3u8
+#EXTINF:-1 group-title="Sports",SuperSports Cricket
+http://103.89.248.130:8082/SUPERSPORTS-CRICKET/index.m3u8
+#EXTINF:-1 group-title="Sports",SuperSports Football
+http://103.89.248.130:8082/SUPERSPORTS-FOOTBALL/index.m3u8
+#EXTINF:-1 group-title="Sports",SuperSports Premier League
+http://103.89.248.130:8082/SUPERSPORTS-PREMIER-LEAGUE/index.m3u8
+#EXTINF:-1 group-title="Sports",Sportv
+http://103.89.248.130:8082/Sportv/index.m3u8
+#EXTINF:-1 group-title="Sports",SSC1
+http://103.89.248.130:8082/SSC1/index.m3u8
+#EXTINF:-1 group-title="Sports",Geo Sports
+http://103.89.248.130:8082/GEO-SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports",MUTV
+http://103.89.248.130:8082/MUTV/index.m3u8
