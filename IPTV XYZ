@@ -142,7 +142,7 @@ http://103.89.248.130:8082/DISNEY-HINDI/index.m3u8
 #EXTINF:-1 group-title="Kids",Cartoon Network
 http://103.89.248.130:8082/cn/index.m3u8
 #EXTINF:-1 group-title="Kids",Pogo
-http://103.89.248.130:8082/POGO/index.m3u8
+http://100.64.32.2:8080/play/J8CO1KwP5MzPZOlqA_9obUhfkiOhvEsQQfIsYrUmaXY/ts
 #######################
 
 Religious Channels
