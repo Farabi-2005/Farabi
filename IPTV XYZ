@@ -9,12 +9,30 @@ NEWS CHANNELS
 http://103.89.248.130:8082/BTV/index.m3u8
 #EXTINF:-1 group-title="News",Channel 24
 http://103.89.248.130:8082/Chanal24/index.m3u8
+#EXTINF:-1 group-title="Sports",Gazi TV
+http://103.89.248.130:8082/GAZI-TV/index.m3u8
 #EXTINF:-1 group-title="News",ATN News
 http://103.89.248.130:8082/ATN-NEWS/index.m3u8
+#EXTINF:-1 group-title="News",Channel 9
+http://103.89.248.130:8082/CHANNEL-9/index.m3u8
+#EXTINF:-1 group-title="News",Masranga TV
+http://103.89.248.130:8082/MAASRANGA-TV/index.m3u8
+#EXTINF:-1 group-title="News",Ekhon TV
+http://103.89.248.130:8082/EKHON-TV/index.m3u8
+#EXTINF:-1 group-title="News",My TV
+http://103.89.248.130:8082/MY-TV/index.m3u8
+#EXTINF:-1 group-title="News",Nagorik TV
+http://103.89.248.130:8082/NAGORIK-TV/index.m3u
 #EXTINF:-1 group-title="News",NTV
 http://103.89.248.130:8082/NTV/index.m3u8
 #EXTINF:-1 group-title="News",RTV
 http://103.89.248.130:8082/RTV/index.m3u8
+#EXTINF:-1 group-title="News",Ekushey TV
+http://103.89.248.130:8082/EKUSHEY-TV/index.m3u8
+#EXTINF:-1 group-title="News",Bijoy TV
+http://103.89.248.130:8082/BIJOY-TV/index.m3u8
+#EXTINF:-1 group-title="News",Ananda TV
+http://103.89.248.130:8082/ANANDA-TV/index.m3u8
 #EXTINF:-1 group-title="News",NEXUS TV
 http://103.89.248.130:8082/NEXUS-TV/index.m3u8
 #EXTINF:-1 group-title="News",News 24
@@ -65,6 +83,8 @@ http://103.89.248.130:8082/STAR-PLUS/index.m3u8
 http://103.89.248.130:8082/STAR-BHARAT/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Sony TV
 http://103.89.248.130:8082/SONY-TV/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Sony Wah
+http://103.89.248.130:8082/sony-WAH/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Sony SAB
 http://103.89.248.130:8082/SONY-SAB/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors HD
@@ -73,6 +93,8 @@ http://103.89.248.130:8082/Colors-HD/index.m3u8
 http://103.89.248.130:8082/zee-tv-hd/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Hum TV
 http://103.89.248.130:8082/HUM-TV/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Hum Masala
+http://103.89.248.130:8082/Hum-masala/index.m3u
 
 #######################
 
@@ -120,7 +142,14 @@ http://103.89.248.130:8082/DISNEY-HINDI/index.m3u8
 #EXTINF:-1 group-title="Kids",Cartoon Network
 http://103.89.248.130:8082/cn/index.m3u8
 #EXTINF:-1 group-title="Kids",Pogo
-http://103.89.248.130:8082/POGO/index.fmp4.m3u8
+http://103.89.248.130:8082/POGO/index.m3u8
+#######################
+
+Religious Channels
+#EXTINF:-1 group-title="Religious",Madani Channel Bangla
+http://103.89.248.130:8082/madani-channel-bangla/index.m3u8
+#######################
+
 DOCUMENTARY & INFO
 
 #######################
@@ -217,8 +246,6 @@ http://103.89.248.130:8082/dubai-sports-3/index.m3u8
 http://103.89.248.130:8082/ESPN-1/index.m3u8
 #EXTINF:-1 group-title="Sports",T Sports
 http://103.89.248.130:8082/T-SPORTS/index.m3u8
-#EXTINF:-1 group-title="Sports",Gazi TV
-http://103.89.248.130:8082/GAZI-TV/index.m3u8
 #EXTINF:-1 group-title="Sports",PTV Sports
 http://103.89.248.130:8082/PTV/index.m3u8
 #EXTINF:-1 group-title="Sports",Afgan Sports
@@ -229,9 +256,9 @@ http://103.89.248.130:8082/SUPERSPORTS-CRICKET/index.m3u8
 http://103.89.248.130:8082/SUPERSPORTS-FOOTBALL/index.m3u8
 #EXTINF:-1 group-title="Sports",SuperSports Premier League
 http://103.89.248.130:8082/SUPERSPORTS-PREMIER-LEAGUE/index.m3u8
-#EXTINF:-1 group-title="Sports",Sportv
+#EXTINF:-1 group-title="Sports",Sports tv
 http://103.89.248.130:8082/Sportv/index.m3u8
-#EXTINF:-1 group-title="Sports",SSC1
+#EXTINF:-1 group-title="Sports",SSC Sports
 http://103.89.248.130:8082/SSC1/index.m3u8
 #EXTINF:-1 group-title="Sports",Geo Sports
 http://103.89.248.130:8082/GEO-SPORTS/index.m3u8
