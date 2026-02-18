@@ -22,7 +22,7 @@ http://103.89.248.130:8082/EKHON-TV/index.m3u8
 #EXTINF:-1 group-title="News",My TV
 http://103.89.248.130:8082/MY-TV/index.m3u8
 #EXTINF:-1 group-title="News",Nagorik TV
-http://103.89.248.130:8082/NAGORIK-TV/index.m3u
+http://103.89.248.130:8082/NAGORIK-TV/index.m3u8
 #EXTINF:-1 group-title="News",NTV
 http://103.89.248.130:8082/NTV/index.m3u8
 #EXTINF:-1 group-title="News",RTV
