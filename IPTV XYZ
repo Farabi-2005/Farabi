@@ -11,6 +11,12 @@ http://103.89.248.130:8082/BTV/index.m3u8
 http://103.89.248.130:8082/Chanal24/index.m3u8
 #EXTINF:-1 group-title="News",ATN News
 http://103.89.248.130:8082/ATN-NEWS/index.m3u8
+#EXTINF:-1 group-title="News",NTV
+http://103.89.248.130:8082/NTV/index.m3u8
+#EXTINF:-1 group-title="News",RTV
+http://103.89.248.130:8082/RTV/index.m3u8
+#EXTINF:-1 group-title="News",NEXUS TV
+http://103.89.248.130:8082/NEXUS-TV/index.m3u8
 #EXTINF:-1 group-title="News",News 24
 http://103.89.248.130:8082/NEWS-24/index.m3u8
 #EXTINF:-1 group-title="News",Somoy TV
@@ -71,6 +77,16 @@ http://103.89.248.130:8082/and-picture-HD/index.m3u8
 DRAMA & ENTERTAINMENT
 
 #######################
+#EXTINF:-1 group-title="Entertainment",Star Jalsha
+http://103.89.248.130:8082/Star_jalsha/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Jalsha Movies
+http://103.89.248.130:8082/JALSHA-MOVIES/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Zee Bangla
+http://103.89.248.130:8082/zee-bangla/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Sony Aath
+http://103.89.248.130:8082/Sony-Aath/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Enter 10 Bangla
+http://103.89.248.130:8082/ENTER-10-BANGLA/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Plus
 http://103.89.248.130:8082/STAR-PLUS/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Bharat
@@ -93,7 +109,9 @@ KIDS CHANNELS
 #######################
 #EXTINF:-1 group-title="Kids",Duronto TV
 http://103.89.248.130:8082/DURONTO-TV/index.m3u8
-#EXTINF:-1 group-title="Kids",Sony Yay
+#EXTINF:-1 group-title="Kids",Rongeen TV
+http://103.89.248.130:8082/RONGEEN-TV/index.m3u8
+#EXTINF:-1 group-title="Kids",Sony YaY
 http://103.89.248.130:8082/SONY-YAY/index.m3u8
 #EXTINF:-1 group-title="Kids",Discovery Kids
 http://103.89.248.130:8082/DISCOVERY-KIDS/index.m3u8
