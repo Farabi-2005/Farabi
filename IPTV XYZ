@@ -46,34 +46,6 @@ http://103.89.248.130:8082/ZEE-24-GHANTA/index.m3u8
 
 #######################
 
-MOVIE CHANNELS
-
-#######################
-#EXTINF:-1 group-title="Movies",HBO
-http://103.89.248.130:8082/HBO/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Movies Select
-http://103.89.248.130:8082/STAR-MOVIES-SELECT/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Gold
-http://103.89.248.130:8082/star-gold/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Gold 2
-http://103.89.248.130:8082/star-gold-2/index.m3u8
-#EXTINF:-1 group-title="Movies",Sony Max
-http://103.89.248.130:8082/SONY-MAX/index.m3u8
-#EXTINF:-1 group-title="Movies",Sony Max 2
-http://103.89.248.130:8082/sony-max2/index.m3u8
-#EXTINF:-1 group-title="Movies",Zee Cinema HD
-http://103.89.248.130:8082/Zee-Cinema-HD/index.m3u8
-#EXTINF:-1 group-title="Movies",B4U Movies
-http://103.89.248.130:8082/B4U-MOVIES/index.m3u8
-#EXTINF:-1 group-title="Movies",Sony Pix HD
-http://103.89.248.130:8082/sony-pix-hd/index.m3u8
-#EXTINF:-1 group-title="Movies",&Flix
-http://103.89.248.130:8082/AND-FLIX/index.m3u8
-#EXTINF:-1 group-title="Movies",&Pictures HD
-http://103.89.248.130:8082/and-picture-HD/index.m3u8
-
-#######################
-
 DRAMA & ENTERTAINMENT
 
 #######################
@@ -104,6 +76,34 @@ http://103.89.248.130:8082/HUM-TV/index.m3u8
 
 #######################
 
+MOVIE CHANNELS
+
+#######################
+#EXTINF:-1 group-title="Movies",HBO
+http://103.89.248.130:8082/HBO/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Movies Select
+http://103.89.248.130:8082/STAR-MOVIES-SELECT/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold
+http://103.89.248.130:8082/star-gold/index.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold 2
+http://103.89.248.130:8082/star-gold-2/index.m3u8
+#EXTINF:-1 group-title="Movies",Sony Max
+http://103.89.248.130:8082/SONY-MAX/index.m3u8
+#EXTINF:-1 group-title="Movies",Sony Max 2
+http://103.89.248.130:8082/sony-max2/index.m3u8
+#EXTINF:-1 group-title="Movies",Zee Cinema HD
+http://103.89.248.130:8082/Zee-Cinema-HD/index.m3u8
+#EXTINF:-1 group-title="Movies",B4U Movies
+http://103.89.248.130:8082/B4U-MOVIES/index.m3u8
+#EXTINF:-1 group-title="Movies",Sony Pix HD
+http://103.89.248.130:8082/sony-pix-hd/index.m3u8
+#EXTINF:-1 group-title="Movies",&Flix
+http://103.89.248.130:8082/AND-FLIX/index.m3u8
+#EXTINF:-1 group-title="Movies",&Pictures HD
+http://103.89.248.130:8082/and-picture-HD/index.m3u8
+
+#######################
+
 KIDS CHANNELS
 
 #######################
@@ -120,7 +120,7 @@ http://103.89.248.130:8082/DISNEY-HINDI/index.m3u8
 #EXTINF:-1 group-title="Kids",Cartoon Network
 http://103.89.248.130:8082/cn/index.m3u8
 #EXTINF:-1 group-title="Kids",Pogo
-http://103.89.248.130:8082/POGO/index.m3u8
+http://103.89.248.130:8082/POGO/index.fmp4.m3u8
 DOCUMENTARY & INFO
 
 #######################
