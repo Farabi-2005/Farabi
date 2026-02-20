@@ -57,7 +57,7 @@ http://103.89.248.130:8082/DESH/index.m3u8
 http://103.89.248.130:8082/CHANNAL-I/index.m3u
 #EXTINF:-1 group-title="News",MOHONA TV
 http://103.89.248.130:8082/MOHONA-TV/index.m3u8
-#EXTINF:-1 group-title="News",BBC News
+#EXTINF:-1 group-title="News",BBC NEWS
 http://103.89.248.130:8082/BBC-NEWS/index.m3u8
 #EXTINF:-1 group-title="News",CNN
 http://103.89.248.130:8082/CNN/index.m3u8
@@ -146,7 +146,7 @@ http://103.89.248.130:8082/DISNEY-HINDI/index.m3u8
 #EXTINF:-1 group-title="Kids",CARTOON NETWORK
 http://103.89.248.130:8082/cn/index.m3u8
 #EXTINF:-1 group-title="Kids",POGO
-http://100.64.32.2:8080/play/J8CO1KwP5MzPZOlqA_9obUhfkiOhvEsQQfIsYrUmaXY/ts
+http://103.89.248.130:8082/POGO/index.m3u8
 #######################
 
 Religious Channels
