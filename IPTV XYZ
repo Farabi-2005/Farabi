@@ -77,11 +77,11 @@ http://103.89.248.130:8082/ZEE-24-GHANTA/index.m3u8
 DRAMA & ENTERTAINMENT
 
 #######################
-#EXTINF:-1 group-title="Entertainment",STAR JALSHA
+#EXTINF:-1 group-title="Entertainment",STAR JALSHA HD
 http://103.89.248.130:8082/Star_jalsha/index.m3u8
-#EXTINF:-1 group-title="Entertainment",JALSHA MOVIES
+#EXTINF:-1 group-title="Entertainment",JALSHA MOVIES HD
 http://103.89.248.130:8082/JALSHA-MOVIES/index.m3u8
-#EXTINF:-1 group-title="Entertainment",ZEE BANGLA
+#EXTINF:-1 group-title="Entertainment",ZEE BANGLA HD
 http://103.89.248.130:8082/zee-bangla/index.m3u8
 #EXTINF:-1 group-title="Entertainment",SONY AATH
 http://103.89.248.130:8082/Sony-Aath/index.m3u8
@@ -93,11 +93,11 @@ http://103.89.248.130:8082/ENTER-10-BANGLA/index.m3u8
 http://103.89.248.130:8082/STAR-PLUS/index.m3u8
 #EXTINF:-1 group-title="Entertainment",STAR BHARAT
 http://103.89.248.130:8082/STAR-BHARAT/index.m3u8
-#EXTINF:-1 group-title="Entertainment",SONY TV
+#EXTINF:-1 group-title="Entertainment",SONY TV HD
 http://103.89.248.130:8082/SONY-TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",SONY WAH
 http://103.89.248.130:8082/sony-WAH/index.m3u8
-#EXTINF:-1 group-title="Entertainment",SONY SAB
+#EXTINF:-1 group-title="Entertainment",SONY SAB HD
 http://103.89.248.130:8082/SONY-SAB/index.m3u8
 #EXTINF:-1 group-title="Entertainment",COLORS HD
 http://103.89.248.130:8082/Colors-HD/index.m3u8
@@ -115,7 +115,7 @@ MOVIE CHANNELS
 #######################
 #EXTINF:-1 group-title="Movies",HBO
 http://103.89.248.130:8082/HBO/index.m3u8
-#EXTINF:-1 group-title="Movies",STAR MOVIES SELECT
+#EXTINF:-1 group-title="Movies",STAR MOVIES HD
 http://103.89.248.130:8082/STAR-MOVIES-SELECT/index.m3u8
 #EXTINF:-1 group-title="Movies",STAR GOLD HD
 http://103.89.248.130:8082/star-gold/index.m3u8
