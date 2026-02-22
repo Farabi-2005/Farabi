@@ -117,11 +117,11 @@ MOVIE CHANNELS
 http://103.89.248.130:8082/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies",STAR MOVIES SELECT
 http://103.89.248.130:8082/STAR-MOVIES-SELECT/index.m3u8
-#EXTINF:-1 group-title="Movies",STAR GOLD
+#EXTINF:-1 group-title="Movies",STAR GOLD HD
 http://103.89.248.130:8082/star-gold/index.m3u8
 #EXTINF:-1 group-title="Movie",STAR GOLD 2
 http://103.89.248.130:8082/star-gold-2/index.m3u8
-#EXTINF:-1 group-title="Movies",SONY MAX
+#EXTINF:-1 group-title="Movies",SONY MAX HD
 http://103.89.248.130:8082/SONY-MAX/index.m3u8
 #EXTINF:-1 group-title="Movies",SONY MAX 2
 http://103.89.248.130:8082/sony-max2/index.m3u8
@@ -158,7 +158,7 @@ http://103.89.248.130:8082/POGO/index.m3u8
 #######################
 
 Religious Channels
-#EXTINF:-1 group-title="Religious",MADANI CHANNEL BANGLA
+#EXTINF:-1 group-title="Religious",MADANI CHANNEL BANGLA HD
 http://103.89.248.130:8082/madani-channel-bangla/index.m3u8
 #######################
 
