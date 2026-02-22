@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://103.89.248.130/
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-ALLOW-CACHE:YES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+#EXTVLCOPT:http-referrer=http://iptvidn.com/
 #EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:drop-late-frames=true
+#EXTVLCOPT:skip-frames=true
 #######################
 
 NEWS CHANNELS
@@ -15,7 +23,7 @@ http://103.89.248.130:8082/Chanal24/index.m3u8
 http://103.89.248.130:8082/GAZI-TV/index.m3u8
 #EXTINF:-1 group-title="News",ATN NEWS
 http://103.89.248.130:8082/ATN-NEWS/index.m3u8
-#EXTINF:-1 group-title="News",CHANNEL 9
+#EXTINF:-1 group-title="News",CHANNEL 9 HD
 http://103.89.248.130:8082/CHANNEL-9/index.m3u8
 #EXTINF:-1 group-title="News",MASRANGA TV
 http://103.89.248.130:8082/MAASRANGA-TV/index.m3u8
@@ -143,7 +151,7 @@ http://103.89.248.130:8082/SONY-YAY/index.m3u8
 http://103.89.248.130:8082/DISCOVERY-KIDS/index.m3u8
 #EXTINF:-1 group-title="Kids",DISNEY HINDI
 http://103.89.248.130:8082/DISNEY-HINDI/index.m3u8
-#EXTINF:-1 group-title="Kids",CARTOON NETWORK
+#EXTINF:-1 group-title="Kids",CARTOON NETWORK HD PLUS
 http://103.89.248.130:8082/cn/index.m3u8
 #EXTINF:-1 group-title="Kids",POGO
 http://103.89.248.130:8082/POGO/index.m3u8
@@ -165,7 +173,7 @@ http://103.89.248.130:8082/animalplanent/index.m3u8
 http://103.89.248.130:8082/National-geo-graphy-bangla/index.m3u8
 #EXTINF:-1 group-title="Documentary",NAT GEO WILD
 http://103.89.248.130:8082/nat-geo-wild/index.m3u8
-#EXTINF:-1 group-title="Documentary",DISCOVERY HD
+#EXTINF:-1 group-title="Documentary",DISCOVERY
 http://103.89.248.130:8082/DISCOVERY-HD/index.m3u8
 #EXTINF:-1 group-title="Documentary",DISCOVERY SCIENCE
 http://103.89.248.130:8082/Discovery-Science/index.m3u8
@@ -200,7 +208,7 @@ http://103.89.248.130:8082/BEIN-SPORTS-2/index.m3u8
 http://103.89.248.130:8082/BEIN-SPORTS-3/index.m3u8
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 4
 http://103.89.248.130:8082/Bein-Sports-4/index.m3u8
-#EXTINF:-1 group-title="Sports",TEN CRICKET HD
+#EXTINF:-1 group-title="Sports",TEN CRICKET
 http://103.89.248.130:8082/Ten-Cricket-HD/index.m3u8
 #EXTINF:-1 group-title="Sports",TNT SPORTS 1
 http://103.89.248.130:8082/TNT-Sports-1/index.m3u8
