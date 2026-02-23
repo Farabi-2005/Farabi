@@ -115,7 +115,7 @@ MOVIE CHANNELS
 #######################
 #EXTINF:-1 group-title="Movies",HBO
 http://103.89.248.130:8082/HBO/index.m3u8
-#EXTINF:-1 group-title="Movies",STAR MOVIES HD
+#EXTINF:-1 group-title="Movies",STAR MOVIES SELECT HD
 http://103.89.248.130:8082/STAR-MOVIES-SELECT/index.m3u8
 #EXTINF:-1 group-title="Movies",STAR GOLD HD
 http://103.89.248.130:8082/star-gold/index.m3u8
@@ -167,11 +167,11 @@ DOCUMENTARY & INFO
 #######################
 #EXTINF:-1 group-title="Documentary",BBC EARTH
 http://103.89.248.130:8082/BBC-Earth/index.m3u8
-#EXTINF:-1 group-title="Documentary",ANIMAL PLANET
+#EXTINF:-1 group-title="Documentary",ANIMAL PLANET HD
 http://103.89.248.130:8082/animalplanent/index.m3u8
-#EXTINF:-1 group-title="Documentary",NATIONAL GEOGRAPHIC BANGLA
+#EXTINF:-1 group-title="Documentary",NATIONAL GEOGRAPHIC BANGLA HD
 http://103.89.248.130:8082/National-geo-graphy-bangla/index.m3u8
-#EXTINF:-1 group-title="Documentary",NAT GEO WILD
+#EXTINF:-1 group-title="Documentary",NAT GEO WILD HD
 http://103.89.248.130:8082/nat-geo-wild/index.m3u8
 #EXTINF:-1 group-title="Documentary",DISCOVERY
 http://103.89.248.130:8082/DISCOVERY-HD/index.m3u8
