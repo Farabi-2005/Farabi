@@ -89,52 +89,77 @@ http://103.89.248.130:8082/Sony-Aath/index.m3u8
 http://103.89.248.130:8082/Akash-aat/index.m3u8
 #EXTINF:-1 group-title="Entertainment",ENTER 10 BANGLA
 http://103.89.248.130:8082/ENTER-10-BANGLA/index.m3u8
-#EXTINF:-1 group-title="Entertainment",STAR PLUS
+#EXTINF:-1 group-title="Entertainment",STAR PLUS HD
 http://103.89.248.130:8082/STAR-PLUS/index.m3u8
-#EXTINF:-1 group-title="Entertainment",STAR BHARAT
+#EXTINF:-1 group-title="Entertainment",STAR BHARAT HD
 http://103.89.248.130:8082/STAR-BHARAT/index.m3u8
 #EXTINF:-1 group-title="Entertainment",SONY TV HD
 http://103.89.248.130:8082/SONY-TV/index.m3u8
+#EXTINF:-1 group-title="Entertainment",SONY KAL
+http://103.89.248.130:8082/SONY-KAL/index.m3u8
 #EXTINF:-1 group-title="Entertainment",SONY WAH
 http://103.89.248.130:8082/sony-WAH/index.m3u8
 #EXTINF:-1 group-title="Entertainment",SONY SAB HD
 http://103.89.248.130:8082/SONY-SAB/index.m3u8
+#EXTINF:-1 group-title="Entertainment",& TV HD
+http://103.89.248.130:8082/AND-TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",COLORS HD
 http://103.89.248.130:8082/Colors-HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment",COLORS BANGLA HD
+http://103.89.248.130:8082/Colors-Bangla/index.m3u8
 #EXTINF:-1 group-title="Entertainment",ZEE TV HD
 http://103.89.248.130:8082/zee-tv-hd/index.m3u8
 #EXTINF:-1 group-title="Entertainment",HUM TV
 http://103.89.248.130:8082/HUM-TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",HUM MASALA
-http://103.89.248.130:8082/Hum-masala/index.m3u
+http://103.89.248.130:8082/Hum-masala/index.m3u8
+#EXTINF:-1 group-title="Entertainment",HUM SITAREY
+http://103.89.248.130:8082/Hum-Sitarey/index.m3u8
 
 #######################
 
 MOVIE CHANNELS
 
 #######################
-#EXTINF:-1 group-title="Movies",HBO
-http://103.89.248.130:8082/HBO/index.m3u8
-#EXTINF:-1 group-title="Movies",STAR MOVIES SELECT HD
-http://103.89.248.130:8082/STAR-MOVIES-SELECT/index.m3u8
 #EXTINF:-1 group-title="Movies",STAR GOLD HD
 http://103.89.248.130:8082/star-gold/index.m3u8
 #EXTINF:-1 group-title="Movie",STAR GOLD 2
 http://103.89.248.130:8082/star-gold-2/index.m3u8
+#EXTINF:-1 group-title="Movie",STAR GOLD THRILLS
+http://103.89.248.130:8082/STAR-GOLD-THRILLS/index.m3u8
+#EXTINF:-1 group-title="Movie",STAR GOLD ROMANCE
+http://103.89.248.130:8082/STAR-GOLD-ROMANCE/index.m3u8
 #EXTINF:-1 group-title="Movies",SONY MAX HD
 http://103.89.248.130:8082/SONY-MAX/index.m3u8
 #EXTINF:-1 group-title="Movies",SONY MAX 2
 http://103.89.248.130:8082/sony-max2/index.m3u8
 #EXTINF:-1 group-title="Movies",ZEE CINEMA HD
 http://103.89.248.130:8082/Zee-Cinema-HD/index.m3u8
+#EXTINF:-1 group-title="Movies",ZEE ANMOL
+http://103.89.248.130:8082/ZEE-ANMOL-CHANEMA/index.m3u8
+#EXTINF:-1 group-title="Movies",ZEE BANGLA CINEMA
+http://103.89.248.130:8082/ZEE-BANGLA-CINEMA/index.m3u8
+#EXTINF:-1 group-title="Movies",COLORS BANGLA CINEMA
+http://103.89.248.130:8082/COLORS-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 group-title="Movies",B4U MOVIES
 http://103.89.248.130:8082/B4U-MOVIES/index.m3u8
-#EXTINF:-1 group-title="Movies",SONY PIX HD
-http://103.89.248.130:8082/sony-pix-hd/index.m3u8
-#EXTINF:-1 group-title="Movies",& FLIX
-http://103.89.248.130:8082/AND-FLIX/index.m3u8
 #EXTINF:-1 group-title="Movies",& PICTURES HD
 http://103.89.248.130:8082/and-picture-HD/index.m3u8
+http://103.89.248.130:8082/ZEE-ANMOL-CHANEMA/index.m3u8
+#EXTINF:-1 group-title="Movies",SONY PIX HD
+http://103.89.248.130:8082/sony-pix-hd/index.m3u8
+#EXTINF:-1 group-title="Movies",STAR MOVIES SELECT HD
+http://103.89.248.130:8082/STAR-MOVIES-SELECT/index.m3u8
+#EXTINF:-1 group-title="Movies",& FLIX
+http://103.89.248.130:8082/AND-FLIX/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO HD
+http://103.89.248.130:8082/HBO/index.m3u8
+#EXTINF:-1 group-title="Movies",MY TIME TV
+http://103.89.248.130:8082/my-time/index.m3u8
+#EXTINF:-1 group-title="Movies",AXN
+http://103.89.248.130:8082/AXN/index.m3u8
+#EXTINF:-1 group-title="Movies",MN PLUS HD
+http://103.89.248.130:8082/MN-Plus/index.m3u8
 
 #######################
 
@@ -175,12 +200,26 @@ http://103.89.248.130:8082/National-geo-graphy-bangla/index.m3u8
 http://103.89.248.130:8082/nat-geo-wild/index.m3u8
 #EXTINF:-1 group-title="Documentary",DISCOVERY
 http://103.89.248.130:8082/DISCOVERY-HD/index.m3u8
+#EXTINF:-1 group-title="Documentary",DISCOVERY BANGLA HD
+http://103.89.248.130:8082/DISCOVERY-BANGLA/index.m3u8
 #EXTINF:-1 group-title="Documentary",DISCOVERY SCIENCE
 http://103.89.248.130:8082/Discovery-Science/index.m3u8
 #EXTINF:-1 group-title="Documentary",DISCOVERY TURBO
 http://103.89.248.130:8082/Discovery-Turbo/index.m3u8
 #EXTINF:-1 group-title="Documentary",INVESTIGATION DISCOVERY
 http://103.89.248.130:8082/Investigation-Discovery/index.m3u8
+#EXTINF:-1 group-title="Documentary",TRAVEL XP
+http://103.89.248.130:8082/travel-xp/index.m3u8
+#EXTINF:-1 group-title="Documentary",TLC WORLD
+http://103.89.248.130:8082/tlc-hd/index.m3u8
+#EXTINF:-1 group-title="Documentary",RED BULL TV
+http://103.89.248.130:8082/REDBOL-TV/index.m3u8
+#EXTINF:-1 group-title="Documentary",DMAX TV
+http://103.89.248.130:8082/DMAX/index.m3u8
+#EXTINF:-1 group-title="Documentary",LOVE NATURE TV
+http://103.89.248.130:8082/LOVE-NATURE/index.m3u8
+#EXTINF:-1 group-title="Documentary",WILD EARTH TV
+http://103.89.248.130:8082/Wild-Earth/index.m3u8
 #######################
 # LIVE & SPORTS CHANNELS
 #######################
