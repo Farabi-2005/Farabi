@@ -123,11 +123,11 @@ MOVIE CHANNELS
 #######################
 #EXTINF:-1 group-title="Movies",STAR GOLD HD
 http://103.89.248.130:8082/star-gold/index.m3u8
-#EXTINF:-1 group-title="Movie",STAR GOLD 2
+#EXTINF:-1 group-title="Movies",STAR GOLD 2
 http://103.89.248.130:8082/star-gold-2/index.m3u8
-#EXTINF:-1 group-title="Movie",STAR GOLD THRILLS
+#EXTINF:-1 group-title="Movies",STAR GOLD THRILLS
 http://103.89.248.130:8082/STAR-GOLD-THRILLS/index.m3u8
-#EXTINF:-1 group-title="Movie",STAR GOLD ROMANCE
+#EXTINF:-1 group-title="Movies",STAR GOLD ROMANCE
 http://103.89.248.130:8082/STAR-GOLD-ROMANCE/index.m3u8
 #EXTINF:-1 group-title="Movies",SONY MAX HD
 http://103.89.248.130:8082/SONY-MAX/index.m3u8
