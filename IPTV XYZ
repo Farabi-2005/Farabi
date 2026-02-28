@@ -178,9 +178,10 @@ http://103.89.248.130:8082/DISNEY-HINDI/index.m3u8
 #EXTINF:-1 group-title="Kids",CARTOON NETWORK HD PLUS
 http://103.89.248.130:8082/cn/index.m3u8
 #EXTINF:-1 group-title="Kids",POGO
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=NSPlayer
 #EXTVLCOPT:http-referrer=https://google.com/
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://103.89.248.130:8082/POGO/index.m3u8
 #######################
 
