@@ -1,13 +1,29 @@
 #EXTM3U
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-ALLOW-CACHE:YES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+
+# ==== UNIVERSAL PLAYER IDENTITY ====
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+#EXTVLCOPT:http-user-agent=NSPlayer
 #EXTVLCOPT:http-referrer=https://google.com/
+
+# ==== AUTO RECONNECT (ANTI STOP) ====
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:live-caching=1000
+#EXTVLCOPT:http-reconnect-at-eof=true
+#EXTVLCOPT:http-continuous=true
+
+# ==== ANTI LOOP BUFFER SETTINGS ====
+#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:live-caching=3000
+#EXTVLCOPT:file-caching=3000
+
+# ==== STREAM SYNC FIX ====
 #EXTVLCOPT:clock-jitter=0
 #EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:hls-segment-threads=3
+
+# ==== FRAME STABILITY ====
 #EXTVLCOPT:drop-late-frames=true
 #EXTVLCOPT:skip-frames=true
 #######################
@@ -178,10 +194,6 @@ http://103.89.248.130:8082/DISNEY-HINDI/index.m3u8
 #EXTINF:-1 group-title="Kids",CARTOON NETWORK HD PLUS
 http://103.89.248.130:8082/cn/index.m3u8
 #EXTINF:-1 group-title="Kids",POGO
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Lavf/57.83.100
-#EXTVLCOPT:http-referrer=https://google.com/
-#EXTVLCOPT:network-caching=1000
 http://103.89.248.130:8082/POGO/index.m3u8
 #######################
 
