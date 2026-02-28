@@ -81,12 +81,6 @@ http://103.89.248.130:8082/DESH/index.m3u8
 http://103.89.248.130:8082/CHANNAL-I/index.m3u
 #EXTINF:-1 group-title="News",MOHONA TV
 http://103.89.248.130:8082/MOHONA-TV/index.m3u8
-#EXTINF:-1 group-title="News",BBC NEWS
-http://103.89.248.130:8082/BBC-NEWS/index.m3u8
-#EXTINF:-1 group-title="News",CNN
-http://103.89.248.130:8082/CNN/index.m3u8
-#EXTINF:-1 group-title="News",ZEE 24 GHANTA
-http://103.89.248.130:8082/ZEE-24-GHANTA/index.m3u8
 
 #######################
 
@@ -219,7 +213,7 @@ http://103.89.248.130:8082/xite-music/index.m3u8
 DOCUMENTARY & INFO
 
 #######################
-#EXTINF:-1 group-title="Documentary",BBC EARTH
+#EXTINF:-1 group-title="Documentary",SONY BBC EARTH
 http://103.89.248.130:8082/BBC-Earth/index.m3u8
 #EXTINF:-1 group-title="Documentary",ANIMAL PLANET HD
 http://103.89.248.130:8082/animalplanent/index.m3u8
@@ -250,6 +244,16 @@ http://103.89.248.130:8082/LOVE-NATURE/index.m3u8
 #EXTINF:-1 group-title="Documentary",WILD EARTH TV
 http://103.89.248.130:8082/Wild-Earth/index.m3u8
 #######################
+INTERNATIONAL NEWS CHANNELS
+
+#######################
+#EXTINF:-1 group-title="International News",BBC NEWS
+http://103.89.248.130:8082/BBC-NEWS/index.m3u8
+#EXTINF:-1 group-title="International News",CNN
+http://103.89.248.130:8082/CNN/index.m3u8
+#EXTINF:-1 group-title="International News",ZEE 24 GHANTA
+http://103.89.248.130:8082/ZEE-24-GHANTA/index.m3u8
+#######################
 # LIVE & SPORTS CHANNELS
 #######################
 
@@ -267,7 +271,6 @@ http://103.89.248.130:8082/LIVE-FOOTBALL/index.m3u8
 http://103.89.248.130:8082/LIVE-FOOTBALL-1/index.m3u8
 #EXTINF:-1 group-title="Sports",LIVE FOOTBALL 2
 http://103.89.248.130:8082/LIVE-FOOTBALL-2/index.m3u8
-
 #EXTINF:-1 group-title="Sports",BEIN SPORTS HD
 http://103.89.248.130:8082/Bein-hd/index.m3u8
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 2
