@@ -2,7 +2,7 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-ALLOW-CACHE:YES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-#EXTVLCOPT:http-referrer=http://iptvidn.com/
+#EXTVLCOPT:http-referrer=http://google.com/
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:live-caching=1000
@@ -49,7 +49,7 @@ http://103.89.248.130:8082/NEXUS-TV/index.m3u8
 http://103.89.248.130:8082/NEWS-24/index.m3u8
 #EXTINF:-1 group-title="News",SOMOY TV
 http://103.89.248.130:8082/SOMOY_TV/index.m3u8
-#EXTINF:-1 group-title="News",DBC News
+#EXTINF:-1 group-title="News",DBC NEWS
 http://103.89.248.130:8082/DBC-NEWS/index.m3u8
 #EXTINF:-1 group-title="News",JAMUNA TV
 http://103.89.248.130:8082/Jamuna/index.m3u8
@@ -178,6 +178,7 @@ http://103.89.248.130:8082/DISNEY-HINDI/index.m3u8
 #EXTINF:-1 group-title="Kids",CARTOON NETWORK HD PLUS
 http://103.89.248.130:8082/cn/index.m3u8
 #EXTINF:-1 group-title="Kids",POGO
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://103.89.248.130:8082/POGO/index.m3u8
 #######################
 
@@ -185,7 +186,21 @@ Religious Channels
 #EXTINF:-1 group-title="Religious",MADANI CHANNEL BANGLA HD
 http://103.89.248.130:8082/madani-channel-bangla/index.m3u8
 #######################
+MUSIC CHANNELS
 
+#######################
+#EXTINF:-1 group-title="Music",GAAN BANGLA
+http://103.89.248.130:8082/GAANBANGLA-TV/index.m3u8
+#EXTINF:-1 group-title="Music",SANGEET BANGLA
+http://103.89.248.130:8082/SANGEET-BANGLA/index.m3u8
+#EXTINF:-1 group-title="Music",9XM MUSIC
+http://103.89.248.130:8082/9XM/index.m3u8
+#EXTINF:-1 group-title="Music",9X JALWA
+http://103.89.248.130:8082/9X-JALWA/index.m3u8
+#EXTINF:-1 group-title="Music",B4U MUSIC
+http://103.89.248.130:8082/B4U-MUSIC/index.m3u8
+#EXTINF:-1 group-title="Music",XITE MUSIC
+http://103.89.248.130:8082/xite-music/index.m3u8
 DOCUMENTARY & INFO
 
 #######################
@@ -199,7 +214,7 @@ http://103.89.248.130:8082/National-geo-graphy-bangla/index.m3u8
 http://103.89.248.130:8082/nat-geo-wild/index.m3u8
 #EXTINF:-1 group-title="Documentary",DISCOVERY
 http://103.89.248.130:8082/DISCOVERY-HD/index.m3u8
-#EXTINF:-1 group-title="Documentary",DISCOVERY BANGLA HD
+#EXTINF:-1 group-title="Documentary",DISCOVERY HD
 http://103.89.248.130:8082/DISCOVERY-BANGLA/index.m3u8
 #EXTINF:-1 group-title="Documentary",DISCOVERY SCIENCE
 http://103.89.248.130:8082/Discovery-Science/index.m3u8
