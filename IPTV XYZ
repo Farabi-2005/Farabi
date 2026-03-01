@@ -159,7 +159,7 @@ http://103.89.248.130:8082/and-picture-HD/index.m3u8
 http://103.89.248.130:8082/sony-pix-hd/index.m3u8
 #EXTINF:-1 group-title="Movies",STAR MOVIES SELECT HD
 http://103.89.248.130:8082/STAR-MOVIES-SELECT/index.m3u8
-#EXTINF:-1 group-title="Movies",& FLIX
+#EXTINF:-1 group-title="Movies",& FLIX HD
 http://103.89.248.130:8082/AND-FLIX/index.m3u8
 #EXTINF:-1 group-title="Movies",HBO HD
 http://103.89.248.130:8082/HBO/index.m3u8
@@ -183,7 +183,7 @@ http://103.89.248.130:8082/RONGEEN-TV/index.m3u8
 http://103.89.248.130:8082/SONY-YAY/index.m3u8
 #EXTINF:-1 group-title="Kids",DISCOVERY KIDS
 http://103.89.248.130:8082/DISCOVERY-KIDS/index.m3u8
-#EXTINF:-1 group-title="Kids",DISNEY HINDI
+#EXTINF:-1 group-title="Kids",DISNEY CHANNEL
 http://103.89.248.130:8082/DISNEY-HINDI/index.m3u8
 #EXTINF:-1 group-title="Kids",CARTOON NETWORK HD PLUS
 http://103.89.248.130:8082/cn/index.m3u8
@@ -319,7 +319,7 @@ http://103.89.248.130:8082/SPORTS-18/index.m3u8
 http://103.89.248.130:8082/Eurosports/index.m3u8
 #EXTINF:-1 group-title="Sports",STAR SPORTS 3
 http://103.89.248.130:8082/Star-sport-3/index.m3u8
-#EXTINF:-1 group-title="Sports",A SPORTS
+#EXTINF:-1 group-title="Sports",A SPORTS HD
 http://103.89.248.130:8082/A-SPORTS/index.m3u8
 #EXTINF:-1 group-title="Sports",DUBAI SPORTS 2
 http://103.89.248.130:8082/DUBAI-SPORTS-2/index.m3u8
