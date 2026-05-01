@@ -28,8 +28,6 @@
 #EXTVLCOPT:skip-frames=true
 #######################
 
-NEWS CHANNELS
-
 #######################
 #EXTINF:-1 group-title="News",BTV
 http://103.89.248.130:8082/BTV/index.m3u8
@@ -84,8 +82,6 @@ http://103.89.248.130:8082/MOHONA-TV/index.m3u8
 
 #######################
 
-DRAMA & ENTERTAINMENT
-
 #######################
 #EXTINF:-1 group-title="Entertainment",STAR JALSHA HD
 http://103.89.248.130:8082/Star_jalsha/index.m3u8
@@ -127,8 +123,6 @@ http://103.89.248.130:8082/Hum-masala/index.m3u8
 http://103.89.248.130:8082/Hum-Sitarey/index.m3u8
 
 #######################
-
-MOVIE CHANNELS
 
 #######################
 #EXTINF:-1 group-title="Movies",STAR GOLD HD
@@ -172,8 +166,6 @@ http://103.89.248.130:8082/MN-Plus/index.m3u8
 
 #######################
 
-KIDS CHANNELS
-
 #######################
 #EXTINF:-1 group-title="Kids",DURANTA TV
 http://103.89.248.130:8082/DURONTO-TV/index.m3u8
@@ -190,12 +182,9 @@ http://103.89.248.130:8082/cn/index.m3u8
 #EXTINF:-1 group-title="Kids",POGO
 http://103.89.248.130:8082/POGO/index.m3u8
 #######################
-
-Religious Channels
 #EXTINF:-1 group-title="Religious",MADANI CHANNEL BANGLA HD
 http://103.89.248.130:8082/madani-channel-bangla/index.m3u8
 #######################
-MUSIC CHANNELS
 
 #######################
 #EXTINF:-1 group-title="Music",GAAN BANGLA
@@ -210,8 +199,6 @@ http://103.89.248.130:8082/9X-JALWA/index.m3u8
 http://103.89.248.130:8082/B4U-MUSIC/index.m3u8
 #EXTINF:-1 group-title="Music",XITE MUSIC
 http://103.89.248.130:8082/xite-music/index.m3u8
-DOCUMENTARY & INFO
-
 #######################
 #EXTINF:-1 group-title="Documentary",SONY BBC EARTH
 http://103.89.248.130:8082/BBC-Earth/index.m3u8
@@ -244,7 +231,6 @@ http://103.89.248.130:8082/LOVE-NATURE/index.m3u8
 #EXTINF:-1 group-title="Documentary",WILD EARTH TV
 http://103.89.248.130:8082/Wild-Earth/index.m3u8
 #######################
-INTERNATIONAL NEWS CHANNELS
 
 #######################
 #EXTINF:-1 group-title="International News",BBC NEWS
@@ -254,7 +240,6 @@ http://103.89.248.130:8082/CNN/index.m3u8
 #EXTINF:-1 group-title="International News",ZEE 24 GHANTA
 http://103.89.248.130:8082/ZEE-24-GHANTA/index.m3u8
 #######################
-# LIVE & SPORTS CHANNELS
 #######################
 #EXTINF:-1 group-title="Sports",BEIN SPORTS HD
 http://103.89.248.130:8082/Bein-hd/index.m3u8
