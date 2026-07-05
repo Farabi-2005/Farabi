@@ -30,7 +30,7 @@
 
 #######################
 #EXTINF:-1 group-title="News",BTV
-http://103.89.248.130:8082/BTV/index.m3u8
+http://100.64.32.2/play/Ja8q2EePtBmzmkf-LavGkuVq67wZ1DS9jKpH883Aodc/m3u8
 #EXTINF:-1 group-title="News",CHANNEL 24
 http://103.89.248.130:8082/Chanal24/index.m3u8
 #EXTINF:-1 group-title="Sports",GAZI TV
@@ -302,7 +302,7 @@ http://103.89.248.130:8082/dubai-sports-3/index.m3u8
 #EXTINF:-1 group-title="Sports",ESPN 1
 http://103.89.248.130:8082/ESPN-1/index.m3u8
 #EXTINF:-1 group-title="Sports",T SPORTS HD
-http://103.89.248.130:8082/T-SPORTS/index.m3u8
+http://100.64.32.2/play/Ja8q2EePtBmzmkf-LavGktFWpJVnQw0DetrGWKSsqIY/m3u8
 #EXTINF:-1 group-title="Sports",PTV SPORTS
 http://103.89.248.130:8082/PTV/index.m3u8
 #EXTINF:-1 group-title="Sports",AFGHAN SPORTS
